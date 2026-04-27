@@ -238,11 +238,27 @@ def main() -> int:
     panel = panel.merge(state_q[["state_hq", "quarter", "state_fed_spend_log"]],
                         on=["state_hq", "quarter"], how="left")
 
-    # Join CAR + earnings surprise.
+    # CAR: prefer SEC 8-K event panel (multi-decade) when available.
+    sec_panel = DATA_DIR / "sec_event_panel.json"
+    if sec_panel.exists():
+        sec = json.loads(sec_panel.read_text(encoding="utf-8")).get("rows", [])
+        if sec:
+            sec_df = pd.DataFrame(sec)
+            panel = panel.merge(
+                sec_df[["ticker", "quarter", "event_car_3d", "forward_car_3m"]],
+                on=["ticker", "quarter"], how="left",
+            )
+    elif False:
+        pass
+
+    # Surprise still from yfinance (SEC panel has no EPS estimate).
     fq = load_firm_quarter_outcome()
-    if not fq.empty:
-        panel = panel.merge(fq[["ticker", "quarter", "surprise_pct", "event_car_3d", "forward_car_3m"]],
-                            on=["ticker", "quarter"], how="left")
+    if not fq.empty and "surprise_pct" in fq.columns:
+        # Only merge surprise_pct; CAR already comes from SEC panel.
+        cols = ["ticker", "quarter", "surprise_pct"]
+        if "event_car_3d" not in panel.columns:
+            cols += ["event_car_3d", "forward_car_3m"]
+        panel = panel.merge(fq[cols], on=["ticker", "quarter"], how="left")
     # Drop OTH (foreign HQ) for state-FE consistency
     n_before = len(panel)
     panel_dom = panel[panel["state_hq"] != "OTH"]

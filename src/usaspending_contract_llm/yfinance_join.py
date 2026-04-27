@@ -40,8 +40,10 @@ CAR_JSON = DATA_DIR / "yfinance_car.json"
 # Sector hedge ETFs.
 HEDGE_TICKERS = ("XAR", "XLK")
 
-# Window for the full sample.
-START_DATE = "2009-01-01"
+# Window for the full sample. Extended back to 2000 (Gate F lifted 2026-04-28
+# allowed SEC EDGAR 8-K event windows back to 2004; XAR ETF launched 2011 so
+# pre-2011 events get dropped during CAR computation when hedge price NaN).
+START_DATE = "2000-01-01"
 END_DATE = "2026-04-26"
 
 

@@ -159,6 +159,19 @@ def quintile_sort(panel: pd.DataFrame) -> pd.DataFrame:
 
 
 def join_with_car(panel: pd.DataFrame) -> pd.DataFrame:
+    """Prefer the SEC 8-K event panel (sec_event_panel.json) when available --
+    it has multi-decade coverage. Fall back to yfinance CAR (5yr cap) only if
+    the SEC panel is missing.
+    """
+    sec_panel = DATA_DIR / "sec_event_panel.json"
+    if sec_panel.exists():
+        sec = json.loads(sec_panel.read_text(encoding="utf-8")).get("rows", [])
+        if sec:
+            sec_df = pd.DataFrame(sec)
+            return panel.merge(
+                sec_df[["ticker", "quarter", "event_car_3d", "forward_car_3m"]],
+                on=["ticker", "quarter"], how="left",
+            )
     if not CAR_JSON.exists():
         return panel.assign(event_car_3d=np.nan, forward_car_3m=np.nan)
     car = json.loads(CAR_JSON.read_text(encoding="utf-8")).get("car", [])

@@ -65,20 +65,7 @@
       "Bash(git push -f:*)",
       "Bash(git branch -D:*)",
 
-      "WebFetch(domain:data.sec.gov)",
-      "WebFetch(domain:efts.sec.gov)",
-      "WebFetch(domain:www.sec.gov)",
-
-      "mcp__sec_*",
-      "mcp__edgar_*",
-      "mcp__sec-edgar_*",
-      "Bash(curl*data.sec.gov:*)",
-      "Bash(curl*efts.sec.gov:*)",
-      "Bash(curl*www.sec.gov:*)",
-      "Bash(wget*data.sec.gov:*)",
-      "Bash(wget*efts.sec.gov:*)",
-      "Bash(wget*www.sec.gov:*)",
-      "Bash(python*sec_client*)",
+      "_note_gate_f_lifted": "2026-04-28 user decision: Gate F lifted. SEC EDGAR submissions/filings API allowed. SEC daemon (shared queue) still avoid; only synchronous WebFetch/httpx with proper User-Agent.",
 
       "Edit(D:/vscode/portfolio-coordination/scripts/**)",
       "Write(D:/vscode/portfolio-coordination/scripts/**)",

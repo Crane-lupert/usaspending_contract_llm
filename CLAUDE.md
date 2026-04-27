@@ -25,7 +25,7 @@ USAspending.gov API 의 federal contract obligation text → 3-vendor LLM ensemb
 - yfinance (price + quarterly earnings, free)
 - OpenRouter: `shared_utils.openrouter_client.OpenRouterClient(project="usaspending_contract_llm")`, project cap=$35 (max=8). Coord registered 2026-04-27T21:30 (mailbox in_reply_to `20260427T1604-usaspending_contract_llm-001`).
 - Atomic IO: `shared_utils.atomic_io.atomic_write_json + FileLock`
-- **SEC daemon 사용 X** (Gate F ✓). filer_ontology / daemon-capacity-probe 도 미사용
+- **SEC EDGAR submissions/filings API 사용 (Gate F LIFTED 2026-04-28 사용자 결정)** — 8-K filed_date event window + 10-Q quarterly data (free, public, rate-limit 10rps + User-Agent header). daemon 형태 *아님* (synchronous WebFetch/httpx, no shared queue). filer_ontology 도 활용 가능.
 - 체크포인트: 매일 `portfolio-coordination/checkpoints/<date>/usaspending.md`
 - Mailbox: `D:/vscode/portfolio-coordination/mailbox/usaspending_contract_llm/`
 

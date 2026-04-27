@@ -1,16 +1,16 @@
 {
-  "naive_sharpe_annualized": -0.0209,
-  "naive_t_stat": -0.0443,
-  "n_quarters": 18,
+  "naive_sharpe_annualized": -0.2138,
+  "naive_t_stat": -0.756,
+  "n_quarters": 50,
   "cohort_lt_24h": {
     "2014": 0.35,
     "2018": 0.65,
     "2024": 0.75
   },
   "pooled_lt_24h_fraction": 0.5833,
-  "realistic_sharpe_pooled": -0.0087,
-  "realistic_sharpe_2024_only": -0.0052,
-  "realistic_t_pooled": -0.0185,
-  "delta_sharpe_naive_minus_pooled": -0.0122,
-  "interpretation": "First-order industry-absorption haircut: realistic-Sharpe = naive-Sharpe x (1 - lt_24h_fraction). Cohort-pooled lt_24h = 58.33%. Naive-vs-realistic gap = -0.0122. Note: this is a proxy. True per-award realistic backtest needs the publish_date stamp on each award + price tick at publish."
+  "realistic_sharpe_pooled": -0.0891,
+  "realistic_sharpe_2024_only": -0.0534,
+  "realistic_t_pooled": -0.315,
+  "delta_sharpe_naive_minus_pooled": -0.1247,
+  "interpretation": "First-order industry-absorption haircut: realistic-Sharpe = naive-Sharpe x (1 - lt_24h_fraction). Cohort-pooled lt_24h = 58.33%. Naive-vs-realistic gap = -0.1247. Note: this is a proxy. True per-award realistic backtest needs the publish_date stamp on each award + price tick at publish."
 }

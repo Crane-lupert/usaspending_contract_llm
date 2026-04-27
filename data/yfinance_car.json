@@ -23,7 +23,7 @@
       "earnings_date": "2020-12-17T06:00:00-05:00",
       "surprise_pct": 5.95,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.096414,
+      "event_car_3d": 0.096413,
       "forward_car_3m": -0.105832,
       "hedge": "XAR"
     },
@@ -41,7 +41,7 @@
       "earnings_date": "2021-06-24T06:00:00-04:00",
       "surprise_pct": 7.32,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.000993,
+      "event_car_3d": 0.000994,
       "forward_car_3m": 0.272681,
       "hedge": "XAR"
     },
@@ -51,7 +51,7 @@
       "surprise_pct": 0.68,
       "surprise_source": "yfinance_native",
       "event_car_3d": -0.009595,
-      "forward_car_3m": 0.202783,
+      "forward_car_3m": 0.202782,
       "hedge": "XAR"
     },
     {
@@ -60,7 +60,7 @@
       "surprise_pct": 5.79,
       "surprise_source": "yfinance_native",
       "event_car_3d": 0.066267,
-      "forward_car_3m": -0.303812,
+      "forward_car_3m": -0.303811,
       "hedge": "XAR"
     },
     {
@@ -77,7 +77,7 @@
       "earnings_date": "2022-06-23T06:00:00-04:00",
       "surprise_pct": 2.31,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.03295,
+      "event_car_3d": 0.032951,
       "forward_car_3m": -0.072563,
       "hedge": "XAR"
     },
@@ -104,7 +104,7 @@
       "earnings_date": "2023-03-23T06:00:00-04:00",
       "surprise_pct": -4.36,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.068034,
+      "event_car_3d": 0.068035,
       "forward_car_3m": 0.047569,
       "hedge": "XAR"
     },
@@ -174,9 +174,9 @@
     {
       "ticker": "ACN",
       "earnings_date": "2025-03-20T06:00:00-04:00",
-      "surprise_pct": 1.11,
+      "surprise_pct": 0.25,
       "surprise_source": "yfinance_native",
-      "event_car_3d": -0.065655,
+      "event_car_3d": -0.065654,
       "forward_car_3m": -0.236812,
       "hedge": "XAR"
     },
@@ -201,7 +201,7 @@
     {
       "ticker": "ACN",
       "earnings_date": "2025-12-18T06:00:00-05:00",
-      "surprise_pct": 4.27,
+      "surprise_pct": 5.87,
       "surprise_source": "yfinance_native",
       "event_car_3d": -0.035547,
       "forward_car_3m": -0.408903,
@@ -228,7 +228,7 @@
     {
       "ticker": "AMTM",
       "earnings_date": "2025-05-06T16:00:00-04:00",
-      "surprise_pct": -71.43,
+      "surprise_pct": 12.37,
       "surprise_source": "yfinance_native",
       "event_car_3d": -0.034456,
       "forward_car_3m": 0.013469,
@@ -293,7 +293,7 @@
       "earnings_date": "2021-06-29T16:00:00-04:00",
       "surprise_pct": 27.76,
       "surprise_source": "yfinance_native",
-      "event_car_3d": -0.080921,
+      "event_car_3d": -0.08092,
       "forward_car_3m": -0.039101,
       "hedge": "XAR"
     },
@@ -321,7 +321,7 @@
       "surprise_pct": 7.26,
       "surprise_source": "yfinance_native",
       "event_car_3d": 0.133004,
-      "forward_car_3m": 0.407438,
+      "forward_car_3m": 0.407437,
       "hedge": "XAR"
     },
     {
@@ -339,7 +339,7 @@
       "surprise_pct": -184.51,
       "surprise_source": "yfinance_native",
       "event_car_3d": 0.097643,
-      "forward_car_3m": -0.220799,
+      "forward_car_3m": -0.220798,
       "hedge": "XAR"
     },
     {
@@ -348,7 +348,7 @@
       "surprise_pct": -100.0,
       "surprise_source": "yfinance_native",
       "event_car_3d": -0.051647,
-      "forward_car_3m": 0.041715,
+      "forward_car_3m": 0.041714,
       "hedge": "XAR"
     },
     {
@@ -356,7 +356,7 @@
       "earnings_date": "2023-03-06T16:00:00-05:00",
       "surprise_pct": -23.55,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.066286,
+      "event_car_3d": 0.066287,
       "forward_car_3m": 0.1317,
       "hedge": "XAR"
     },
@@ -366,7 +366,7 @@
       "surprise_pct": -1.2,
       "surprise_source": "yfinance_native",
       "event_car_3d": 0.073193,
-      "forward_car_3m": 0.248923,
+      "forward_car_3m": 0.248924,
       "hedge": "XAR"
     },
     {
@@ -482,7 +482,7 @@
       "earnings_date": "2021-01-27T07:00:00-05:00",
       "surprise_pct": -825.97,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.010025,
+      "event_car_3d": 0.010026,
       "forward_car_3m": 0.089774,
       "hedge": "XAR"
     },
@@ -491,8 +491,8 @@
       "earnings_date": "2021-04-28T12:00:00-04:00",
       "surprise_pct": -41.01,
       "surprise_source": "yfinance_native",
-      "event_car_3d": -0.032886,
-      "forward_car_3m": -0.009808,
+      "event_car_3d": -0.032885,
+      "forward_car_3m": -0.009809,
       "hedge": "XAR"
     },
     {
@@ -518,7 +518,7 @@
       "earnings_date": "2022-01-26T07:00:00-05:00",
       "surprise_pct": -4731.92,
       "surprise_source": "yfinance_native",
-      "event_car_3d": -0.013464,
+      "event_car_3d": -0.013463,
       "forward_car_3m": -0.251775,
       "hedge": "XAR"
     },
@@ -617,7 +617,7 @@
       "earnings_date": "2024-10-23T07:00:00-04:00",
       "surprise_pct": -19.66,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.003474,
+      "event_car_3d": 0.003473,
       "forward_car_3m": 0.020409,
       "hedge": "XAR"
     },
@@ -672,7 +672,7 @@
       "surprise_pct": 8.31,
       "surprise_source": "yfinance_native",
       "event_car_3d": 0.08059,
-      "forward_car_3m": -0.080107,
+      "forward_car_3m": -0.080108,
       "hedge": "XAR"
     },
     {
@@ -680,7 +680,7 @@
       "earnings_date": "2020-10-30T06:00:00-04:00",
       "surprise_pct": 12.23,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.046339,
+      "event_car_3d": 0.046338,
       "forward_car_3m": -0.257966,
       "hedge": "XAR"
     },
@@ -717,7 +717,7 @@
       "surprise_pct": 16.73,
       "surprise_source": "yfinance_native",
       "event_car_3d": 0.085314,
-      "forward_car_3m": -0.03824,
+      "forward_car_3m": -0.038241,
       "hedge": "XAR"
     },
     {
@@ -734,7 +734,7 @@
       "earnings_date": "2022-05-20T06:00:00-04:00",
       "surprise_pct": 1.16,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.026758,
+      "event_car_3d": 0.026759,
       "forward_car_3m": 0.165058,
       "hedge": "XAR"
     },
@@ -743,7 +743,7 @@
       "earnings_date": "2022-07-29T06:00:00-04:00",
       "surprise_pct": 6.86,
       "surprise_source": "yfinance_native",
-      "event_car_3d": -0.032761,
+      "event_car_3d": -0.03276,
       "forward_car_3m": 0.123345,
       "hedge": "XAR"
     },
@@ -797,8 +797,8 @@
       "earnings_date": "2024-01-26T06:00:00-05:00",
       "surprise_pct": 21.45,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.117796,
-      "forward_car_3m": -0.053995,
+      "event_car_3d": 0.117797,
+      "forward_car_3m": -0.053996,
       "hedge": "XAR"
     },
     {
@@ -806,8 +806,8 @@
       "earnings_date": "2024-05-24T06:00:00-04:00",
       "surprise_pct": 8.31,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.015137,
-      "forward_car_3m": -0.081259,
+      "event_car_3d": 0.015138,
+      "forward_car_3m": -0.081258,
       "hedge": "XAR"
     },
     {
@@ -824,7 +824,7 @@
       "earnings_date": "2024-10-25T06:00:00-04:00",
       "surprise_pct": 21.69,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.139694,
+      "event_car_3d": 0.139695,
       "forward_car_3m": -0.424975,
       "hedge": "XAR"
     },
@@ -851,8 +851,8 @@
       "earnings_date": "2025-07-25T06:00:00-04:00",
       "surprise_pct": 61.97,
       "surprise_source": "yfinance_native",
-      "event_car_3d": -0.074181,
-      "forward_car_3m": -0.224837,
+      "event_car_3d": -0.074182,
+      "forward_car_3m": -0.224836,
       "hedge": "XAR"
     },
     {
@@ -879,7 +879,7 @@
       "surprise_pct": 6.15,
       "surprise_source": "yfinance_native",
       "event_car_3d": 0.080307,
-      "forward_car_3m": -0.02975,
+      "forward_car_3m": -0.029751,
       "hedge": "XAR"
     },
     {
@@ -887,8 +887,8 @@
       "earnings_date": "2020-10-28T16:00:00-04:00",
       "surprise_pct": 20.41,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.055356,
-      "forward_car_3m": -0.140513,
+      "event_car_3d": 0.055355,
+      "forward_car_3m": -0.140514,
       "hedge": "XAR"
     },
     {
@@ -933,7 +933,7 @@
       "surprise_pct": -1.33,
       "surprise_source": "yfinance_native",
       "event_car_3d": -0.048119,
-      "forward_car_3m": 0.020139,
+      "forward_car_3m": 0.020138,
       "hedge": "XAR"
     },
     {
@@ -959,7 +959,7 @@
       "earnings_date": "2022-10-26T16:00:00-04:00",
       "surprise_pct": 2.48,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.057688,
+      "event_car_3d": 0.057687,
       "forward_car_3m": -0.088059,
       "hedge": "XAR"
     },
@@ -977,7 +977,7 @@
       "earnings_date": "2023-04-26T16:00:00-04:00",
       "surprise_pct": 5.67,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.02852,
+      "event_car_3d": 0.028521,
       "forward_car_3m": 0.034702,
       "hedge": "XAR"
     },
@@ -1094,7 +1094,7 @@
       "earnings_date": "2020-08-03T16:00:00-04:00",
       "surprise_pct": 2.56,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.056252,
+      "event_car_3d": 0.056251,
       "forward_car_3m": -0.070067,
       "hedge": "XAR"
     },
@@ -1103,7 +1103,7 @@
       "earnings_date": "2020-10-28T17:00:00-04:00",
       "surprise_pct": 20.41,
       "surprise_source": "yfinance_native",
-      "event_car_3d": -0.012315,
+      "event_car_3d": -0.012314,
       "forward_car_3m": -0.035703,
       "hedge": "XAR"
     },
@@ -1112,7 +1112,7 @@
       "earnings_date": "2021-02-24T17:00:00-05:00",
       "surprise_pct": 2.36,
       "surprise_source": "yfinance_native",
-      "event_car_3d": -0.026134,
+      "event_car_3d": -0.026133,
       "forward_car_3m": 0.064153,
       "hedge": "XAR"
     },
@@ -1121,7 +1121,7 @@
       "earnings_date": "2021-05-05T16:00:00-04:00",
       "surprise_pct": 16.09,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.028257,
+      "event_car_3d": 0.028258,
       "forward_car_3m": -0.055858,
       "hedge": "XAR"
     },
@@ -1158,7 +1158,7 @@
       "surprise_pct": 9.44,
       "surprise_source": "yfinance_native",
       "event_car_3d": 0.010288,
-      "forward_car_3m": 0.084224,
+      "forward_car_3m": 0.084225,
       "hedge": "XAR"
     },
     {
@@ -1166,8 +1166,8 @@
       "earnings_date": "2022-08-03T17:00:00-04:00",
       "surprise_pct": 8.28,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.034786,
-      "forward_car_3m": 0.17587,
+      "event_car_3d": 0.034787,
+      "forward_car_3m": 0.175871,
       "hedge": "XAR"
     },
     {
@@ -1229,7 +1229,7 @@
       "earnings_date": "2024-05-01T16:00:00-04:00",
       "surprise_pct": 15.43,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.031973,
+      "event_car_3d": 0.031974,
       "forward_car_3m": 0.014485,
       "hedge": "XAR"
     },
@@ -1310,7 +1310,7 @@
       "earnings_date": "2020-11-24T16:00:00-05:00",
       "surprise_pct": 42.91,
       "surprise_source": "yfinance_native",
-      "event_car_3d": -0.010395,
+      "event_car_3d": -0.010396,
       "forward_car_3m": 0.071277,
       "hedge": "XAR"
     },
@@ -1365,7 +1365,7 @@
       "surprise_pct": 31.17,
       "surprise_source": "yfinance_native",
       "event_car_3d": 0.11446,
-      "forward_car_3m": -0.154388,
+      "forward_car_3m": -0.154387,
       "hedge": "XAR"
     },
     {
@@ -1454,7 +1454,7 @@
       "earnings_date": "2024-11-26T16:00:00-05:00",
       "surprise_pct": 4.25,
       "surprise_source": "yfinance_native",
-      "event_car_3d": -0.136747,
+      "event_car_3d": -0.136746,
       "forward_car_3m": -0.175594,
       "hedge": "XAR"
     },
@@ -1500,7 +1500,7 @@
       "surprise_pct": -293.03,
       "surprise_source": "yfinance_native",
       "event_car_3d": -0.048535,
-      "forward_car_3m": 0.262298,
+      "forward_car_3m": 0.262299,
       "hedge": "XAR"
     },
     {
@@ -1536,7 +1536,7 @@
       "surprise_pct": 321.46,
       "surprise_source": "yfinance_native",
       "event_car_3d": -0.073169,
-      "forward_car_3m": 0.262017,
+      "forward_car_3m": 0.262016,
       "hedge": "XAR"
     },
     {
@@ -1544,7 +1544,7 @@
       "earnings_date": "2021-07-28T16:00:00-04:00",
       "surprise_pct": 301.85,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.009965,
+      "event_car_3d": 0.009964,
       "forward_car_3m": 0.15771,
       "hedge": "XAR"
     },
@@ -1562,7 +1562,7 @@
       "earnings_date": "2022-02-03T16:00:00-05:00",
       "surprise_pct": -37.28,
       "surprise_source": "yfinance_native",
-      "event_car_3d": -0.13557,
+      "event_car_3d": -0.135569,
       "forward_car_3m": -0.218818,
       "hedge": "XAR"
     },
@@ -1643,7 +1643,7 @@
       "earnings_date": "2024-04-24T16:00:00-04:00",
       "surprise_pct": 12.16,
       "surprise_source": "yfinance_native",
-      "event_car_3d": -0.018449,
+      "event_car_3d": -0.01845,
       "forward_car_3m": -0.218154,
       "hedge": "XAR"
     },
@@ -1677,7 +1677,7 @@
     {
       "ticker": "F",
       "earnings_date": "2025-05-05T16:00:00-04:00",
-      "surprise_pct": 549.35,
+      "surprise_pct": 556.97,
       "surprise_source": "yfinance_native",
       "event_car_3d": 0.011277,
       "forward_car_3m": -0.122747,
@@ -1724,7 +1724,7 @@
       "earnings_date": "2020-12-10T07:00:00-05:00",
       "surprise_pct": -46.09,
       "surprise_source": "yfinance_native",
-      "event_car_3d": -0.092091,
+      "event_car_3d": -0.092092,
       "forward_car_3m": 0.197332,
       "hedge": "XAR"
     },
@@ -1851,7 +1851,7 @@
       "surprise_pct": -11.54,
       "surprise_source": "yfinance_native",
       "event_car_3d": -0.068487,
-      "forward_car_3m": 0.169061,
+      "forward_car_3m": 0.16906,
       "hedge": "XAR"
     },
     {
@@ -1914,7 +1914,7 @@
       "surprise_pct": -1.18,
       "surprise_source": "yfinance_native",
       "event_car_3d": -0.062689,
-      "forward_car_3m": 0.063407,
+      "forward_car_3m": 0.063408,
       "hedge": "XAR"
     },
     {
@@ -1940,8 +1940,8 @@
       "earnings_date": "2021-01-27T07:00:00-05:00",
       "surprise_pct": -1.44,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.022094,
-      "forward_car_3m": 0.078203,
+      "event_car_3d": 0.022095,
+      "forward_car_3m": 0.078204,
       "hedge": "XAR"
     },
     {
@@ -1958,7 +1958,7 @@
       "earnings_date": "2021-07-28T07:00:00-04:00",
       "surprise_pct": 2.83,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.021863,
+      "event_car_3d": 0.021864,
       "forward_car_3m": 0.104486,
       "hedge": "XAR"
     },
@@ -1995,7 +1995,7 @@
       "surprise_pct": 1.18,
       "surprise_source": "yfinance_native",
       "event_car_3d": -0.001653,
-      "forward_car_3m": 0.125893,
+      "forward_car_3m": 0.125894,
       "hedge": "XAR"
     },
     {
@@ -2003,7 +2003,7 @@
       "earnings_date": "2022-10-26T07:00:00-04:00",
       "surprise_pct": 3.67,
       "surprise_source": "yfinance_native",
-      "event_car_3d": -0.000118,
+      "event_car_3d": -0.000119,
       "forward_car_3m": -0.20824,
       "hedge": "XAR"
     },
@@ -2049,7 +2049,7 @@
       "surprise_pct": 0.68,
       "surprise_source": "yfinance_native",
       "event_car_3d": 0.076648,
-      "forward_car_3m": 0.046593,
+      "forward_car_3m": 0.046592,
       "hedge": "XAR"
     },
     {
@@ -2067,7 +2067,7 @@
       "surprise_pct": -1.99,
       "surprise_source": "yfinance_native",
       "event_car_3d": -0.012835,
-      "forward_car_3m": -0.026755,
+      "forward_car_3m": -0.026754,
       "hedge": "XAR"
     },
     {
@@ -2120,8 +2120,8 @@
       "earnings_date": "2020-07-29T06:00:00-04:00",
       "surprise_pct": -66.42,
       "surprise_source": "yfinance_native",
-      "event_car_3d": -0.062647,
-      "forward_car_3m": 0.087634,
+      "event_car_3d": -0.062648,
+      "forward_car_3m": 0.087635,
       "hedge": "XAR"
     },
     {
@@ -2156,8 +2156,8 @@
       "earnings_date": "2021-07-27T06:00:00-04:00",
       "surprise_pct": 49.58,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.022639,
-      "forward_car_3m": 0.038653,
+      "event_car_3d": 0.022638,
+      "forward_car_3m": 0.038652,
       "hedge": "XAR"
     },
     {
@@ -2165,7 +2165,7 @@
       "earnings_date": "2021-10-26T06:00:00-04:00",
       "surprise_pct": 30.03,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.031873,
+      "event_car_3d": 0.031874,
       "forward_car_3m": -0.084698,
       "hedge": "XAR"
     },
@@ -2202,7 +2202,7 @@
       "surprise_pct": -28.12,
       "surprise_source": "yfinance_native",
       "event_car_3d": 0.023629,
-      "forward_car_3m": 0.242428,
+      "forward_car_3m": 0.242429,
       "hedge": "XAR"
     },
     {
@@ -2210,8 +2210,8 @@
       "earnings_date": "2023-01-24T06:00:00-05:00",
       "surprise_pct": 6.97,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.015777,
-      "forward_car_3m": 0.207216,
+      "event_car_3d": 0.015776,
+      "forward_car_3m": 0.207215,
       "hedge": "XAR"
     },
     {
@@ -2220,7 +2220,7 @@
       "surprise_pct": 97.56,
       "surprise_source": "yfinance_native",
       "event_car_3d": -0.001277,
-      "forward_car_3m": 0.083042,
+      "forward_car_3m": 0.083043,
       "hedge": "XAR"
     },
     {
@@ -2255,7 +2255,7 @@
       "earnings_date": "2024-04-23T06:00:00-04:00",
       "surprise_pct": 16.42,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.057827,
+      "event_car_3d": 0.057826,
       "forward_car_3m": -0.066531,
       "hedge": "XAR"
     },
@@ -2291,7 +2291,7 @@
       "earnings_date": "2025-04-22T06:00:00-04:00",
       "surprise_pct": 17.51,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.060682,
+      "event_car_3d": 0.060681,
       "forward_car_3m": 0.008697,
       "hedge": "XAR"
     },
@@ -2300,7 +2300,7 @@
       "earnings_date": "2025-07-17T06:00:00-04:00",
       "surprise_pct": 15.97,
       "surprise_source": "yfinance_native",
-      "event_car_3d": -0.040383,
+      "event_car_3d": -0.040382,
       "forward_car_3m": 0.060768,
       "hedge": "XAR"
     },
@@ -2336,7 +2336,7 @@
       "earnings_date": "2020-07-29T07:00:00-04:00",
       "surprise_pct": 4.03,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.081364,
+      "event_car_3d": 0.081363,
       "forward_car_3m": -0.098845,
       "hedge": "XAR"
     },
@@ -2382,7 +2382,7 @@
       "surprise_pct": 3.5,
       "surprise_source": "yfinance_native",
       "event_car_3d": -0.000995,
-      "forward_car_3m": 0.070736,
+      "forward_car_3m": 0.070735,
       "hedge": "XAR"
     },
     {
@@ -2409,7 +2409,7 @@
       "surprise_pct": 0.54,
       "surprise_source": "yfinance_native",
       "event_car_3d": -0.013642,
-      "forward_car_3m": -0.056854,
+      "forward_car_3m": -0.056853,
       "hedge": "XAR"
     },
     {
@@ -2417,7 +2417,7 @@
       "earnings_date": "2022-11-09T06:00:00-05:00",
       "surprise_pct": 0.9,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.016824,
+      "event_car_3d": 0.016825,
       "forward_car_3m": 0.053859,
       "hedge": "XAR"
     },
@@ -2463,7 +2463,7 @@
       "surprise_pct": 0.6,
       "surprise_source": "yfinance_native",
       "event_car_3d": 0.045698,
-      "forward_car_3m": -0.173147,
+      "forward_car_3m": -0.173148,
       "hedge": "XAR"
     },
     {
@@ -2471,7 +2471,7 @@
       "earnings_date": "2024-05-01T06:00:00-04:00",
       "surprise_pct": 1.06,
       "surprise_source": "yfinance_native",
-      "event_car_3d": -0.007667,
+      "event_car_3d": -0.007666,
       "forward_car_3m": 0.036396,
       "hedge": "XAR"
     },
@@ -2487,7 +2487,7 @@
     {
       "ticker": "GIB",
       "earnings_date": "2024-11-06T06:00:00-05:00",
-      "surprise_pct": 0.59,
+      "surprise_pct": 0.71,
       "surprise_source": "yfinance_native",
       "event_car_3d": -0.043007,
       "forward_car_3m": -0.007265,
@@ -2514,7 +2514,7 @@
     {
       "ticker": "GIB",
       "earnings_date": "2025-07-30T06:00:00-04:00",
-      "surprise_pct": -2.8,
+      "surprise_pct": 0.99,
       "surprise_source": "yfinance_native",
       "event_car_3d": -0.017359,
       "forward_car_3m": -0.232974,
@@ -2571,7 +2571,7 @@
       "surprise_pct": 114.21,
       "surprise_source": "yfinance_native",
       "event_car_3d": 0.049546,
-      "forward_car_3m": -0.069608,
+      "forward_car_3m": -0.069607,
       "hedge": "XAR"
     },
     {
@@ -2597,7 +2597,7 @@
       "earnings_date": "2022-02-01T16:00:00-05:00",
       "surprise_pct": 17.31,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.008059,
+      "event_car_3d": 0.008058,
       "forward_car_3m": -0.296828,
       "hedge": "XAR"
     },
@@ -2616,7 +2616,7 @@
       "surprise_pct": -13.5,
       "surprise_source": "yfinance_native",
       "event_car_3d": -0.007702,
-      "forward_car_3m": 0.094336,
+      "forward_car_3m": 0.094337,
       "hedge": "XAR"
     },
     {
@@ -2624,8 +2624,8 @@
       "earnings_date": "2022-10-25T06:00:00-04:00",
       "surprise_pct": 19.63,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.067074,
-      "forward_car_3m": -0.1215,
+      "event_car_3d": 0.067075,
+      "forward_car_3m": -0.121501,
       "hedge": "XAR"
     },
     {
@@ -2642,7 +2642,7 @@
       "earnings_date": "2023-04-25T06:00:00-04:00",
       "surprise_pct": 27.86,
       "surprise_source": "yfinance_native",
-      "event_car_3d": -0.007135,
+      "event_car_3d": -0.007136,
       "forward_car_3m": 0.086572,
       "hedge": "XAR"
     },
@@ -2661,7 +2661,7 @@
       "surprise_pct": 24.06,
       "surprise_source": "yfinance_native",
       "event_car_3d": -0.010488,
-      "forward_car_3m": 0.094678,
+      "forward_car_3m": 0.094677,
       "hedge": "XAR"
     },
     {
@@ -2669,7 +2669,7 @@
       "earnings_date": "2024-01-30T06:00:00-05:00",
       "surprise_pct": 8.78,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.104086,
+      "event_car_3d": 0.104085,
       "forward_car_3m": 0.114906,
       "hedge": "XAR"
     },
@@ -2741,7 +2741,7 @@
       "earnings_date": "2020-05-07T08:00:00-04:00",
       "surprise_pct": -6.38,
       "surprise_source": "yfinance_native",
-      "event_car_3d": -0.062201,
+      "event_car_3d": -0.0622,
       "forward_car_3m": -0.218497,
       "hedge": "XAR"
     },
@@ -2751,7 +2751,7 @@
       "surprise_pct": -68.58,
       "surprise_source": "yfinance_native",
       "event_car_3d": -0.064889,
-      "forward_car_3m": -0.056959,
+      "forward_car_3m": -0.056958,
       "hedge": "XAR"
     },
     {
@@ -2768,8 +2768,8 @@
       "earnings_date": "2021-02-11T07:00:00-05:00",
       "surprise_pct": 35.88,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.051376,
-      "forward_car_3m": 0.273274,
+      "event_car_3d": 0.051375,
+      "forward_car_3m": 0.273273,
       "hedge": "XAR"
     },
     {
@@ -2778,7 +2778,7 @@
       "surprise_pct": 39.53,
       "surprise_source": "yfinance_native",
       "event_car_3d": 0.007246,
-      "forward_car_3m": -0.056428,
+      "forward_car_3m": -0.056429,
       "hedge": "XAR"
     },
     {
@@ -2795,7 +2795,7 @@
       "earnings_date": "2021-11-04T07:00:00-04:00",
       "surprise_pct": 19.15,
       "surprise_source": "yfinance_native",
-      "event_car_3d": -0.074219,
+      "event_car_3d": -0.074218,
       "forward_car_3m": 0.054339,
       "hedge": "XAR"
     },
@@ -2805,7 +2805,7 @@
       "surprise_pct": -4.46,
       "surprise_source": "yfinance_native",
       "event_car_3d": -0.009726,
-      "forward_car_3m": 0.233098,
+      "forward_car_3m": 0.233099,
       "hedge": "XAR"
     },
     {
@@ -2840,7 +2840,7 @@
       "earnings_date": "2023-02-09T07:00:00-05:00",
       "surprise_pct": -6.5,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.00209,
+      "event_car_3d": 0.002091,
       "forward_car_3m": -0.070535,
       "hedge": "XAR"
     },
@@ -2885,7 +2885,7 @@
       "earnings_date": "2024-05-02T07:00:00-04:00",
       "surprise_pct": 11.35,
       "surprise_source": "yfinance_native",
-      "event_car_3d": -0.135476,
+      "event_car_3d": -0.135475,
       "forward_car_3m": 0.041093,
       "hedge": "XAR"
     },
@@ -2948,7 +2948,7 @@
       "earnings_date": "2020-07-24T06:00:00-04:00",
       "surprise_pct": 1.66,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.00805,
+      "event_car_3d": 0.008051,
       "forward_car_3m": 0.123656,
       "hedge": "XAR"
     },
@@ -2967,7 +2967,7 @@
       "surprise_pct": 3.5,
       "surprise_source": "yfinance_native",
       "event_car_3d": -0.025807,
-      "forward_car_3m": -0.006133,
+      "forward_car_3m": -0.006132,
       "hedge": "XAR"
     },
     {
@@ -3011,7 +3011,7 @@
       "earnings_date": "2022-04-29T06:00:00-04:00",
       "surprise_pct": 2.58,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.065142,
+      "event_car_3d": 0.065141,
       "forward_car_3m": 0.011698,
       "hedge": "XAR"
     },
@@ -3020,8 +3020,8 @@
       "earnings_date": "2022-07-28T06:00:00-04:00",
       "surprise_pct": 3.6,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.006304,
-      "forward_car_3m": 0.045476,
+      "event_car_3d": 0.006303,
+      "forward_car_3m": 0.045475,
       "hedge": "XAR"
     },
     {
@@ -3030,7 +3030,7 @@
       "surprise_pct": 4.61,
       "surprise_source": "yfinance_native",
       "event_car_3d": 0.049591,
-      "forward_car_3m": -0.06273,
+      "forward_car_3m": -0.062729,
       "hedge": "XAR"
     },
     {
@@ -3047,7 +3047,7 @@
       "earnings_date": "2023-04-27T06:00:00-04:00",
       "surprise_pct": 7.43,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.018477,
+      "event_car_3d": 0.018478,
       "forward_car_3m": -0.089682,
       "hedge": "XAR"
     },
@@ -3056,7 +3056,7 @@
       "earnings_date": "2023-07-27T06:00:00-04:00",
       "surprise_pct": 0.79,
       "surprise_source": "yfinance_native",
-      "event_car_3d": -0.076756,
+      "event_car_3d": -0.076755,
       "forward_car_3m": -0.02272,
       "hedge": "XAR"
     },
@@ -3075,7 +3075,7 @@
       "surprise_pct": 0.33,
       "surprise_source": "yfinance_native",
       "event_car_3d": -0.049812,
-      "forward_car_3m": -0.07505,
+      "forward_car_3m": -0.075049,
       "hedge": "XAR"
     },
     {
@@ -3083,7 +3083,7 @@
       "earnings_date": "2024-04-25T06:00:00-04:00",
       "surprise_pct": 3.32,
       "surprise_source": "yfinance_native",
-      "event_car_3d": -0.020843,
+      "event_car_3d": -0.020844,
       "forward_car_3m": -0.047024,
       "hedge": "XAR"
     },
@@ -3101,7 +3101,7 @@
       "earnings_date": "2024-10-24T06:00:00-04:00",
       "surprise_pct": 3.08,
       "surprise_source": "yfinance_native",
-      "event_car_3d": -0.055269,
+      "event_car_3d": -0.055268,
       "forward_car_3m": -0.040258,
       "hedge": "XAR"
     },
@@ -3110,7 +3110,7 @@
       "earnings_date": "2025-02-06T06:00:00-05:00",
       "surprise_pct": 5.28,
       "surprise_source": "yfinance_native",
-      "event_car_3d": -0.073134,
+      "event_car_3d": -0.073133,
       "forward_car_3m": -0.004619,
       "hedge": "XAR"
     },
@@ -3137,7 +3137,7 @@
       "earnings_date": "2025-10-23T06:00:00-04:00",
       "surprise_pct": 9.87,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.008932,
+      "event_car_3d": 0.008931,
       "forward_car_3m": -0.06582,
       "hedge": "XAR"
     },
@@ -3165,7 +3165,7 @@
       "surprise_pct": 8.95,
       "surprise_source": "yfinance_native",
       "event_car_3d": -0.000454,
-      "forward_car_3m": 0.150975,
+      "forward_car_3m": 0.150976,
       "hedge": "XAR"
     },
     {
@@ -3219,7 +3219,7 @@
       "surprise_pct": -2.83,
       "surprise_source": "yfinance_native",
       "event_car_3d": -0.050526,
-      "forward_car_3m": -0.02374,
+      "forward_car_3m": -0.023741,
       "hedge": "XAR"
     },
     {
@@ -3227,7 +3227,7 @@
       "earnings_date": "2022-08-30T16:00:00-04:00",
       "surprise_pct": 0.11,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.013797,
+      "event_car_3d": 0.013798,
       "forward_car_3m": 0.166311,
       "hedge": "XAR"
     },
@@ -3308,8 +3308,8 @@
       "earnings_date": "2024-12-05T16:00:00-05:00",
       "surprise_pct": 3.78,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.102732,
-      "forward_car_3m": -0.363527,
+      "event_car_3d": 0.102733,
+      "forward_car_3m": -0.363526,
       "hedge": "XAR"
     },
     {
@@ -3336,13 +3336,13 @@
       "surprise_pct": 5.41,
       "surprise_source": "yfinance_native",
       "event_car_3d": 0.04145,
-      "forward_car_3m": -0.081198,
+      "forward_car_3m": -0.081199,
       "hedge": "XAR"
     },
     {
       "ticker": "HPE",
       "earnings_date": "2025-12-04T16:00:00-05:00",
-      "surprise_pct": -78.52,
+      "surprise_pct": 6.55,
       "surprise_source": "yfinance_native",
       "event_car_3d": 0.047078,
       "forward_car_3m": -0.27321,
@@ -3443,7 +3443,7 @@
       "earnings_date": "2023-01-25T16:00:00-05:00",
       "surprise_pct": -0.32,
       "surprise_source": "yfinance_native",
-      "event_car_3d": -0.069906,
+      "event_car_3d": -0.069905,
       "forward_car_3m": -0.024345,
       "hedge": "XAR"
     },
@@ -3479,7 +3479,7 @@
       "earnings_date": "2024-01-24T16:00:00-05:00",
       "surprise_pct": 1.86,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.088631,
+      "event_car_3d": 0.08863,
       "forward_car_3m": -0.14519,
       "hedge": "XAR"
     },
@@ -3488,7 +3488,7 @@
       "earnings_date": "2024-04-24T16:00:00-04:00",
       "surprise_pct": 5.2,
       "surprise_source": "yfinance_native",
-      "event_car_3d": -0.089564,
+      "event_car_3d": -0.089565,
       "forward_car_3m": 0.034993,
       "hedge": "XAR"
     },
@@ -3497,7 +3497,7 @@
       "earnings_date": "2024-07-24T16:00:00-04:00",
       "surprise_pct": 11.92,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.039027,
+      "event_car_3d": 0.039028,
       "forward_car_3m": 0.118455,
       "hedge": "XAR"
     },
@@ -3515,7 +3515,7 @@
       "earnings_date": "2025-01-29T16:00:00-05:00",
       "surprise_pct": 3.81,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.125359,
+      "event_car_3d": 0.12536,
       "forward_car_3m": -0.056606,
       "hedge": "XAR"
     },
@@ -3561,7 +3561,7 @@
       "surprise_pct": 22.93,
       "surprise_source": "yfinance_native",
       "event_car_3d": 0.007174,
-      "forward_car_3m": -0.054385,
+      "forward_car_3m": -0.054386,
       "hedge": "XAR"
     },
     {
@@ -3569,7 +3569,7 @@
       "earnings_date": "2020-11-05T16:00:00-05:00",
       "surprise_pct": 24.29,
       "surprise_source": "yfinance_native",
-      "event_car_3d": -0.012866,
+      "event_car_3d": -0.012867,
       "forward_car_3m": -0.140615,
       "hedge": "XAR"
     },
@@ -3578,7 +3578,7 @@
       "earnings_date": "2021-02-25T16:00:00-05:00",
       "surprise_pct": 20.18,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.020265,
+      "event_car_3d": 0.020266,
       "forward_car_3m": -0.032505,
       "hedge": "XAR"
     },
@@ -3597,7 +3597,7 @@
       "surprise_pct": 22.18,
       "surprise_source": "yfinance_native",
       "event_car_3d": 0.023152,
-      "forward_car_3m": 0.153699,
+      "forward_car_3m": 0.153698,
       "hedge": "XAR"
     },
     {
@@ -3615,7 +3615,7 @@
       "surprise_pct": -0.42,
       "surprise_source": "yfinance_native",
       "event_car_3d": -0.111127,
-      "forward_car_3m": 0.19175,
+      "forward_car_3m": 0.191749,
       "hedge": "XAR"
     },
     {
@@ -3678,7 +3678,7 @@
       "surprise_pct": 12.0,
       "surprise_source": "yfinance_native",
       "event_car_3d": 0.00021,
-      "forward_car_3m": 0.039609,
+      "forward_car_3m": 0.03961,
       "hedge": "XAR"
     },
     {
@@ -3731,7 +3731,7 @@
       "earnings_date": "2025-05-01T16:00:00-04:00",
       "surprise_pct": 12.14,
       "surprise_source": "yfinance_native",
-      "event_car_3d": -0.078242,
+      "event_car_3d": -0.078243,
       "forward_car_3m": -0.075776,
       "hedge": "XAR"
     },
@@ -3758,7 +3758,7 @@
       "earnings_date": "2020-05-01T07:00:00-04:00",
       "surprise_pct": 17.33,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.015798,
+      "event_car_3d": 0.015799,
       "forward_car_3m": 0.240101,
       "hedge": "XAR"
     },
@@ -3768,7 +3768,7 @@
       "surprise_pct": 38.8,
       "surprise_source": "yfinance_native",
       "event_car_3d": 0.016252,
-      "forward_car_3m": 0.102059,
+      "forward_car_3m": 0.102058,
       "hedge": "XAR"
     },
     {
@@ -3813,7 +3813,7 @@
       "surprise_pct": 0.73,
       "surprise_source": "yfinance_native",
       "event_car_3d": -0.003336,
-      "forward_car_3m": 0.013611,
+      "forward_car_3m": 0.01361,
       "hedge": "XAR"
     },
     {
@@ -3821,7 +3821,7 @@
       "earnings_date": "2022-02-02T06:00:00-05:00",
       "surprise_pct": 1.86,
       "surprise_source": "yfinance_native",
-      "event_car_3d": -0.051904,
+      "event_car_3d": -0.051905,
       "forward_car_3m": -0.281744,
       "hedge": "XAR"
     },
@@ -3885,7 +3885,7 @@
       "surprise_pct": -1.73,
       "surprise_source": "yfinance_native",
       "event_car_3d": -0.075496,
-      "forward_car_3m": 0.143126,
+      "forward_car_3m": 0.143125,
       "hedge": "XAR"
     },
     {
@@ -4064,7 +4064,7 @@
       "earnings_date": "2023-02-16T05:00:00-05:00",
       "surprise_pct": 18.01,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.06421,
+      "event_car_3d": 0.064209,
       "forward_car_3m": 0.092092,
       "hedge": "XAR"
     },
@@ -4110,7 +4110,7 @@
       "surprise_pct": 9.93,
       "surprise_source": "yfinance_native",
       "event_car_3d": -0.001466,
-      "forward_car_3m": -0.075789,
+      "forward_car_3m": -0.075788,
       "hedge": "XAR"
     },
     {
@@ -4119,7 +4119,7 @@
       "surprise_pct": 4.72,
       "surprise_source": "yfinance_native",
       "event_car_3d": -0.038303,
-      "forward_car_3m": -0.039612,
+      "forward_car_3m": -0.039611,
       "hedge": "XAR"
     },
     {
@@ -4209,7 +4209,7 @@
       "surprise_pct": 20.41,
       "surprise_source": "yfinance_native",
       "event_car_3d": 0.044271,
-      "forward_car_3m": -0.059084,
+      "forward_car_3m": -0.059085,
       "hedge": "XAR"
     },
     {
@@ -4226,7 +4226,7 @@
       "earnings_date": "2021-11-03T16:00:00-04:00",
       "surprise_pct": 37.47,
       "surprise_source": "yfinance_native",
-      "event_car_3d": -0.055082,
+      "event_car_3d": -0.055081,
       "forward_car_3m": -0.1598,
       "hedge": "XAR"
     },
@@ -4335,7 +4335,7 @@
       "surprise_pct": 31.91,
       "surprise_source": "yfinance_native",
       "event_car_3d": 0.068055,
-      "forward_car_3m": 0.179089,
+      "forward_car_3m": 0.17909,
       "hedge": "XAR"
     },
     {
@@ -4343,7 +4343,7 @@
       "earnings_date": "2025-02-26T16:00:00-05:00",
       "surprise_pct": 27.79,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.023551,
+      "event_car_3d": 0.02355,
       "forward_car_3m": 0.184509,
       "hedge": "XAR"
     },
@@ -4388,8 +4388,8 @@
       "earnings_date": "2020-08-04T06:00:00-04:00",
       "surprise_pct": 42.03,
       "surprise_source": "yfinance_native",
-      "event_car_3d": -0.111127,
-      "forward_car_3m": -0.070189,
+      "event_car_3d": -0.111128,
+      "forward_car_3m": -0.070188,
       "hedge": "XAR"
     },
     {
@@ -4407,7 +4407,7 @@
       "surprise_pct": 0.95,
       "surprise_source": "yfinance_native",
       "event_car_3d": -0.13551,
-      "forward_car_3m": 0.077007,
+      "forward_car_3m": 0.077008,
       "hedge": "XAR"
     },
     {
@@ -4415,7 +4415,7 @@
       "earnings_date": "2021-05-04T06:00:00-04:00",
       "surprise_pct": 17.83,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.058198,
+      "event_car_3d": 0.058197,
       "forward_car_3m": -0.097122,
       "hedge": "XAR"
     },
@@ -4425,7 +4425,7 @@
       "surprise_pct": -3.89,
       "surprise_source": "yfinance_native",
       "event_car_3d": -0.075555,
-      "forward_car_3m": 0.114673,
+      "forward_car_3m": 0.114674,
       "hedge": "XAR"
     },
     {
@@ -4433,7 +4433,7 @@
       "earnings_date": "2021-11-02T06:00:00-04:00",
       "surprise_pct": 11.17,
       "surprise_source": "yfinance_native",
-      "event_car_3d": -0.065053,
+      "event_car_3d": -0.065054,
       "forward_car_3m": -0.007129,
       "hedge": "XAR"
     },
@@ -4451,7 +4451,7 @@
       "earnings_date": "2022-05-03T06:00:00-04:00",
       "surprise_pct": 5.12,
       "surprise_source": "yfinance_native",
-      "event_car_3d": -0.025302,
+      "event_car_3d": -0.025303,
       "forward_car_3m": 0.001767,
       "hedge": "XAR"
     },
@@ -4488,7 +4488,7 @@
       "surprise_pct": -7.29,
       "surprise_source": "yfinance_native",
       "event_car_3d": -0.123052,
-      "forward_car_3m": 0.151095,
+      "forward_car_3m": 0.151094,
       "hedge": "XAR"
     },
     {
@@ -4496,7 +4496,7 @@
       "earnings_date": "2023-08-01T06:00:00-04:00",
       "surprise_pct": 14.57,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.062005,
+      "event_car_3d": 0.062004,
       "forward_car_3m": 0.016568,
       "hedge": "XAR"
     },
@@ -4524,7 +4524,7 @@
       "surprise_pct": 34.97,
       "surprise_source": "yfinance_native",
       "event_car_3d": 0.083382,
-      "forward_car_3m": -0.070632,
+      "forward_car_3m": -0.070631,
       "hedge": "XAR"
     },
     {
@@ -4532,7 +4532,7 @@
       "earnings_date": "2024-07-30T06:00:00-04:00",
       "surprise_pct": 15.85,
       "surprise_source": "yfinance_native",
-      "event_car_3d": -0.048135,
+      "event_car_3d": -0.048136,
       "forward_car_3m": 0.08273,
       "hedge": "XAR"
     },
@@ -4559,7 +4559,7 @@
       "earnings_date": "2025-05-06T06:00:00-04:00",
       "surprise_pct": 18.73,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.05088,
+      "event_car_3d": 0.050881,
       "forward_car_3m": -0.08639,
       "hedge": "XAR"
     },
@@ -4596,7 +4596,7 @@
       "surprise_pct": 9.75,
       "surprise_source": "yfinance_native",
       "event_car_3d": -0.038368,
-      "forward_car_3m": -0.02788,
+      "forward_car_3m": -0.027881,
       "hedge": "XAR"
     },
     {
@@ -4613,8 +4613,8 @@
       "earnings_date": "2021-01-29T06:00:00-05:00",
       "surprise_pct": 1.42,
       "surprise_source": "yfinance_native",
-      "event_car_3d": -0.038349,
-      "forward_car_3m": 0.061991,
+      "event_car_3d": -0.03835,
+      "forward_car_3m": 0.06199,
       "hedge": "XAR"
     },
     {
@@ -4649,7 +4649,7 @@
       "earnings_date": "2022-01-31T06:00:00-05:00",
       "surprise_pct": 0.99,
       "surprise_source": "yfinance_native",
-      "event_car_3d": -0.069037,
+      "event_car_3d": -0.069038,
       "forward_car_3m": 0.098787,
       "hedge": "XAR"
     },
@@ -4782,7 +4782,7 @@
     {
       "ticker": "LHX",
       "earnings_date": "2025-10-30T06:00:00-04:00",
-      "surprise_pct": 5.09,
+      "surprise_pct": -0.88,
       "surprise_source": "yfinance_native",
       "event_car_3d": 0.014169,
       "forward_car_3m": 0.055642,
@@ -4793,8 +4793,8 @@
       "earnings_date": "2020-07-21T07:00:00-04:00",
       "surprise_pct": 1.64,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.048335,
-      "forward_car_3m": -0.016647,
+      "event_car_3d": 0.048334,
+      "forward_car_3m": -0.016648,
       "hedge": "XAR"
     },
     {
@@ -4809,7 +4809,7 @@
     {
       "ticker": "LMT",
       "earnings_date": "2021-01-26T07:00:00-05:00",
-      "surprise_pct": -0.37,
+      "surprise_pct": -0.44,
       "surprise_source": "yfinance_native",
       "event_car_3d": 0.022403,
       "forward_car_3m": 0.032803,
@@ -4820,14 +4820,14 @@
       "earnings_date": "2021-04-20T07:00:00-04:00",
       "surprise_pct": 3.78,
       "surprise_source": "yfinance_native",
-      "event_car_3d": -0.003283,
+      "event_car_3d": -0.003282,
       "forward_car_3m": -0.022076,
       "hedge": "XAR"
     },
     {
       "ticker": "LMT",
       "earnings_date": "2021-07-26T07:00:00-04:00",
-      "surprise_pct": -0.05,
+      "surprise_pct": -0.17,
       "surprise_source": "yfinance_native",
       "event_car_3d": -0.015422,
       "forward_car_3m": 0.052514,
@@ -4836,7 +4836,7 @@
     {
       "ticker": "LMT",
       "earnings_date": "2021-10-26T07:00:00-04:00",
-      "surprise_pct": 1.91,
+      "surprise_pct": 11.27,
       "surprise_source": "yfinance_native",
       "event_car_3d": -0.083388,
       "forward_car_3m": 0.262885,
@@ -4854,7 +4854,7 @@
     {
       "ticker": "LMT",
       "earnings_date": "2022-04-19T07:00:00-04:00",
-      "surprise_pct": 4.36,
+      "surprise_pct": 4.23,
       "surprise_source": "yfinance_native",
       "event_car_3d": -0.032822,
       "forward_car_3m": 0.017565,
@@ -4863,7 +4863,7 @@
     {
       "ticker": "LMT",
       "earnings_date": "2022-07-19T07:00:00-04:00",
-      "surprise_pct": -1.13,
+      "surprise_pct": -33.22,
       "surprise_source": "yfinance_native",
       "event_car_3d": -0.059752,
       "forward_car_3m": 0.093638,
@@ -4872,9 +4872,9 @@
     {
       "ticker": "LMT",
       "earnings_date": "2022-10-18T07:00:00-04:00",
-      "surprise_pct": 2.2,
+      "surprise_pct": 0.9,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.06389,
+      "event_car_3d": 0.063891,
       "forward_car_3m": -0.091006,
       "hedge": "XAR"
     },
@@ -4890,7 +4890,7 @@
     {
       "ticker": "LMT",
       "earnings_date": "2023-04-18T07:00:00-04:00",
-      "surprise_pct": 6.11,
+      "surprise_pct": 9.4,
       "surprise_source": "yfinance_native",
       "event_car_3d": 0.001283,
       "forward_car_3m": -0.137074,
@@ -4899,7 +4899,7 @@
     {
       "ticker": "LMT",
       "earnings_date": "2023-07-18T07:00:00-04:00",
-      "surprise_pct": 4.4,
+      "surprise_pct": 2.74,
       "surprise_source": "yfinance_native",
       "event_car_3d": -0.034672,
       "forward_car_3m": 0.022742,
@@ -4926,10 +4926,10 @@
     {
       "ticker": "LMT",
       "earnings_date": "2024-04-23T07:00:00-04:00",
-      "surprise_pct": 9.29,
+      "surprise_pct": 8.52,
       "surprise_source": "yfinance_native",
       "event_car_3d": -0.028458,
-      "forward_car_3m": 0.045921,
+      "forward_car_3m": 0.04592,
       "hedge": "XAR"
     },
     {
@@ -4944,7 +4944,7 @@
     {
       "ticker": "LMT",
       "earnings_date": "2024-10-22T07:00:00-04:00",
-      "surprise_pct": 6.17,
+      "surprise_pct": 5.0,
       "surprise_source": "yfinance_native",
       "event_car_3d": -0.049518,
       "forward_car_3m": -0.254673,
@@ -4962,7 +4962,7 @@
     {
       "ticker": "LMT",
       "earnings_date": "2025-04-22T17:00:00-04:00",
-      "surprise_pct": 15.13,
+      "surprise_pct": 14.69,
       "surprise_source": "yfinance_native",
       "event_car_3d": -0.036499,
       "forward_car_3m": -0.3776,
@@ -4991,8 +4991,8 @@
       "earnings_date": "2020-05-07T07:00:00-04:00",
       "surprise_pct": -34.35,
       "surprise_source": "yfinance_native",
-      "event_car_3d": -0.010019,
-      "forward_car_3m": -0.026414,
+      "event_car_3d": -0.010018,
+      "forward_car_3m": -0.026415,
       "hedge": "XAR"
     },
     {
@@ -5000,7 +5000,7 @@
       "earnings_date": "2020-08-06T06:00:00-04:00",
       "surprise_pct": 32.77,
       "surprise_source": "yfinance_native",
-      "event_car_3d": -0.015888,
+      "event_car_3d": -0.015887,
       "forward_car_3m": -0.068836,
       "hedge": "XAR"
     },
@@ -5019,7 +5019,7 @@
       "surprise_pct": 14.19,
       "surprise_source": "yfinance_native",
       "event_car_3d": 0.009974,
-      "forward_car_3m": 0.103513,
+      "forward_car_3m": 0.103514,
       "hedge": "XAR"
     },
     {
@@ -5036,7 +5036,7 @@
       "earnings_date": "2021-08-05T06:00:00-04:00",
       "surprise_pct": 38.85,
       "surprise_source": "yfinance_native",
-      "event_car_3d": -0.028435,
+      "event_car_3d": -0.028434,
       "forward_car_3m": 0.034321,
       "hedge": "XAR"
     },
@@ -5073,7 +5073,7 @@
       "surprise_pct": -28.17,
       "surprise_source": "yfinance_native",
       "event_car_3d": -0.020475,
-      "forward_car_3m": -0.025352,
+      "forward_car_3m": -0.025353,
       "hedge": "XAR"
     },
     {
@@ -5090,7 +5090,7 @@
       "earnings_date": "2023-02-08T16:00:00-05:00",
       "surprise_pct": 23.68,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.127014,
+      "event_car_3d": 0.127015,
       "forward_car_3m": -0.000505,
       "hedge": "XAR"
     },
@@ -5117,8 +5117,8 @@
       "earnings_date": "2023-11-15T16:00:00-05:00",
       "surprise_pct": -2.52,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.053134,
-      "forward_car_3m": -0.086953,
+      "event_car_3d": 0.053135,
+      "forward_car_3m": -0.086954,
       "hedge": "XAR"
     },
     {
@@ -5144,7 +5144,7 @@
       "earnings_date": "2024-08-07T16:00:00-04:00",
       "surprise_pct": 14.73,
       "surprise_source": "yfinance_native",
-      "event_car_3d": -0.052807,
+      "event_car_3d": -0.052808,
       "forward_car_3m": -0.08686,
       "hedge": "XAR"
     },
@@ -5208,7 +5208,7 @@
       "surprise_pct": 6.42,
       "surprise_source": "yfinance_native",
       "event_car_3d": -0.026855,
-      "forward_car_3m": 0.052128,
+      "forward_car_3m": 0.052129,
       "hedge": "XAR"
     },
     {
@@ -5243,7 +5243,7 @@
       "earnings_date": "2021-07-27T16:00:00-04:00",
       "surprise_pct": 12.71,
       "surprise_source": "yfinance_native",
-      "event_car_3d": -0.019034,
+      "event_car_3d": -0.019033,
       "forward_car_3m": 0.136819,
       "hedge": "XAR"
     },
@@ -5262,7 +5262,7 @@
       "surprise_pct": 6.97,
       "surprise_source": "yfinance_native",
       "event_car_3d": 0.070909,
-      "forward_car_3m": -0.075852,
+      "forward_car_3m": -0.075851,
       "hedge": "XAR"
     },
     {
@@ -5307,7 +5307,7 @@
       "surprise_pct": 9.77,
       "surprise_source": "yfinance_native",
       "event_car_3d": 0.098863,
-      "forward_car_3m": 0.035483,
+      "forward_car_3m": 0.035484,
       "hedge": "XAR"
     },
     {
@@ -5316,7 +5316,7 @@
       "surprise_pct": 5.59,
       "surprise_source": "yfinance_native",
       "event_car_3d": -0.038453,
-      "forward_car_3m": 0.054356,
+      "forward_car_3m": 0.054357,
       "hedge": "XAR"
     },
     {
@@ -5352,7 +5352,7 @@
       "surprise_pct": 0.23,
       "surprise_source": "yfinance_native",
       "event_car_3d": -0.022321,
-      "forward_car_3m": -0.021072,
+      "forward_car_3m": -0.021073,
       "hedge": "XAR"
     },
     {
@@ -5414,7 +5414,7 @@
       "earnings_date": "2020-10-22T06:00:00-04:00",
       "surprise_pct": 5.09,
       "surprise_source": "yfinance_native",
-      "event_car_3d": -0.006421,
+      "event_car_3d": -0.00642,
       "forward_car_3m": -0.271485,
       "hedge": "XAR"
     },
@@ -5423,8 +5423,8 @@
       "earnings_date": "2021-01-28T06:00:00-05:00",
       "surprise_pct": 15.39,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.026553,
-      "forward_car_3m": 0.063719,
+      "event_car_3d": 0.026554,
+      "forward_car_3m": 0.06372,
       "hedge": "XAR"
     },
     {
@@ -5460,7 +5460,7 @@
       "surprise_pct": 0.63,
       "surprise_source": "yfinance_native",
       "event_car_3d": -0.021321,
-      "forward_car_3m": 0.106525,
+      "forward_car_3m": 0.106524,
       "hedge": "XAR"
     },
     {
@@ -5469,7 +5469,7 @@
       "surprise_pct": 2.04,
       "surprise_source": "yfinance_native",
       "event_car_3d": 0.016803,
-      "forward_car_3m": 0.134582,
+      "forward_car_3m": 0.134583,
       "hedge": "XAR"
     },
     {
@@ -5486,7 +5486,7 @@
       "earnings_date": "2022-10-27T06:00:00-04:00",
       "surprise_pct": -3.66,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.010768,
+      "event_car_3d": 0.010769,
       "forward_car_3m": -0.302295,
       "hedge": "XAR"
     },
@@ -5505,7 +5505,7 @@
       "surprise_pct": 8.0,
       "surprise_source": "yfinance_native",
       "event_car_3d": -0.010501,
-      "forward_car_3m": -0.091189,
+      "forward_car_3m": -0.091188,
       "hedge": "XAR"
     },
     {
@@ -5603,7 +5603,7 @@
       "earnings_date": "2020-06-16T16:00:00-04:00",
       "surprise_pct": 4.16,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.019217,
+      "event_car_3d": 0.019216,
       "forward_car_3m": 0.150775,
       "hedge": "XAR"
     },
@@ -5685,7 +5685,7 @@
       "surprise_pct": -4.22,
       "surprise_source": "yfinance_native",
       "event_car_3d": -0.022727,
-      "forward_car_3m": 0.010778,
+      "forward_car_3m": 0.010777,
       "hedge": "XAR"
     },
     {
@@ -5712,7 +5712,7 @@
       "surprise_pct": 5.56,
       "surprise_source": "yfinance_native",
       "event_car_3d": 0.103002,
-      "forward_car_3m": 0.010035,
+      "forward_car_3m": 0.010034,
       "hedge": "XAR"
     },
     {
@@ -5730,7 +5730,7 @@
       "surprise_pct": 0.95,
       "surprise_source": "yfinance_native",
       "event_car_3d": -0.115742,
-      "forward_car_3m": 0.191849,
+      "forward_car_3m": 0.191848,
       "hedge": "XAR"
     },
     {
@@ -5747,7 +5747,7 @@
       "earnings_date": "2024-06-11T16:00:00-04:00",
       "surprise_pct": -1.14,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.132,
+      "event_car_3d": 0.132001,
       "forward_car_3m": 0.082338,
       "hedge": "XAR"
     },
@@ -5757,7 +5757,7 @@
       "surprise_pct": 4.29,
       "surprise_source": "yfinance_native",
       "event_car_3d": 0.090351,
-      "forward_car_3m": 0.08495,
+      "forward_car_3m": 0.084951,
       "hedge": "XAR"
     },
     {
@@ -5772,7 +5772,7 @@
     {
       "ticker": "ORCL",
       "earnings_date": "2025-03-10T16:00:00-04:00",
-      "surprise_pct": -1.35,
+      "surprise_pct": -4.1,
       "surprise_source": "yfinance_native",
       "event_car_3d": -0.013915,
       "forward_car_3m": 0.002167,
@@ -5819,7 +5819,7 @@
       "earnings_date": "2020-04-29T07:00:00-04:00",
       "surprise_pct": 0.05,
       "surprise_source": "yfinance_native",
-      "event_car_3d": -0.018319,
+      "event_car_3d": -0.01832,
       "forward_car_3m": 0.091222,
       "hedge": "XAR"
     },
@@ -5828,8 +5828,8 @@
       "earnings_date": "2020-07-30T06:00:00-04:00",
       "surprise_pct": 151.32,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.007194,
-      "forward_car_3m": -0.091651,
+      "event_car_3d": 0.007195,
+      "forward_car_3m": -0.09165,
       "hedge": "XAR"
     },
     {
@@ -5837,7 +5837,7 @@
       "earnings_date": "2020-10-29T06:00:00-04:00",
       "surprise_pct": 19.36,
       "surprise_source": "yfinance_native",
-      "event_car_3d": -0.060966,
+      "event_car_3d": -0.060967,
       "forward_car_3m": 0.012178,
       "hedge": "XAR"
     },
@@ -5873,7 +5873,7 @@
       "earnings_date": "2022-01-26T06:00:00-05:00",
       "surprise_pct": -79.02,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.02169,
+      "event_car_3d": 0.021691,
       "forward_car_3m": -0.23832,
       "hedge": "XAR"
     },
@@ -5883,7 +5883,7 @@
       "surprise_pct": 42.7,
       "surprise_source": "yfinance_native",
       "event_car_3d": -0.025535,
-      "forward_car_3m": -0.043689,
+      "forward_car_3m": -0.043688,
       "hedge": "XAR"
     },
     {
@@ -5891,7 +5891,7 @@
       "earnings_date": "2022-07-28T07:00:00-04:00",
       "surprise_pct": -51.89,
       "surprise_source": "yfinance_native",
-      "event_car_3d": -0.050246,
+      "event_car_3d": -0.050247,
       "forward_car_3m": 0.064691,
       "hedge": "XAR"
     },
@@ -5946,7 +5946,7 @@
       "surprise_pct": 14.48,
       "surprise_source": "yfinance_native",
       "event_car_3d": 0.000505,
-      "forward_car_3m": -0.051999,
+      "forward_car_3m": -0.052,
       "hedge": "XAR"
     },
     {
@@ -6018,7 +6018,7 @@
       "surprise_pct": 145.25,
       "surprise_source": "yfinance_native",
       "event_car_3d": -0.051146,
-      "forward_car_3m": 0.499348,
+      "forward_car_3m": 0.499347,
       "hedge": "XAR"
     },
     {
@@ -6036,7 +6036,7 @@
       "surprise_pct": 7.87,
       "surprise_source": "yfinance_native",
       "event_car_3d": 0.015901,
-      "forward_car_3m": 0.131219,
+      "forward_car_3m": 0.13122,
       "hedge": "XAR"
     },
     {
@@ -6045,7 +6045,7 @@
       "surprise_pct": 16.01,
       "surprise_source": "yfinance_native",
       "event_car_3d": 0.109777,
-      "forward_car_3m": -0.063974,
+      "forward_car_3m": -0.063975,
       "hedge": "XAR"
     },
     {
@@ -6062,7 +6062,7 @@
       "earnings_date": "2022-02-17T06:00:00-05:00",
       "surprise_pct": -44.09,
       "surprise_source": "yfinance_native",
-      "event_car_3d": -0.215476,
+      "event_car_3d": -0.215475,
       "forward_car_3m": -0.160667,
       "hedge": "XAR"
     },
@@ -6144,7 +6144,7 @@
       "surprise_pct": 4.1,
       "surprise_source": "yfinance_native",
       "event_car_3d": -0.076673,
-      "forward_car_3m": 0.220438,
+      "forward_car_3m": 0.220439,
       "hedge": "XAR"
     },
     {
@@ -6207,7 +6207,7 @@
       "surprise_pct": -28.07,
       "surprise_source": "yfinance_native",
       "event_car_3d": 0.037756,
-      "forward_car_3m": -0.195573,
+      "forward_car_3m": -0.195574,
       "hedge": "XAR"
     },
     {
@@ -6215,7 +6215,7 @@
       "earnings_date": "2020-08-05T06:00:00-04:00",
       "surprise_pct": 10.53,
       "surprise_source": "yfinance_native",
-      "event_car_3d": -0.052971,
+      "event_car_3d": -0.05297,
       "forward_car_3m": -0.052976,
       "hedge": "XAR"
     },
@@ -6261,7 +6261,7 @@
       "surprise_pct": -9.15,
       "surprise_source": "yfinance_native",
       "event_car_3d": 0.011232,
-      "forward_car_3m": -0.061773,
+      "forward_car_3m": -0.061774,
       "hedge": "XAR"
     },
     {
@@ -6351,7 +6351,7 @@
       "surprise_pct": 14.07,
       "surprise_source": "yfinance_native",
       "event_car_3d": -0.034131,
-      "forward_car_3m": 0.068254,
+      "forward_car_3m": 0.068255,
       "hedge": "XAR"
     },
     {
@@ -6360,7 +6360,7 @@
       "surprise_pct": 21.04,
       "surprise_source": "yfinance_native",
       "event_car_3d": 0.146587,
-      "forward_car_3m": 0.085599,
+      "forward_car_3m": 0.085598,
       "hedge": "XAR"
     },
     {
@@ -6413,8 +6413,8 @@
       "earnings_date": "2020-07-28T06:00:00-04:00",
       "surprise_pct": 231.51,
       "surprise_source": "yfinance_native",
-      "event_car_3d": -0.031266,
-      "forward_car_3m": -0.021245,
+      "event_car_3d": -0.031267,
+      "forward_car_3m": -0.021246,
       "hedge": "XAR"
     },
     {
@@ -6422,8 +6422,8 @@
       "earnings_date": "2020-10-27T06:00:00-04:00",
       "surprise_pct": 15.79,
       "surprise_source": "yfinance_native",
-      "event_car_3d": -0.081677,
-      "forward_car_3m": -0.070193,
+      "event_car_3d": -0.081676,
+      "forward_car_3m": -0.070192,
       "hedge": "XAR"
     },
     {
@@ -6467,7 +6467,7 @@
       "earnings_date": "2022-01-25T06:00:00-05:00",
       "surprise_pct": 5.72,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.039277,
+      "event_car_3d": 0.039278,
       "forward_car_3m": 0.066022,
       "hedge": "XAR"
     },
@@ -6486,7 +6486,7 @@
       "surprise_pct": 4.16,
       "surprise_source": "yfinance_native",
       "event_car_3d": -0.051017,
-      "forward_car_3m": 0.00774,
+      "forward_car_3m": 0.007741,
       "hedge": "XAR"
     },
     {
@@ -6510,9 +6510,9 @@
     {
       "ticker": "RTX",
       "earnings_date": "2023-04-25T06:00:00-04:00",
-      "surprise_pct": 2.25,
+      "surprise_pct": 7.52,
       "surprise_source": "yfinance_native",
-      "event_car_3d": -0.013031,
+      "event_car_3d": -0.01303,
       "forward_car_3m": -0.220565,
       "hedge": "XAR"
     },
@@ -6548,7 +6548,7 @@
       "earnings_date": "2024-04-23T06:00:00-04:00",
       "surprise_pct": 8.6,
       "surprise_source": "yfinance_native",
-      "event_car_3d": -0.023552,
+      "event_car_3d": -0.023553,
       "forward_car_3m": -0.035416,
       "hedge": "XAR"
     },
@@ -6557,7 +6557,7 @@
       "earnings_date": "2024-07-25T06:00:00-04:00",
       "surprise_pct": 8.61,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.082719,
+      "event_car_3d": 0.08272,
       "forward_car_3m": 0.035674,
       "hedge": "XAR"
     },
@@ -6584,14 +6584,14 @@
       "earnings_date": "2025-04-22T06:00:00-04:00",
       "surprise_pct": 7.52,
       "surprise_source": "yfinance_native",
-      "event_car_3d": -0.067071,
+      "event_car_3d": -0.067072,
       "forward_car_3m": 0.0015,
       "hedge": "XAR"
     },
     {
       "ticker": "RTX",
       "earnings_date": "2025-07-22T06:00:00-04:00",
-      "surprise_pct": 11.22,
+      "surprise_pct": 9.47,
       "surprise_source": "yfinance_native",
       "event_car_3d": 0.039034,
       "forward_car_3m": -0.035202,
@@ -6612,7 +6612,7 @@
       "surprise_pct": -0.14,
       "surprise_source": "yfinance_native",
       "event_car_3d": -0.080684,
-      "forward_car_3m": 0.037522,
+      "forward_car_3m": 0.037521,
       "hedge": "XAR"
     },
     {
@@ -6620,7 +6620,7 @@
       "earnings_date": "2020-09-01T20:00:00-04:00",
       "surprise_pct": 12.93,
       "surprise_source": "yfinance_native",
-      "event_car_3d": -0.002438,
+      "event_car_3d": -0.002439,
       "forward_car_3m": -0.068225,
       "hedge": "XAR"
     },
@@ -6657,7 +6657,7 @@
       "surprise_pct": 34.7,
       "surprise_source": "yfinance_native",
       "event_car_3d": 0.027985,
-      "forward_car_3m": 0.075468,
+      "forward_car_3m": 0.075469,
       "hedge": "XAR"
     },
     {
@@ -6675,7 +6675,7 @@
       "surprise_pct": 23.4,
       "surprise_source": "yfinance_native",
       "event_car_3d": 0.004952,
-      "forward_car_3m": 0.182489,
+      "forward_car_3m": 0.182488,
       "hedge": "XAR"
     },
     {
@@ -6684,7 +6684,7 @@
       "surprise_pct": 5.95,
       "surprise_source": "yfinance_native",
       "event_car_3d": 0.066063,
-      "forward_car_3m": 0.057866,
+      "forward_car_3m": 0.057867,
       "hedge": "XAR"
     },
     {
@@ -6702,7 +6702,7 @@
       "surprise_pct": 10.12,
       "surprise_source": "yfinance_native",
       "event_car_3d": 0.072521,
-      "forward_car_3m": -0.143084,
+      "forward_car_3m": -0.143083,
       "hedge": "XAR"
     },
     {
@@ -6737,8 +6737,8 @@
       "earnings_date": "2023-12-04T07:00:00-05:00",
       "surprise_pct": 34.69,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.115004,
-      "forward_car_3m": -0.025579,
+      "event_car_3d": 0.115005,
+      "forward_car_3m": -0.02558,
       "hedge": "XAR"
     },
     {
@@ -6755,7 +6755,7 @@
       "earnings_date": "2024-06-03T12:00:00-04:00",
       "surprise_pct": -0.08,
       "surprise_source": "yfinance_native",
-      "event_car_3d": -0.126422,
+      "event_car_3d": -0.126421,
       "forward_car_3m": 0.03373,
       "hedge": "XAR"
     },
@@ -6782,8 +6782,8 @@
       "earnings_date": "2025-03-17T06:00:00-04:00",
       "surprise_pct": 23.24,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.059683,
-      "forward_car_3m": -0.237867,
+      "event_car_3d": 0.059682,
+      "forward_car_3m": -0.237868,
       "hedge": "XAR"
     },
     {
@@ -6818,8 +6818,8 @@
       "earnings_date": "2020-07-22T06:00:00-04:00",
       "surprise_pct": 31.2,
       "surprise_source": "yfinance_native",
-      "event_car_3d": -0.036699,
-      "forward_car_3m": -0.019073,
+      "event_car_3d": -0.0367,
+      "forward_car_3m": -0.019074,
       "hedge": "XAR"
     },
     {
@@ -6828,7 +6828,7 @@
       "surprise_pct": 6.66,
       "surprise_source": "yfinance_native",
       "event_car_3d": 0.010299,
-      "forward_car_3m": -0.107905,
+      "forward_car_3m": -0.107906,
       "hedge": "XAR"
     },
     {
@@ -6845,7 +6845,7 @@
       "earnings_date": "2021-04-28T06:00:00-04:00",
       "surprise_pct": 17.85,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.020117,
+      "event_car_3d": 0.020118,
       "forward_car_3m": 0.012957,
       "hedge": "XAR"
     },
@@ -6872,7 +6872,7 @@
       "earnings_date": "2022-01-27T06:00:00-05:00",
       "surprise_pct": 8.15,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.046988,
+      "event_car_3d": 0.046987,
       "forward_car_3m": 0.051534,
       "hedge": "XAR"
     },
@@ -6953,7 +6953,7 @@
       "earnings_date": "2024-04-24T06:00:00-04:00",
       "surprise_pct": -1.7,
       "surprise_source": "yfinance_native",
-      "event_car_3d": -0.075241,
+      "event_car_3d": -0.07524,
       "forward_car_3m": 0.044909,
       "hedge": "XAR"
     },
@@ -7034,7 +7034,7 @@
       "earnings_date": "2020-07-30T06:00:00-04:00",
       "surprise_pct": 248.38,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.036993,
+      "event_car_3d": 0.036994,
       "forward_car_3m": -0.062667,
       "hedge": "XAR"
     },
@@ -7061,7 +7061,7 @@
       "earnings_date": "2021-04-29T06:00:00-04:00",
       "surprise_pct": 49.22,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.050143,
+      "event_car_3d": 0.050144,
       "forward_car_3m": 0.099166,
       "hedge": "XAR"
     },
@@ -7070,7 +7070,7 @@
       "earnings_date": "2021-07-29T06:00:00-04:00",
       "surprise_pct": 24.75,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.002343,
+      "event_car_3d": 0.002342,
       "forward_car_3m": 0.096793,
       "hedge": "XAR"
     },
@@ -7089,7 +7089,7 @@
       "surprise_pct": -1.8,
       "surprise_source": "yfinance_native",
       "event_car_3d": -0.029015,
-      "forward_car_3m": 0.004958,
+      "forward_car_3m": 0.004957,
       "hedge": "XAR"
     },
     {
@@ -7097,8 +7097,8 @@
       "earnings_date": "2022-04-28T06:00:00-04:00",
       "surprise_pct": 19.31,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.067558,
-      "forward_car_3m": -0.028986,
+      "event_car_3d": 0.067557,
+      "forward_car_3m": -0.028985,
       "hedge": "XAR"
     },
     {
@@ -7142,7 +7142,7 @@
       "earnings_date": "2023-07-27T06:00:00-04:00",
       "surprise_pct": 21.48,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.114123,
+      "event_car_3d": 0.114122,
       "forward_car_3m": 0.043371,
       "hedge": "XAR"
     },
@@ -7160,7 +7160,7 @@
       "earnings_date": "2024-01-24T06:00:00-05:00",
       "surprise_pct": 4.49,
       "surprise_source": "yfinance_native",
-      "event_car_3d": 0.099099,
+      "event_car_3d": 0.0991,
       "forward_car_3m": 0.062512,
       "hedge": "XAR"
     },
@@ -7169,7 +7169,7 @@
       "earnings_date": "2024-04-25T06:00:00-04:00",
       "surprise_pct": -2.43,
       "surprise_source": "yfinance_native",
-      "event_car_3d": -0.09827,
+      "event_car_3d": -0.098271,
       "forward_car_3m": -0.019526,
       "hedge": "XAR"
     },
@@ -7178,14 +7178,14 @@
       "earnings_date": "2024-07-18T06:00:00-04:00",
       "surprise_pct": 4.6,
       "surprise_source": "yfinance_native",
-      "event_car_3d": -0.001229,
+      "event_car_3d": -0.001228,
       "forward_car_3m": -0.172232,
       "hedge": "XAR"
     },
     {
       "ticker": "TXT",
       "earnings_date": "2024-10-24T06:00:00-04:00",
-      "surprise_pct": -6.42,
+      "surprise_pct": -5.86,
       "surprise_source": "yfinance_native",
       "event_car_3d": -0.049101,
       "forward_car_3m": -0.155947,

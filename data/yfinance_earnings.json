@@ -155,9 +155,9 @@
     {
       "ticker": "ACN",
       "earnings_date": "2025-03-20T06:00:00-04:00",
-      "eps_estimate": 2.79,
+      "eps_estimate": 2.81,
       "eps_actual": 2.82,
-      "surprise_pct": 1.11,
+      "surprise_pct": 0.25,
       "surprise_source": "yfinance_native"
     },
     {
@@ -179,9 +179,9 @@
     {
       "ticker": "ACN",
       "earnings_date": "2025-12-18T06:00:00-05:00",
-      "eps_estimate": 3.4,
-      "eps_actual": 3.54,
-      "surprise_pct": 4.27,
+      "eps_estimate": 3.72,
+      "eps_actual": 3.94,
+      "surprise_pct": 5.87,
       "surprise_source": "yfinance_native"
     },
     {
@@ -221,9 +221,9 @@
     {
       "ticker": "AMTM",
       "earnings_date": "2025-05-06T16:00:00-04:00",
-      "eps_estimate": 0.07,
-      "eps_actual": 0.02,
-      "surprise_pct": -71.43,
+      "eps_estimate": 0.47,
+      "eps_actual": 0.53,
+      "surprise_pct": 12.37,
       "surprise_source": "yfinance_native"
     },
     {
@@ -657,7 +657,7 @@
     {
       "ticker": "BA",
       "earnings_date": "2026-07-28T08:00:00-04:00",
-      "eps_estimate": -0.14,
+      "eps_estimate": -0.18,
       "eps_actual": null,
       "surprise_pct": null,
       "surprise_source": "yfinance_native"
@@ -1071,7 +1071,7 @@
     {
       "ticker": "CACI",
       "earnings_date": "2026-08-05T16:00:00-04:00",
-      "eps_estimate": 7.39,
+      "eps_estimate": 7.29,
       "eps_actual": null,
       "surprise_pct": null,
       "surprise_source": "yfinance_native"
@@ -1646,8 +1646,8 @@
       "ticker": "F",
       "earnings_date": "2025-05-05T16:00:00-04:00",
       "eps_estimate": 0.02,
-      "eps_actual": 0.12,
-      "surprise_pct": 549.35,
+      "eps_actual": 0.14,
+      "surprise_pct": 556.97,
       "surprise_source": "yfinance_native"
     },
     {
@@ -1669,9 +1669,9 @@
     {
       "ticker": "F",
       "earnings_date": "2026-02-10T16:00:00-05:00",
-      "eps_estimate": -3.38,
-      "eps_actual": -2.77,
-      "surprise_pct": 17.97,
+      "eps_estimate": 0.19,
+      "eps_actual": 0.13,
+      "surprise_pct": -32.87,
       "surprise_source": "yfinance_native"
     },
     {
@@ -2437,9 +2437,9 @@
     {
       "ticker": "GIB",
       "earnings_date": "2024-11-06T06:00:00-05:00",
-      "eps_estimate": 1.9,
-      "eps_actual": 1.91,
-      "surprise_pct": 0.59,
+      "eps_estimate": 1.91,
+      "eps_actual": 1.92,
+      "surprise_pct": 0.71,
       "surprise_source": "yfinance_native"
     },
     {
@@ -2461,9 +2461,9 @@
     {
       "ticker": "GIB",
       "earnings_date": "2025-07-30T06:00:00-04:00",
-      "eps_estimate": 1.87,
-      "eps_actual": 1.82,
-      "surprise_pct": -2.8,
+      "eps_estimate": 2.08,
+      "eps_actual": 2.1,
+      "surprise_pct": 0.99,
       "surprise_source": "yfinance_native"
     },
     {
@@ -2881,9 +2881,9 @@
     {
       "ticker": "HII",
       "earnings_date": "2026-02-05T07:00:00-05:00",
-      "eps_estimate": 3.89,
+      "eps_estimate": 3.85,
       "eps_actual": 4.04,
-      "surprise_pct": 3.73,
+      "surprise_pct": 5.03,
       "surprise_source": "yfinance_native"
     },
     {
@@ -3091,7 +3091,7 @@
     {
       "ticker": "HON",
       "earnings_date": "2026-07-23T08:00:00-04:00",
-      "eps_estimate": 2.43,
+      "eps_estimate": 2.42,
       "eps_actual": null,
       "surprise_pct": null,
       "surprise_source": "yfinance_native"
@@ -3277,9 +3277,9 @@
     {
       "ticker": "HPE",
       "earnings_date": "2025-12-04T16:00:00-05:00",
-      "eps_estimate": 0.51,
-      "eps_actual": 0.11,
-      "surprise_pct": -78.52,
+      "eps_estimate": 0.58,
+      "eps_actual": 0.62,
+      "surprise_pct": 6.55,
       "surprise_source": "yfinance_native"
     },
     {
@@ -4302,7 +4302,7 @@
     },
     {
       "ticker": "KTOS",
-      "earnings_date": "2026-05-07T16:00:00-04:00",
+      "earnings_date": "2026-05-06T16:00:00-04:00",
       "eps_estimate": 0.13,
       "eps_actual": null,
       "surprise_pct": null,
@@ -4691,9 +4691,9 @@
     {
       "ticker": "LHX",
       "earnings_date": "2025-10-30T06:00:00-04:00",
-      "eps_estimate": 2.57,
-      "eps_actual": 2.7,
-      "surprise_pct": 5.09,
+      "eps_estimate": 2.48,
+      "eps_actual": 2.46,
+      "surprise_pct": -0.88,
       "surprise_source": "yfinance_native"
     },
     {
@@ -4733,9 +4733,9 @@
     {
       "ticker": "LMT",
       "earnings_date": "2021-01-26T07:00:00-05:00",
-      "eps_estimate": 6.4,
+      "eps_estimate": 6.41,
       "eps_actual": 6.38,
-      "surprise_pct": -0.37,
+      "surprise_pct": -0.44,
       "surprise_source": "yfinance_native"
     },
     {
@@ -4749,17 +4749,17 @@
     {
       "ticker": "LMT",
       "earnings_date": "2021-07-26T07:00:00-04:00",
-      "eps_estimate": 6.52,
+      "eps_estimate": 6.53,
       "eps_actual": 6.52,
-      "surprise_pct": -0.05,
+      "surprise_pct": -0.17,
       "surprise_source": "yfinance_native"
     },
     {
       "ticker": "LMT",
       "earnings_date": "2021-10-26T07:00:00-04:00",
-      "eps_estimate": 6.8,
-      "eps_actual": 6.93,
-      "surprise_pct": 1.91,
+      "eps_estimate": 1.99,
+      "eps_actual": 2.21,
+      "surprise_pct": 11.27,
       "surprise_source": "yfinance_native"
     },
     {
@@ -4773,25 +4773,25 @@
     {
       "ticker": "LMT",
       "earnings_date": "2022-04-19T07:00:00-04:00",
-      "eps_estimate": 6.17,
+      "eps_estimate": 6.18,
       "eps_actual": 6.44,
-      "surprise_pct": 4.36,
+      "surprise_pct": 4.23,
       "surprise_source": "yfinance_native"
     },
     {
       "ticker": "LMT",
       "earnings_date": "2022-07-19T07:00:00-04:00",
-      "eps_estimate": 6.39,
-      "eps_actual": 6.32,
-      "surprise_pct": -1.13,
+      "eps_estimate": 1.74,
+      "eps_actual": 1.16,
+      "surprise_pct": -33.22,
       "surprise_source": "yfinance_native"
     },
     {
       "ticker": "LMT",
       "earnings_date": "2022-10-18T07:00:00-04:00",
-      "eps_estimate": 6.72,
-      "eps_actual": 6.87,
-      "surprise_pct": 2.2,
+      "eps_estimate": 6.65,
+      "eps_actual": 6.71,
+      "surprise_pct": 0.9,
       "surprise_source": "yfinance_native"
     },
     {
@@ -4805,17 +4805,17 @@
     {
       "ticker": "LMT",
       "earnings_date": "2023-04-18T07:00:00-04:00",
-      "eps_estimate": 6.06,
-      "eps_actual": 6.43,
-      "surprise_pct": 6.11,
+      "eps_estimate": 6.04,
+      "eps_actual": 6.61,
+      "surprise_pct": 9.4,
       "surprise_source": "yfinance_native"
     },
     {
       "ticker": "LMT",
       "earnings_date": "2023-07-18T07:00:00-04:00",
       "eps_estimate": 6.45,
-      "eps_actual": 6.73,
-      "surprise_pct": 4.4,
+      "eps_actual": 6.63,
+      "surprise_pct": 2.74,
       "surprise_source": "yfinance_native"
     },
     {
@@ -4837,9 +4837,9 @@
     {
       "ticker": "LMT",
       "earnings_date": "2024-04-23T07:00:00-04:00",
-      "eps_estimate": 5.85,
-      "eps_actual": 6.39,
-      "surprise_pct": 9.29,
+      "eps_estimate": 5.83,
+      "eps_actual": 6.33,
+      "surprise_pct": 8.52,
       "surprise_source": "yfinance_native"
     },
     {
@@ -4853,9 +4853,9 @@
     {
       "ticker": "LMT",
       "earnings_date": "2024-10-22T07:00:00-04:00",
-      "eps_estimate": 6.44,
-      "eps_actual": 6.84,
-      "surprise_pct": 6.17,
+      "eps_estimate": 6.48,
+      "eps_actual": 6.8,
+      "surprise_pct": 5.0,
       "surprise_source": "yfinance_native"
     },
     {
@@ -4869,9 +4869,9 @@
     {
       "ticker": "LMT",
       "earnings_date": "2025-04-22T17:00:00-04:00",
-      "eps_estimate": 6.32,
+      "eps_estimate": 6.35,
       "eps_actual": 7.28,
-      "surprise_pct": 15.13,
+      "surprise_pct": 14.69,
       "surprise_source": "yfinance_native"
     },
     {
@@ -4893,9 +4893,9 @@
     {
       "ticker": "LMT",
       "earnings_date": "2026-01-29T07:00:00-05:00",
-      "eps_estimate": 5.96,
+      "eps_estimate": 5.75,
       "eps_actual": 5.8,
-      "surprise_pct": -2.71,
+      "surprise_pct": 0.94,
       "surprise_source": "yfinance_native"
     },
     {
@@ -5319,7 +5319,7 @@
     {
       "ticker": "MSFT",
       "earnings_date": "2026-04-29T16:00:00-04:00",
-      "eps_estimate": 4.06,
+      "eps_estimate": 4.07,
       "eps_actual": null,
       "surprise_pct": null,
       "surprise_source": "yfinance_native"
@@ -5521,7 +5521,7 @@
     {
       "ticker": "NOC",
       "earnings_date": "2026-07-21T08:00:00-04:00",
-      "eps_estimate": 6.83,
+      "eps_estimate": 6.82,
       "eps_actual": null,
       "surprise_pct": null,
       "surprise_source": "yfinance_native"
@@ -5683,9 +5683,9 @@
     {
       "ticker": "ORCL",
       "earnings_date": "2025-03-10T16:00:00-04:00",
-      "eps_estimate": 1.49,
-      "eps_actual": 1.47,
-      "surprise_pct": -1.35,
+      "eps_estimate": 1.06,
+      "eps_actual": 1.02,
+      "surprise_pct": -4.1,
       "surprise_source": "yfinance_native"
     },
     {
@@ -6411,9 +6411,9 @@
     {
       "ticker": "RTX",
       "earnings_date": "2023-04-25T06:00:00-04:00",
-      "eps_estimate": 0.95,
-      "eps_actual": 0.97,
-      "surprise_pct": 2.25,
+      "eps_estimate": 1.13,
+      "eps_actual": 1.22,
+      "surprise_pct": 7.52,
       "surprise_source": "yfinance_native"
     },
     {
@@ -6483,9 +6483,9 @@
     {
       "ticker": "RTX",
       "earnings_date": "2025-07-22T06:00:00-04:00",
-      "eps_estimate": 1.1,
-      "eps_actual": 1.22,
-      "surprise_pct": 11.22,
+      "eps_estimate": 1.43,
+      "eps_actual": 1.56,
+      "surprise_pct": 9.47,
       "surprise_source": "yfinance_native"
     },
     {
@@ -6929,7 +6929,7 @@
     {
       "ticker": "TDY",
       "earnings_date": "2026-07-22T08:00:00-04:00",
-      "eps_estimate": 5.78,
+      "eps_estimate": 5.79,
       "eps_actual": null,
       "surprise_pct": null,
       "surprise_source": "yfinance_native"
@@ -7083,9 +7083,9 @@
     {
       "ticker": "TXT",
       "earnings_date": "2024-10-24T06:00:00-04:00",
-      "eps_estimate": 1.5,
-      "eps_actual": 1.4,
-      "surprise_pct": -6.42,
+      "eps_estimate": 1.25,
+      "eps_actual": 1.18,
+      "surprise_pct": -5.86,
       "surprise_source": "yfinance_native"
     },
     {
