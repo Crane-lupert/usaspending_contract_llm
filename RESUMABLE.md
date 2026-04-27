@@ -97,7 +97,45 @@ Then proceed: `Day 9 시작` or `계속`.
 
 ---
 
-## Status snapshot — 2026-04-27 22:00 (after reframing + Phase 1 entry + Day 9 in-flight)
+## Status snapshot — 2026-04-28 (Day 9 ~68%, trajectory toward HARD_KILL)
+
+### Day 9 partial-data trajectory
+
+| Sample size | n_obs | n_q | Sharpe_ann | t_stat | inc_R² | AUC | Verdict |
+|---|---|---|---|---|---|---|---|
+| 30% | 97 | 12 | **1.03** | 1.79 | 3.7% | 0.59 | TIGHTEN_RETEST (1-of-3 PASS) |
+| 60% | 178 | 17 | **-0.07** | -0.14 | 4e-6 | 0.51 | **HARD_KILL** (3-of-3 FAIL) |
+| 100% | TBD | TBD | TBD | TBD | TBD | TBD | TBD |
+
+### Trajectory diagnosis
+
+Signal collapse 30%→60% suggests:
+1. **30% sample was lucky/noisy** — only 12 paired quarters, 1-3 firms per quintile bucket.
+2. **Older-cohort data (now joining in batch progress) has weaker signal** — yfinance free-tier earnings_dates ~5yr cap makes CAR-join sparse for 2010-2018 cohorts.
+3. **Mechanism limit**: cross-section quintile by commitment_score level may be dominated by firm-size dummy. Within-firm-FE regression demeans it to ~0 R². The §3.5 SURPRISE form (#1b sub-trigger) shows similarly-null result on 60% data (Sharpe 0.35 / t=0.58 / R² ~ 0).
+
+### Pre-registered alternatives tested
+
+- **§3 main effect (level form)**: trending HARD_KILL on 60% data.
+- **§3.5 SURPRISE form (CLAUDE.md sub-trigger #1b)**: borderline-null on 60% data.
+- **§4.1 cohort heterogeneity**: yfinance ~5yr cap → only 2022/2024 cohorts have CAR. 2022 cohort Sharpe 13.1 (n=2 quarters, artifact); 2024 cohort Sharpe 0.56.
+- **§4.2 timing audit**: realistic-pooled Sharpe 0.43 (was naive 1.03 on 30%); realistic-2024-only Sharpe 0.26.
+
+### Most-likely full-batch outcome
+
+**Two-layer null** (#1 FAIL + #1b FAIL) → ABANDONED.md / postmortem. Salvage = §4.1 publish-lag-distribution observation as a standalone short SSRN note.
+
+### Auto-completion action
+
+Background script `basdelcud` waits for `data/day9_batch_summary.json` and auto-runs `python -m usaspending_contract_llm.final_pipeline`. Output lands in `/tmp/m1_auto_run.log`.
+
+When triggered:
+1. Read final Day 14 verdict.
+2. If HARD_KILL → fill `audits/postmortem_template.md` → write `ABANDONED.md` → final commit.
+3. If MAIN_EFFECT_PASS → continue Day 15-21 (cohort + rigor + dashboard + writeup with full numbers).
+
+### Original Phase 1 plan section (unchanged)
+
 
 ### What's complete
 
