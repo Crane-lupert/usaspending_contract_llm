@@ -1,0 +1,32 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Data — large + reproducible
+data/cache/
+data/raw/
+data/manifest_*.jsonl.lock
+*.lock
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Build
+build/
+dist/
+
+# Notebooks
+.ipynb_checkpoints/

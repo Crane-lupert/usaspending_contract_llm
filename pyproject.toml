@@ -1,0 +1,40 @@
+[project]
+name = "usaspending_contract_llm"
+version = "0.0.1"
+description = "Project M1 — USAspending federal contract obligation text × multi-vendor LLM ensemble × forward revenue commitment 3-axis classification → defense/IT cross-section next-quarter earnings surprise prediction. PURE daemon-free (Gate F), discovery-form (Gate G)."
+requires-python = ">=3.11"
+dependencies = [
+    "httpx[http2]>=0.27",
+    "tenacity>=8.2",
+    "pyyaml>=6.0",
+    "python-dotenv>=1.0",
+    "filelock>=3.15",
+    "shared-utils",
+]
+
+[project.optional-dependencies]
+analysis = [
+    "pandas>=2.2",
+    "numpy>=1.26",
+    "scipy>=1.13",
+    "statsmodels>=0.14",
+    "scikit-learn>=1.5",
+    "yfinance>=0.2.40",
+]
+test = [
+    "pytest>=8.0",
+    "pytest-asyncio>=0.23",
+]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.uv.sources]
+shared-utils = { path = "../portfolio-coordination/shared-utils", editable = true }
