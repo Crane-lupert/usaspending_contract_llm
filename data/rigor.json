@@ -1,0 +1,48 @@
+{
+  "deflated_sharpe": {
+    "sr_observed": 1.0349,
+    "n_trials": 9,
+    "n": 12,
+    "expected_max_sr_null": 1.5208,
+    "sr_threshold_null": 0.439,
+    "z": 1.9763,
+    "psr": 0.9759,
+    "dsr_pass_p05": true
+  },
+  "newey_west_lag4": {
+    "n": 12,
+    "lags": 4,
+    "mean": 0.037578,
+    "nw_variance": 0.000908,
+    "nw_se": 0.008697,
+    "nw_t": 4.3207
+  },
+  "cluster_bootstrap": {
+    "n_quarters": 12,
+    "obs_mean": 0.037578,
+    "obs_t": 1.7926,
+    "boot_se": 0.020398,
+    "boot_ci95": [
+      -0.003277,
+      0.076681
+    ],
+    "boot_excludes_zero": false
+  },
+  "bh_fdr_n9": {
+    "n_tests": 9,
+    "n_pass": 0,
+    "alpha_fdr": 0.05,
+    "p_values": [
+      0.05,
+      0.01,
+      0.2,
+      0.3,
+      0.4,
+      0.5,
+      0.6,
+      0.7,
+      0.8
+    ]
+  },
+  "bh_fdr_note": "Replace placeholder with actual p-values from \u00a73.1 incremental R\u00b2 + \u00a73.2 quintile spread + \u00a73.3 ROC-AUC across 3 axes / 3 horizons."
+}

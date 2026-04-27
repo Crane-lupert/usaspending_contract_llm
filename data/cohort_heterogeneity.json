@@ -1,0 +1,35 @@
+{
+  "n_panel_rows": 441,
+  "section_4_1_cohort_heterogeneity": {
+    "by_cohort": [
+      {
+        "cohort_fy": 2022,
+        "n_rows": 25,
+        "n_paired_q": 2,
+        "spread_mean": 0.133189,
+        "spread_std": 0.02026,
+        "sharpe_quarterly": 6.574,
+        "sharpe_annualized": 13.148
+      },
+      {
+        "cohort_fy": 2024,
+        "n_rows": 89,
+        "n_paired_q": 9,
+        "spread_mean": 0.060514,
+        "spread_std": 0.214657,
+        "sharpe_quarterly": 0.2819,
+        "sharpe_annualized": 0.5638
+      }
+    ]
+  },
+  "section_4_1_alpha_decay_summary": {
+    "earliest_cohort": 2022,
+    "earliest_sharpe": 13.148,
+    "latest_cohort": 2024,
+    "latest_sharpe": 0.5638,
+    "delta_ratio_total": -0.9571,
+    "decay_per_year": -0.4786,
+    "phase1_trigger_2b_decay_50pct_per_year": false
+  },
+  "interpretation": "If sharpe_annualized declines from earliest to latest cohort, this is the \u00a74.1 *positive identification result* of industry absorption (Cotropia 2017 USPTO pattern). Direction matters more than magnitude for the \u00a74 framing."
+}

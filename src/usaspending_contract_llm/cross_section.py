@@ -130,6 +130,7 @@ def build_firm_quarter_panel() -> pd.DataFrame:
         n_contracts=("contract_id", "count"),
         total_award=("award_amount", "sum"),
         commitment_score_raw=("weighted_amt", "sum"),
+        cohort_fy=("cohort_fy", "max"),  # mode-like; same firm-quarter usually shares cohort
     ).reset_index()
     panel["commitment_score_norm"] = panel["commitment_score_raw"] / panel["total_award"].replace(0, np.nan)
     return panel

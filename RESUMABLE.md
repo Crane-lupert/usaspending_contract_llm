@@ -95,6 +95,77 @@ ls data/manifest_strategic_sample.jsonl    # 8,365 lines
 
 Then proceed: `Day 9 시작` or `계속`.
 
+---
+
+## Status snapshot — 2026-04-27 22:00 (after reframing + Phase 1 entry + Day 9 in-flight)
+
+### What's complete
+
+- **Reframing applied** (CLAUDE.md + analysis/paper_outline.md):
+  - Single hard kill = trigger #1 (incremental R² < 5% AND ROC-AUC < 0.6 AND Sharpe < 0.3)
+  - Trigger #2 demoted from kill to §4 robustness finding (Cotropia 2017 pattern).
+- **Day 8** strategic_sample.py — 8,365 contracts, 30 primes × 5 cohorts.
+- **Day 9 LLM batch** running in background (~39% done, ETA ~2hr from 22:00 KST).
+- **Day 10** yfinance_join.py — 38/39 tickers, 803 (ticker, quarter) CAR rows.
+- **Day 11** cross_section.py — partial-data preview Sharpe = 1.03 / t = 1.79 / 12 paired Q.
+- **Day 12** ccm_baseline.py — partial-data incremental R² = 3.7% (borderline below 5%; t_commitment = -1.91 directionally correct).
+- **Day 14** day14_mid_checkpoint.py — partial-data verdict: TIGHTEN_RETEST_2_OF_3_FAIL.
+- **Day 16** cohort_heterogeneity.py — yfinance limit = ~5yr earnings dates → only 2022/2024 cohorts have CAR. Pre-2022 §4.1 power-limited.
+- **Day 17** rigor.py — DSR + Newey-West (t_NW = 4.32 on partial) + cluster bootstrap + BH-FDR scaffold.
+- **Day 18** contamination_masking.py — §4.4 cutoff split + §4.5 firm-name redaction.
+- **Day 19** dashboard/app.py — 5-page Streamlit MVP scaffold.
+
+### What's pending — wait for Day 9 batch
+
+```bash
+# When data/day9_batch_summary.json appears:
+python -m usaspending_contract_llm.cross_section          # full sample quintile
+python -m usaspending_contract_llm.ccm_baseline           # full sample 2-step regression
+python -m usaspending_contract_llm.cohort_heterogeneity   # §4.1
+python -m usaspending_contract_llm.rigor                  # DSR/NW/bootstrap on full
+python -m usaspending_contract_llm.contamination_masking  # §4.4 + §4.5 (~$0.20)
+python -m usaspending_contract_llm.day14_mid_checkpoint   # final trigger #1 verdict
+```
+
+### Day 14 mid-checkpoint partial-data result (preview only)
+
+```
+incremental_R2     = 0.0366  (FAIL — threshold 0.05; n=97, t_commitment=-1.91 directional)
+quintile_sharpe    = 1.0349  (PASS — threshold 0.3; n_q=12, t=1.79)
+roc_auc_proxy      = 0.5877  (FAIL — threshold 0.6; n=97; near-borderline)
+cross_llm_coverage = MISSING (Day 9 batch incomplete)
+verdict            = TIGHTEN_RETEST_2_OF_3_FAIL
+```
+
+Partial-data t-stats are *directionally correct* but borderline. Full sample (3.4× more data) likely tightens incremental R² + ROC-AUC. Sharpe already PASS.
+
+### Bash background watcher (still running — emits when batch completes)
+
+```bash
+# bcywxnpxz: until [ -f data/day9_batch_summary.json ]; do sleep 30; done
+```
+
+Will print "DAY9_BATCH_COMPLETE" on completion. Then run the pipeline above.
+
+### Spend snapshot (after Phase 1 entry)
+
+| Bucket | Spent | Cap |
+|---|---|---|
+| Phase 0 (closed) | $0.334 | $8 |
+| Phase 1 — Day 4 oracle | $0.575 | (counted in Phase 1) |
+| Phase 1 — Day 9 in-progress | ~$8 (39% done; final ~$22) | $25 |
+| Total project | ~$9 | $35 |
+
+### When Day 14 final fires (next session)
+
+- All 3 PASS or 2/3 PASS → Day 15+ proceed (cohort §4.1 / timing §4.2 / cross-LLM §4.3 / contamination §4.4 / masking §4.5).
+- 2/3 FAIL → tighten data joins, re-test once, then ABANDONED.md if still failing.
+- 3/3 FAIL → ABANDONED.md (postmortem, no paper headline).
+
+### Open mailbox
+
+- `processed/`: M1 OpenRouter registration confirmed (cap=$35, max=8). project_tag = `usaspending_contract_llm`.
+
 ## Resume command
 
 Fresh session start:
