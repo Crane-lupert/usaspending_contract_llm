@@ -1,0 +1,7140 @@
+{
+  "ACN": [
+    {
+      "ticker": "ACN",
+      "earnings_date": "2020-06-25T06:00:00-04:00",
+      "eps_estimate": 1.84,
+      "eps_actual": 1.9,
+      "surprise_pct": 3.16,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ACN",
+      "earnings_date": "2020-09-24T06:00:00-04:00",
+      "eps_estimate": 1.73,
+      "eps_actual": 1.7,
+      "surprise_pct": -1.98,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ACN",
+      "earnings_date": "2020-12-17T06:00:00-05:00",
+      "eps_estimate": 2.05,
+      "eps_actual": 2.17,
+      "surprise_pct": 5.95,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ACN",
+      "earnings_date": "2021-03-18T06:00:00-04:00",
+      "eps_estimate": 1.9,
+      "eps_actual": 2.03,
+      "surprise_pct": 6.76,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ACN",
+      "earnings_date": "2021-06-24T06:00:00-04:00",
+      "eps_estimate": 2.24,
+      "eps_actual": 2.4,
+      "surprise_pct": 7.32,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ACN",
+      "earnings_date": "2021-09-23T06:00:00-04:00",
+      "eps_estimate": 2.19,
+      "eps_actual": 2.2,
+      "surprise_pct": 0.68,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ACN",
+      "earnings_date": "2021-12-16T06:00:00-05:00",
+      "eps_estimate": 2.63,
+      "eps_actual": 2.78,
+      "surprise_pct": 5.79,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ACN",
+      "earnings_date": "2022-03-17T06:00:00-04:00",
+      "eps_estimate": 2.37,
+      "eps_actual": 2.54,
+      "surprise_pct": 7.35,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ACN",
+      "earnings_date": "2022-06-23T06:00:00-04:00",
+      "eps_estimate": 2.83,
+      "eps_actual": 2.9,
+      "surprise_pct": 2.31,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ACN",
+      "earnings_date": "2022-09-22T06:00:00-04:00",
+      "eps_estimate": 2.57,
+      "eps_actual": 2.6,
+      "surprise_pct": 1.09,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ACN",
+      "earnings_date": "2022-12-16T06:00:00-05:00",
+      "eps_estimate": 2.93,
+      "eps_actual": 3.08,
+      "surprise_pct": 5.3,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ACN",
+      "earnings_date": "2023-03-23T06:00:00-04:00",
+      "eps_estimate": 2.5,
+      "eps_actual": 2.39,
+      "surprise_pct": -4.36,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ACN",
+      "earnings_date": "2023-06-22T06:00:00-04:00",
+      "eps_estimate": 3.0,
+      "eps_actual": 3.15,
+      "surprise_pct": 5.08,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ACN",
+      "earnings_date": "2023-09-28T06:00:00-04:00",
+      "eps_estimate": 2.63,
+      "eps_actual": 2.71,
+      "surprise_pct": 2.86,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ACN",
+      "earnings_date": "2023-12-19T06:00:00-05:00",
+      "eps_estimate": 3.13,
+      "eps_actual": 3.27,
+      "surprise_pct": 4.46,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ACN",
+      "earnings_date": "2024-03-21T06:00:00-04:00",
+      "eps_estimate": 2.66,
+      "eps_actual": 2.77,
+      "surprise_pct": 4.05,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ACN",
+      "earnings_date": "2024-06-20T06:00:00-04:00",
+      "eps_estimate": 3.16,
+      "eps_actual": 3.13,
+      "surprise_pct": -0.93,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ACN",
+      "earnings_date": "2024-09-26T06:00:00-04:00",
+      "eps_estimate": 2.77,
+      "eps_actual": 2.79,
+      "surprise_pct": 0.63,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ACN",
+      "earnings_date": "2024-12-19T06:00:00-05:00",
+      "eps_estimate": 3.42,
+      "eps_actual": 3.59,
+      "surprise_pct": 5.12,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ACN",
+      "earnings_date": "2025-03-20T06:00:00-04:00",
+      "eps_estimate": 2.79,
+      "eps_actual": 2.82,
+      "surprise_pct": 1.11,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ACN",
+      "earnings_date": "2025-06-20T06:00:00-04:00",
+      "eps_estimate": 3.32,
+      "eps_actual": 3.49,
+      "surprise_pct": 5.03,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ACN",
+      "earnings_date": "2025-09-25T06:00:00-04:00",
+      "eps_estimate": 2.97,
+      "eps_actual": 3.03,
+      "surprise_pct": 1.97,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ACN",
+      "earnings_date": "2025-12-18T06:00:00-05:00",
+      "eps_estimate": 3.4,
+      "eps_actual": 3.54,
+      "surprise_pct": 4.27,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ACN",
+      "earnings_date": "2026-03-19T06:00:00-04:00",
+      "eps_estimate": 2.84,
+      "eps_actual": 2.93,
+      "surprise_pct": 3.26,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ACN",
+      "earnings_date": "2026-06-18T08:00:00-04:00",
+      "eps_estimate": 3.73,
+      "eps_actual": null,
+      "surprise_pct": null,
+      "surprise_source": "yfinance_native"
+    }
+  ],
+  "AMTM": [
+    {
+      "ticker": "AMTM",
+      "earnings_date": "2024-12-16T16:00:00-05:00",
+      "eps_estimate": 0.25,
+      "eps_actual": 0.47,
+      "surprise_pct": 88.0,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "AMTM",
+      "earnings_date": "2025-02-04T16:00:00-05:00",
+      "eps_estimate": 0.45,
+      "eps_actual": 0.51,
+      "surprise_pct": 12.5,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "AMTM",
+      "earnings_date": "2025-05-06T16:00:00-04:00",
+      "eps_estimate": 0.07,
+      "eps_actual": 0.02,
+      "surprise_pct": -71.43,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "AMTM",
+      "earnings_date": "2025-08-05T16:00:00-04:00",
+      "eps_estimate": 0.53,
+      "eps_actual": 0.56,
+      "surprise_pct": 5.09,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "AMTM",
+      "earnings_date": "2025-11-24T16:00:00-05:00",
+      "eps_estimate": 0.59,
+      "eps_actual": 0.63,
+      "surprise_pct": 6.49,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "AMTM",
+      "earnings_date": "2026-02-09T16:00:00-05:00",
+      "eps_estimate": 0.52,
+      "eps_actual": 0.54,
+      "surprise_pct": 4.44,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "AMTM",
+      "earnings_date": "2026-05-11T16:00:00-04:00",
+      "eps_estimate": 0.57,
+      "eps_actual": null,
+      "surprise_pct": null,
+      "surprise_source": "yfinance_native"
+    }
+  ],
+  "AVAV": [
+    {
+      "ticker": "AVAV",
+      "earnings_date": "2020-06-23T16:00:00-04:00",
+      "eps_estimate": 0.69,
+      "eps_actual": 0.75,
+      "surprise_pct": 9.49,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "AVAV",
+      "earnings_date": "2020-09-09T16:00:00-04:00",
+      "eps_estimate": 0.39,
+      "eps_actual": 0.44,
+      "surprise_pct": 12.24,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "AVAV",
+      "earnings_date": "2020-12-08T16:00:00-05:00",
+      "eps_estimate": 0.31,
+      "eps_actual": 0.48,
+      "surprise_pct": 56.86,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "AVAV",
+      "earnings_date": "2021-03-09T16:00:00-05:00",
+      "eps_estimate": null,
+      "eps_actual": 0.14,
+      "surprise_pct": 6900.0,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "AVAV",
+      "earnings_date": "2021-06-29T16:00:00-04:00",
+      "eps_estimate": 0.81,
+      "eps_actual": 1.04,
+      "surprise_pct": 27.76,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "AVAV",
+      "earnings_date": "2021-09-08T16:00:00-04:00",
+      "eps_estimate": -0.25,
+      "eps_actual": -0.17,
+      "surprise_pct": 32.54,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "AVAV",
+      "earnings_date": "2021-12-07T10:00:00-05:00",
+      "eps_estimate": 0.64,
+      "eps_actual": 0.78,
+      "surprise_pct": 22.83,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "AVAV",
+      "earnings_date": "2022-03-03T16:00:00-05:00",
+      "eps_estimate": 0.3,
+      "eps_actual": 0.32,
+      "surprise_pct": 7.26,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "AVAV",
+      "earnings_date": "2022-06-28T16:00:00-04:00",
+      "eps_estimate": 0.4,
+      "eps_actual": 0.3,
+      "surprise_pct": -25.31,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "AVAV",
+      "earnings_date": "2022-09-07T16:00:00-04:00",
+      "eps_estimate": 0.12,
+      "eps_actual": -0.1,
+      "surprise_pct": -184.51,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "AVAV",
+      "earnings_date": "2022-12-06T16:00:00-05:00",
+      "eps_estimate": 0.24,
+      "eps_actual": null,
+      "surprise_pct": -100.0,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "AVAV",
+      "earnings_date": "2023-03-06T16:00:00-05:00",
+      "eps_estimate": 0.43,
+      "eps_actual": 0.33,
+      "surprise_pct": -23.55,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "AVAV",
+      "earnings_date": "2023-06-27T16:00:00-04:00",
+      "eps_estimate": 1.0,
+      "eps_actual": 0.99,
+      "surprise_pct": -1.2,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "AVAV",
+      "earnings_date": "2023-09-05T16:00:00-04:00",
+      "eps_estimate": 0.3,
+      "eps_actual": 1.0,
+      "surprise_pct": 235.57,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "AVAV",
+      "earnings_date": "2023-12-05T16:00:00-05:00",
+      "eps_estimate": 0.61,
+      "eps_actual": 0.97,
+      "surprise_pct": 57.98,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "AVAV",
+      "earnings_date": "2024-03-04T16:00:00-05:00",
+      "eps_estimate": 0.34,
+      "eps_actual": 0.63,
+      "surprise_pct": 83.14,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "AVAV",
+      "earnings_date": "2024-06-26T16:00:00-04:00",
+      "eps_estimate": 0.21,
+      "eps_actual": 0.43,
+      "surprise_pct": 101.57,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "AVAV",
+      "earnings_date": "2024-09-04T16:00:00-04:00",
+      "eps_estimate": 0.65,
+      "eps_actual": 0.89,
+      "surprise_pct": 37.28,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "AVAV",
+      "earnings_date": "2024-12-04T16:00:00-05:00",
+      "eps_estimate": 0.68,
+      "eps_actual": 0.47,
+      "surprise_pct": -30.88,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "AVAV",
+      "earnings_date": "2025-03-04T16:00:00-05:00",
+      "eps_estimate": 0.72,
+      "eps_actual": 0.3,
+      "surprise_pct": -58.22,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "AVAV",
+      "earnings_date": "2025-06-24T15:00:00-04:00",
+      "eps_estimate": 1.39,
+      "eps_actual": 1.61,
+      "surprise_pct": 15.71,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "AVAV",
+      "earnings_date": "2025-09-09T16:00:00-04:00",
+      "eps_estimate": 0.34,
+      "eps_actual": 0.32,
+      "surprise_pct": -6.71,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "AVAV",
+      "earnings_date": "2025-12-09T16:00:00-05:00",
+      "eps_estimate": 0.79,
+      "eps_actual": 0.44,
+      "surprise_pct": -44.23,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "AVAV",
+      "earnings_date": "2026-03-10T16:00:00-04:00",
+      "eps_estimate": 0.69,
+      "eps_actual": 0.64,
+      "surprise_pct": -7.39,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "AVAV",
+      "earnings_date": "2026-06-23T16:00:00-04:00",
+      "eps_estimate": 1.47,
+      "eps_actual": null,
+      "surprise_pct": null,
+      "surprise_source": "yfinance_native"
+    }
+  ],
+  "BA": [
+    {
+      "ticker": "BA",
+      "earnings_date": "2020-07-29T07:00:00-04:00",
+      "eps_estimate": -2.53,
+      "eps_actual": -4.79,
+      "surprise_pct": -89.6,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "BA",
+      "earnings_date": "2020-10-28T07:00:00-04:00",
+      "eps_estimate": -2.21,
+      "eps_actual": -1.39,
+      "surprise_pct": 37.14,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "BA",
+      "earnings_date": "2021-01-27T07:00:00-05:00",
+      "eps_estimate": -1.65,
+      "eps_actual": -15.25,
+      "surprise_pct": -825.97,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "BA",
+      "earnings_date": "2021-04-28T12:00:00-04:00",
+      "eps_estimate": -1.09,
+      "eps_actual": -1.53,
+      "surprise_pct": -41.01,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "BA",
+      "earnings_date": "2021-07-28T07:00:00-04:00",
+      "eps_estimate": -0.73,
+      "eps_actual": 0.4,
+      "surprise_pct": 154.9,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "BA",
+      "earnings_date": "2021-10-27T07:00:00-04:00",
+      "eps_estimate": -0.15,
+      "eps_actual": -0.6,
+      "surprise_pct": -299.02,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "BA",
+      "earnings_date": "2022-01-26T07:00:00-05:00",
+      "eps_estimate": -0.16,
+      "eps_actual": -7.69,
+      "surprise_pct": -4731.92,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "BA",
+      "earnings_date": "2022-04-27T07:00:00-04:00",
+      "eps_estimate": -0.25,
+      "eps_actual": -2.75,
+      "surprise_pct": -995.84,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "BA",
+      "earnings_date": "2022-07-27T07:00:00-04:00",
+      "eps_estimate": -0.11,
+      "eps_actual": -0.37,
+      "surprise_pct": -246.34,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "BA",
+      "earnings_date": "2022-10-26T07:00:00-04:00",
+      "eps_estimate": 0.09,
+      "eps_actual": -6.18,
+      "surprise_pct": -7213.26,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "BA",
+      "earnings_date": "2023-01-25T07:00:00-05:00",
+      "eps_estimate": 0.2,
+      "eps_actual": -1.75,
+      "surprise_pct": -961.26,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "BA",
+      "earnings_date": "2023-04-26T07:00:00-04:00",
+      "eps_estimate": -1.05,
+      "eps_actual": -1.27,
+      "surprise_pct": -20.87,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "BA",
+      "earnings_date": "2023-07-26T07:00:00-04:00",
+      "eps_estimate": -0.89,
+      "eps_actual": -0.82,
+      "surprise_pct": 8.24,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "BA",
+      "earnings_date": "2023-10-25T07:00:00-04:00",
+      "eps_estimate": -2.61,
+      "eps_actual": -3.26,
+      "surprise_pct": -25.01,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "BA",
+      "earnings_date": "2024-01-31T07:00:00-05:00",
+      "eps_estimate": -0.79,
+      "eps_actual": -0.47,
+      "surprise_pct": 40.28,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "BA",
+      "earnings_date": "2024-04-24T07:00:00-04:00",
+      "eps_estimate": -1.52,
+      "eps_actual": -1.13,
+      "surprise_pct": 25.63,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "BA",
+      "earnings_date": "2024-07-31T07:00:00-04:00",
+      "eps_estimate": -2.01,
+      "eps_actual": -2.9,
+      "surprise_pct": -44.2,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "BA",
+      "earnings_date": "2024-10-23T07:00:00-04:00",
+      "eps_estimate": -8.72,
+      "eps_actual": -10.44,
+      "surprise_pct": -19.66,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "BA",
+      "earnings_date": "2025-01-28T07:00:00-05:00",
+      "eps_estimate": -3.78,
+      "eps_actual": -5.9,
+      "surprise_pct": -56.1,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "BA",
+      "earnings_date": "2025-04-23T07:00:00-04:00",
+      "eps_estimate": -1.3,
+      "eps_actual": -0.49,
+      "surprise_pct": 62.39,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "BA",
+      "earnings_date": "2025-07-29T07:00:00-04:00",
+      "eps_estimate": -1.27,
+      "eps_actual": -1.24,
+      "surprise_pct": 2.35,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "BA",
+      "earnings_date": "2025-10-29T07:00:00-04:00",
+      "eps_estimate": -2.38,
+      "eps_actual": -7.47,
+      "surprise_pct": -214.44,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "BA",
+      "earnings_date": "2026-01-27T07:00:00-05:00",
+      "eps_estimate": -0.42,
+      "eps_actual": 9.92,
+      "surprise_pct": 2447.98,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "BA",
+      "earnings_date": "2026-04-22T07:00:00-04:00",
+      "eps_estimate": -0.67,
+      "eps_actual": -0.2,
+      "surprise_pct": 70.26,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "BA",
+      "earnings_date": "2026-07-28T08:00:00-04:00",
+      "eps_estimate": -0.14,
+      "eps_actual": null,
+      "surprise_pct": null,
+      "surprise_source": "yfinance_native"
+    }
+  ],
+  "BAESY": [
+    {
+      "ticker": "BAESY",
+      "earnings_date": "2026-07-30T16:00:00-04:00",
+      "eps_estimate": null,
+      "eps_actual": null,
+      "surprise_pct": null,
+      "surprise_source": "yfinance_native"
+    }
+  ],
+  "BAH": [
+    {
+      "ticker": "BAH",
+      "earnings_date": "2020-05-26T07:00:00-04:00",
+      "eps_estimate": 0.71,
+      "eps_actual": 0.73,
+      "surprise_pct": 3.17,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "BAH",
+      "earnings_date": "2020-07-31T09:00:00-04:00",
+      "eps_estimate": 0.86,
+      "eps_actual": 0.93,
+      "surprise_pct": 8.31,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "BAH",
+      "earnings_date": "2020-10-30T06:00:00-04:00",
+      "eps_estimate": 0.92,
+      "eps_actual": 1.03,
+      "surprise_pct": 12.23,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "BAH",
+      "earnings_date": "2021-01-29T06:00:00-05:00",
+      "eps_estimate": 0.94,
+      "eps_actual": 1.04,
+      "surprise_pct": 10.24,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "BAH",
+      "earnings_date": "2021-05-21T06:00:00-04:00",
+      "eps_estimate": 0.82,
+      "eps_actual": 0.89,
+      "surprise_pct": 7.99,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "BAH",
+      "earnings_date": "2021-07-30T06:00:00-04:00",
+      "eps_estimate": 0.97,
+      "eps_actual": 1.07,
+      "surprise_pct": 10.31,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "BAH",
+      "earnings_date": "2021-10-29T06:00:00-04:00",
+      "eps_estimate": 1.08,
+      "eps_actual": 1.26,
+      "surprise_pct": 16.73,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "BAH",
+      "earnings_date": "2022-01-28T06:00:00-05:00",
+      "eps_estimate": 0.98,
+      "eps_actual": 1.02,
+      "surprise_pct": 4.51,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "BAH",
+      "earnings_date": "2022-05-20T06:00:00-04:00",
+      "eps_estimate": 0.85,
+      "eps_actual": 0.86,
+      "surprise_pct": 1.16,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "BAH",
+      "earnings_date": "2022-07-29T06:00:00-04:00",
+      "eps_estimate": 1.06,
+      "eps_actual": 1.13,
+      "surprise_pct": 6.86,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "BAH",
+      "earnings_date": "2022-10-28T06:00:00-04:00",
+      "eps_estimate": 1.13,
+      "eps_actual": 1.34,
+      "surprise_pct": 18.86,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "BAH",
+      "earnings_date": "2023-01-27T06:00:00-05:00",
+      "eps_estimate": 1.04,
+      "eps_actual": 1.07,
+      "surprise_pct": 3.34,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "BAH",
+      "earnings_date": "2023-05-26T06:00:00-04:00",
+      "eps_estimate": 0.95,
+      "eps_actual": 1.01,
+      "surprise_pct": 6.87,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "BAH",
+      "earnings_date": "2023-07-28T06:00:00-04:00",
+      "eps_estimate": 1.25,
+      "eps_actual": 1.47,
+      "surprise_pct": 17.18,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "BAH",
+      "earnings_date": "2023-10-27T06:00:00-04:00",
+      "eps_estimate": 1.33,
+      "eps_actual": 1.29,
+      "surprise_pct": -2.7,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "BAH",
+      "earnings_date": "2024-01-26T06:00:00-05:00",
+      "eps_estimate": 1.16,
+      "eps_actual": 1.41,
+      "surprise_pct": 21.45,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "BAH",
+      "earnings_date": "2024-05-24T06:00:00-04:00",
+      "eps_estimate": 1.23,
+      "eps_actual": 1.33,
+      "surprise_pct": 8.31,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "BAH",
+      "earnings_date": "2024-07-26T06:00:00-04:00",
+      "eps_estimate": 1.52,
+      "eps_actual": 1.38,
+      "surprise_pct": -9.22,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "BAH",
+      "earnings_date": "2024-10-25T06:00:00-04:00",
+      "eps_estimate": 1.49,
+      "eps_actual": 1.81,
+      "surprise_pct": 21.69,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "BAH",
+      "earnings_date": "2025-01-30T19:00:00-05:00",
+      "eps_estimate": 1.52,
+      "eps_actual": 1.55,
+      "surprise_pct": 1.91,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "BAH",
+      "earnings_date": "2025-05-23T06:00:00-04:00",
+      "eps_estimate": 1.61,
+      "eps_actual": 1.61,
+      "surprise_pct": -0.27,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "BAH",
+      "earnings_date": "2025-07-25T06:00:00-04:00",
+      "eps_estimate": 1.33,
+      "eps_actual": 2.16,
+      "surprise_pct": 61.97,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "BAH",
+      "earnings_date": "2025-10-24T06:00:00-04:00",
+      "eps_estimate": 1.51,
+      "eps_actual": 1.49,
+      "surprise_pct": -1.42,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "BAH",
+      "earnings_date": "2026-01-23T06:00:00-05:00",
+      "eps_estimate": 1.29,
+      "eps_actual": 1.77,
+      "surprise_pct": 37.08,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "BAH",
+      "earnings_date": "2026-05-22T08:00:00-04:00",
+      "eps_estimate": 1.33,
+      "eps_actual": null,
+      "surprise_pct": null,
+      "surprise_source": "yfinance_native"
+    }
+  ],
+  "CACI": [
+    {
+      "ticker": "CACI",
+      "earnings_date": "2020-08-12T16:00:00-04:00",
+      "eps_estimate": 3.47,
+      "eps_actual": 3.68,
+      "surprise_pct": 6.15,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "CACI",
+      "earnings_date": "2020-10-28T16:00:00-04:00",
+      "eps_estimate": 3.05,
+      "eps_actual": 3.67,
+      "surprise_pct": 20.41,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "CACI",
+      "earnings_date": "2021-01-27T16:00:00-05:00",
+      "eps_estimate": 3.61,
+      "eps_actual": 4.18,
+      "surprise_pct": 15.88,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "CACI",
+      "earnings_date": "2021-04-21T16:00:00-04:00",
+      "eps_estimate": 3.7,
+      "eps_actual": 4.78,
+      "surprise_pct": 29.12,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "CACI",
+      "earnings_date": "2021-08-11T16:00:00-04:00",
+      "eps_estimate": 5.55,
+      "eps_actual": 5.74,
+      "surprise_pct": 3.45,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "CACI",
+      "earnings_date": "2021-10-27T16:00:00-04:00",
+      "eps_estimate": 4.11,
+      "eps_actual": 4.24,
+      "surprise_pct": 3.07,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "CACI",
+      "earnings_date": "2022-01-26T16:00:00-05:00",
+      "eps_estimate": 4.45,
+      "eps_actual": 4.39,
+      "surprise_pct": -1.33,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "CACI",
+      "earnings_date": "2022-04-27T16:00:00-04:00",
+      "eps_estimate": 4.8,
+      "eps_actual": 4.64,
+      "surprise_pct": -3.34,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "CACI",
+      "earnings_date": "2022-08-10T16:00:00-04:00",
+      "eps_estimate": 4.57,
+      "eps_actual": 4.54,
+      "surprise_pct": -0.64,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "CACI",
+      "earnings_date": "2022-10-26T16:00:00-04:00",
+      "eps_estimate": 4.25,
+      "eps_actual": 4.36,
+      "surprise_pct": 2.48,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "CACI",
+      "earnings_date": "2023-01-25T16:00:00-05:00",
+      "eps_estimate": 4.34,
+      "eps_actual": 4.28,
+      "surprise_pct": -1.31,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "CACI",
+      "earnings_date": "2023-04-26T16:00:00-04:00",
+      "eps_estimate": 4.66,
+      "eps_actual": 4.92,
+      "surprise_pct": 5.67,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "CACI",
+      "earnings_date": "2023-08-09T16:00:00-04:00",
+      "eps_estimate": 4.9,
+      "eps_actual": 5.3,
+      "surprise_pct": 8.14,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "CACI",
+      "earnings_date": "2023-10-25T16:00:00-04:00",
+      "eps_estimate": 4.55,
+      "eps_actual": 4.36,
+      "surprise_pct": -4.08,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "CACI",
+      "earnings_date": "2024-01-24T16:00:00-05:00",
+      "eps_estimate": 4.48,
+      "eps_actual": 4.36,
+      "surprise_pct": -2.72,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "CACI",
+      "earnings_date": "2024-04-24T16:00:00-04:00",
+      "eps_estimate": 5.54,
+      "eps_actual": 5.74,
+      "surprise_pct": 3.65,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "CACI",
+      "earnings_date": "2024-08-07T16:00:00-04:00",
+      "eps_estimate": 5.93,
+      "eps_actual": 6.61,
+      "surprise_pct": 11.45,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "CACI",
+      "earnings_date": "2024-10-23T16:00:00-04:00",
+      "eps_estimate": 5.04,
+      "eps_actual": 5.93,
+      "surprise_pct": 17.66,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "CACI",
+      "earnings_date": "2025-01-22T16:00:00-05:00",
+      "eps_estimate": 5.2,
+      "eps_actual": 5.95,
+      "surprise_pct": 14.42,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "CACI",
+      "earnings_date": "2025-04-23T16:00:00-04:00",
+      "eps_estimate": 5.6,
+      "eps_actual": 6.23,
+      "surprise_pct": 11.3,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "CACI",
+      "earnings_date": "2025-08-06T16:00:00-04:00",
+      "eps_estimate": 6.58,
+      "eps_actual": 8.4,
+      "surprise_pct": 27.73,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "CACI",
+      "earnings_date": "2025-10-22T16:00:00-04:00",
+      "eps_estimate": 6.17,
+      "eps_actual": 6.85,
+      "surprise_pct": 11.04,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "CACI",
+      "earnings_date": "2026-01-21T16:00:00-05:00",
+      "eps_estimate": 6.5,
+      "eps_actual": 6.81,
+      "surprise_pct": 4.75,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "CACI",
+      "earnings_date": "2026-04-22T16:00:00-04:00",
+      "eps_estimate": 6.93,
+      "eps_actual": 7.27,
+      "surprise_pct": 4.95,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "CACI",
+      "earnings_date": "2026-08-05T16:00:00-04:00",
+      "eps_estimate": 7.39,
+      "eps_actual": null,
+      "surprise_pct": null,
+      "surprise_source": "yfinance_native"
+    }
+  ],
+  "CW": [
+    {
+      "ticker": "CW",
+      "earnings_date": "2020-05-06T18:00:00-04:00",
+      "eps_estimate": 1.29,
+      "eps_actual": 1.34,
+      "surprise_pct": 3.65,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "CW",
+      "earnings_date": "2020-08-03T16:00:00-04:00",
+      "eps_estimate": 1.28,
+      "eps_actual": 1.31,
+      "surprise_pct": 2.56,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "CW",
+      "earnings_date": "2020-10-28T17:00:00-04:00",
+      "eps_estimate": 1.54,
+      "eps_actual": 1.85,
+      "surprise_pct": 20.41,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "CW",
+      "earnings_date": "2021-02-24T17:00:00-05:00",
+      "eps_estimate": 2.34,
+      "eps_actual": 2.39,
+      "surprise_pct": 2.36,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "CW",
+      "earnings_date": "2021-05-05T16:00:00-04:00",
+      "eps_estimate": 1.3,
+      "eps_actual": 1.51,
+      "surprise_pct": 16.09,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "CW",
+      "earnings_date": "2021-08-03T16:00:00-04:00",
+      "eps_estimate": 1.54,
+      "eps_actual": 1.56,
+      "surprise_pct": 1.25,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "CW",
+      "earnings_date": "2021-11-03T16:00:00-04:00",
+      "eps_estimate": 1.82,
+      "eps_actual": 1.88,
+      "surprise_pct": 3.55,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "CW",
+      "earnings_date": "2022-02-23T17:00:00-05:00",
+      "eps_estimate": 2.37,
+      "eps_actual": 2.4,
+      "surprise_pct": 1.47,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "CW",
+      "earnings_date": "2022-05-04T16:00:00-04:00",
+      "eps_estimate": 1.2,
+      "eps_actual": 1.31,
+      "surprise_pct": 9.44,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "CW",
+      "earnings_date": "2022-08-03T17:00:00-04:00",
+      "eps_estimate": 1.69,
+      "eps_actual": 1.83,
+      "surprise_pct": 8.28,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "CW",
+      "earnings_date": "2022-11-02T16:00:00-04:00",
+      "eps_estimate": 2.02,
+      "eps_actual": 2.07,
+      "surprise_pct": 2.39,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "CW",
+      "earnings_date": "2023-02-21T16:00:00-05:00",
+      "eps_estimate": 2.91,
+      "eps_actual": 2.92,
+      "surprise_pct": 0.34,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "CW",
+      "earnings_date": "2023-05-03T16:00:00-04:00",
+      "eps_estimate": 1.4,
+      "eps_actual": 1.53,
+      "surprise_pct": 9.6,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "CW",
+      "earnings_date": "2023-08-02T16:00:00-04:00",
+      "eps_estimate": 1.98,
+      "eps_actual": 2.15,
+      "surprise_pct": 8.49,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "CW",
+      "earnings_date": "2023-11-01T16:00:00-04:00",
+      "eps_estimate": 2.38,
+      "eps_actual": 2.54,
+      "surprise_pct": 6.54,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "CW",
+      "earnings_date": "2024-02-14T16:00:00-05:00",
+      "eps_estimate": 2.92,
+      "eps_actual": 3.16,
+      "surprise_pct": 8.16,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "CW",
+      "earnings_date": "2024-05-01T16:00:00-04:00",
+      "eps_estimate": 1.72,
+      "eps_actual": 1.99,
+      "surprise_pct": 15.43,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "CW",
+      "earnings_date": "2024-08-07T16:00:00-04:00",
+      "eps_estimate": 2.29,
+      "eps_actual": 2.67,
+      "surprise_pct": 16.68,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "CW",
+      "earnings_date": "2024-10-30T16:00:00-04:00",
+      "eps_estimate": 2.69,
+      "eps_actual": 2.97,
+      "surprise_pct": 10.33,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "CW",
+      "earnings_date": "2025-02-12T16:00:00-05:00",
+      "eps_estimate": 3.09,
+      "eps_actual": 3.27,
+      "surprise_pct": 5.89,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "CW",
+      "earnings_date": "2025-05-07T16:00:00-04:00",
+      "eps_estimate": 2.39,
+      "eps_actual": 2.82,
+      "surprise_pct": 18.23,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "CW",
+      "earnings_date": "2025-08-06T16:00:00-04:00",
+      "eps_estimate": 3.13,
+      "eps_actual": 3.23,
+      "surprise_pct": 3.33,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "CW",
+      "earnings_date": "2025-11-05T16:00:00-05:00",
+      "eps_estimate": 3.29,
+      "eps_actual": 3.4,
+      "surprise_pct": 3.34,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "CW",
+      "earnings_date": "2026-02-11T16:00:00-05:00",
+      "eps_estimate": 3.69,
+      "eps_actual": 3.79,
+      "surprise_pct": 2.82,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "CW",
+      "earnings_date": "2026-05-06T16:00:00-04:00",
+      "eps_estimate": 3.3,
+      "eps_actual": null,
+      "surprise_pct": null,
+      "surprise_source": "yfinance_native"
+    }
+  ],
+  "DELL": [
+    {
+      "ticker": "DELL",
+      "earnings_date": "2020-05-28T16:00:00-04:00",
+      "eps_estimate": 0.94,
+      "eps_actual": 1.34,
+      "surprise_pct": 42.82,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "DELL",
+      "earnings_date": "2020-08-27T16:00:00-04:00",
+      "eps_estimate": 1.4,
+      "eps_actual": 1.92,
+      "surprise_pct": 37.49,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "DELL",
+      "earnings_date": "2020-11-24T16:00:00-05:00",
+      "eps_estimate": 1.42,
+      "eps_actual": 2.03,
+      "surprise_pct": 42.91,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "DELL",
+      "earnings_date": "2021-02-25T16:00:00-05:00",
+      "eps_estimate": 2.14,
+      "eps_actual": 2.7,
+      "surprise_pct": 26.1,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "DELL",
+      "earnings_date": "2021-05-27T16:00:00-04:00",
+      "eps_estimate": 1.62,
+      "eps_actual": 2.13,
+      "surprise_pct": 31.5,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "DELL",
+      "earnings_date": "2021-08-26T16:00:00-04:00",
+      "eps_estimate": 2.04,
+      "eps_actual": 2.24,
+      "surprise_pct": 9.76,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "DELL",
+      "earnings_date": "2021-11-23T16:00:00-05:00",
+      "eps_estimate": 2.3,
+      "eps_actual": 2.37,
+      "surprise_pct": 2.97,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "DELL",
+      "earnings_date": "2022-02-24T16:00:00-05:00",
+      "eps_estimate": 1.95,
+      "eps_actual": 1.72,
+      "surprise_pct": -11.95,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "DELL",
+      "earnings_date": "2022-05-26T16:00:00-04:00",
+      "eps_estimate": 1.4,
+      "eps_actual": 1.84,
+      "surprise_pct": 31.17,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "DELL",
+      "earnings_date": "2022-08-25T16:00:00-04:00",
+      "eps_estimate": 1.64,
+      "eps_actual": 1.68,
+      "surprise_pct": 2.61,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "DELL",
+      "earnings_date": "2022-11-21T16:00:00-05:00",
+      "eps_estimate": 1.61,
+      "eps_actual": 2.3,
+      "surprise_pct": 43.09,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "DELL",
+      "earnings_date": "2023-03-02T16:00:00-05:00",
+      "eps_estimate": 1.64,
+      "eps_actual": 1.8,
+      "surprise_pct": 9.88,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "DELL",
+      "earnings_date": "2023-06-01T15:00:00-04:00",
+      "eps_estimate": 0.85,
+      "eps_actual": 1.31,
+      "surprise_pct": 53.67,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "DELL",
+      "earnings_date": "2023-08-31T16:00:00-04:00",
+      "eps_estimate": 1.14,
+      "eps_actual": 1.74,
+      "surprise_pct": 53.07,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "DELL",
+      "earnings_date": "2023-11-30T16:00:00-05:00",
+      "eps_estimate": 1.46,
+      "eps_actual": 1.88,
+      "surprise_pct": 29.19,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "DELL",
+      "earnings_date": "2024-02-29T16:00:00-05:00",
+      "eps_estimate": 1.72,
+      "eps_actual": 2.2,
+      "surprise_pct": 27.92,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "DELL",
+      "earnings_date": "2024-05-30T16:00:00-04:00",
+      "eps_estimate": 1.29,
+      "eps_actual": 1.27,
+      "surprise_pct": -1.92,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "DELL",
+      "earnings_date": "2024-08-29T16:00:00-04:00",
+      "eps_estimate": 1.71,
+      "eps_actual": 1.89,
+      "surprise_pct": 10.22,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "DELL",
+      "earnings_date": "2024-11-26T16:00:00-05:00",
+      "eps_estimate": 2.06,
+      "eps_actual": 2.15,
+      "surprise_pct": 4.25,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "DELL",
+      "earnings_date": "2025-02-27T16:00:00-05:00",
+      "eps_estimate": 2.52,
+      "eps_actual": 2.68,
+      "surprise_pct": 6.42,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "DELL",
+      "earnings_date": "2025-05-29T16:00:00-04:00",
+      "eps_estimate": 1.69,
+      "eps_actual": 1.55,
+      "surprise_pct": -8.38,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "DELL",
+      "earnings_date": "2025-08-28T16:00:00-04:00",
+      "eps_estimate": 2.29,
+      "eps_actual": 2.32,
+      "surprise_pct": 1.24,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "DELL",
+      "earnings_date": "2025-11-25T16:00:00-05:00",
+      "eps_estimate": 2.48,
+      "eps_actual": 2.59,
+      "surprise_pct": 4.55,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "DELL",
+      "earnings_date": "2026-02-26T16:00:00-05:00",
+      "eps_estimate": 3.51,
+      "eps_actual": 3.89,
+      "surprise_pct": 10.74,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "DELL",
+      "earnings_date": "2026-05-28T16:00:00-04:00",
+      "eps_estimate": 2.94,
+      "eps_actual": null,
+      "surprise_pct": null,
+      "surprise_source": "yfinance_native"
+    }
+  ],
+  "F": [
+    {
+      "ticker": "F",
+      "earnings_date": "2020-04-28T16:00:00-04:00",
+      "eps_estimate": -0.06,
+      "eps_actual": -0.23,
+      "surprise_pct": -293.03,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "F",
+      "earnings_date": "2020-07-30T16:00:00-04:00",
+      "eps_estimate": -1.16,
+      "eps_actual": -0.35,
+      "surprise_pct": 69.88,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "F",
+      "earnings_date": "2020-10-28T16:00:00-04:00",
+      "eps_estimate": 0.18,
+      "eps_actual": 0.65,
+      "surprise_pct": 261.94,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "F",
+      "earnings_date": "2021-02-04T16:00:00-05:00",
+      "eps_estimate": -0.08,
+      "eps_actual": 0.34,
+      "surprise_pct": 503.66,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "F",
+      "earnings_date": "2021-04-28T16:00:00-04:00",
+      "eps_estimate": 0.21,
+      "eps_actual": 0.89,
+      "surprise_pct": 321.46,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "F",
+      "earnings_date": "2021-07-28T16:00:00-04:00",
+      "eps_estimate": 0.03,
+      "eps_actual": 0.13,
+      "surprise_pct": 301.85,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "F",
+      "earnings_date": "2021-10-27T16:00:00-04:00",
+      "eps_estimate": 0.27,
+      "eps_actual": 0.51,
+      "surprise_pct": 86.44,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "F",
+      "earnings_date": "2022-02-03T16:00:00-05:00",
+      "eps_estimate": 0.41,
+      "eps_actual": 0.26,
+      "surprise_pct": -37.28,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "F",
+      "earnings_date": "2022-04-27T16:00:00-04:00",
+      "eps_estimate": 0.37,
+      "eps_actual": 0.38,
+      "surprise_pct": 2.12,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "F",
+      "earnings_date": "2022-07-27T16:00:00-04:00",
+      "eps_estimate": 0.45,
+      "eps_actual": 0.68,
+      "surprise_pct": 52.64,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "F",
+      "earnings_date": "2022-10-26T17:00:00-04:00",
+      "eps_estimate": 0.3,
+      "eps_actual": 0.3,
+      "surprise_pct": -0.38,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "F",
+      "earnings_date": "2023-02-02T16:00:00-05:00",
+      "eps_estimate": 0.62,
+      "eps_actual": 0.51,
+      "surprise_pct": -17.59,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "F",
+      "earnings_date": "2023-05-02T16:00:00-04:00",
+      "eps_estimate": 0.41,
+      "eps_actual": 0.63,
+      "surprise_pct": 55.22,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "F",
+      "earnings_date": "2023-07-27T16:00:00-04:00",
+      "eps_estimate": 0.54,
+      "eps_actual": 0.72,
+      "surprise_pct": 33.71,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "F",
+      "earnings_date": "2023-10-26T16:00:00-04:00",
+      "eps_estimate": 0.46,
+      "eps_actual": 0.39,
+      "surprise_pct": -14.46,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "F",
+      "earnings_date": "2024-02-06T16:00:00-05:00",
+      "eps_estimate": 0.12,
+      "eps_actual": 0.29,
+      "surprise_pct": 137.7,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "F",
+      "earnings_date": "2024-04-24T16:00:00-04:00",
+      "eps_estimate": 0.44,
+      "eps_actual": 0.49,
+      "surprise_pct": 12.16,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "F",
+      "earnings_date": "2024-07-24T16:00:00-04:00",
+      "eps_estimate": 0.68,
+      "eps_actual": 0.47,
+      "surprise_pct": -31.27,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "F",
+      "earnings_date": "2024-10-28T16:00:00-04:00",
+      "eps_estimate": 0.47,
+      "eps_actual": 0.49,
+      "surprise_pct": 3.47,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "F",
+      "earnings_date": "2025-02-05T16:00:00-05:00",
+      "eps_estimate": 0.32,
+      "eps_actual": 0.39,
+      "surprise_pct": 20.36,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "F",
+      "earnings_date": "2025-05-05T16:00:00-04:00",
+      "eps_estimate": 0.02,
+      "eps_actual": 0.12,
+      "surprise_pct": 549.35,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "F",
+      "earnings_date": "2025-07-30T16:00:00-04:00",
+      "eps_estimate": 0.33,
+      "eps_actual": 0.37,
+      "surprise_pct": 11.11,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "F",
+      "earnings_date": "2025-10-23T16:00:00-04:00",
+      "eps_estimate": 0.36,
+      "eps_actual": 0.45,
+      "surprise_pct": 25.41,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "F",
+      "earnings_date": "2026-02-10T16:00:00-05:00",
+      "eps_estimate": -3.38,
+      "eps_actual": -2.77,
+      "surprise_pct": 17.97,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "F",
+      "earnings_date": "2026-04-29T16:00:00-04:00",
+      "eps_estimate": 0.19,
+      "eps_actual": null,
+      "surprise_pct": null,
+      "surprise_source": "yfinance_native"
+    }
+  ],
+  "FLR": [
+    {
+      "ticker": "FLR",
+      "earnings_date": "2020-10-22T07:00:00-04:00",
+      "eps_estimate": 0.3,
+      "eps_actual": 0.28,
+      "surprise_pct": -4.75,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "FLR",
+      "earnings_date": "2020-11-12T07:00:00-05:00",
+      "eps_estimate": 0.2,
+      "eps_actual": -0.16,
+      "surprise_pct": -177.39,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "FLR",
+      "earnings_date": "2020-12-10T07:00:00-05:00",
+      "eps_estimate": 0.26,
+      "eps_actual": 0.14,
+      "surprise_pct": -46.09,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "FLR",
+      "earnings_date": "2021-02-26T07:00:00-05:00",
+      "eps_estimate": 0.28,
+      "eps_actual": -0.18,
+      "surprise_pct": -165.96,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "FLR",
+      "earnings_date": "2021-05-07T06:00:00-04:00",
+      "eps_estimate": 0.04,
+      "eps_actual": 0.07,
+      "surprise_pct": 66.39,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "FLR",
+      "earnings_date": "2021-08-06T06:00:00-04:00",
+      "eps_estimate": 0.08,
+      "eps_actual": 0.32,
+      "surprise_pct": 315.05,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "FLR",
+      "earnings_date": "2021-11-05T06:00:00-04:00",
+      "eps_estimate": 0.15,
+      "eps_actual": 0.23,
+      "surprise_pct": 52.87,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "FLR",
+      "earnings_date": "2022-02-22T06:00:00-05:00",
+      "eps_estimate": 0.27,
+      "eps_actual": 0.31,
+      "surprise_pct": 13.92,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "FLR",
+      "earnings_date": "2022-05-06T06:00:00-04:00",
+      "eps_estimate": 0.22,
+      "eps_actual": 0.16,
+      "surprise_pct": -26.68,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "FLR",
+      "earnings_date": "2022-08-05T06:00:00-04:00",
+      "eps_estimate": 0.3,
+      "eps_actual": 0.13,
+      "surprise_pct": -56.44,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "FLR",
+      "earnings_date": "2022-11-04T06:00:00-04:00",
+      "eps_estimate": 0.42,
+      "eps_actual": 0.07,
+      "surprise_pct": -83.27,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "FLR",
+      "earnings_date": "2023-02-21T06:00:00-05:00",
+      "eps_estimate": 0.51,
+      "eps_actual": 0.43,
+      "surprise_pct": -15.38,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "FLR",
+      "earnings_date": "2023-05-05T06:00:00-04:00",
+      "eps_estimate": 0.37,
+      "eps_actual": 0.28,
+      "surprise_pct": -24.39,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "FLR",
+      "earnings_date": "2023-08-04T07:00:00-04:00",
+      "eps_estimate": 0.43,
+      "eps_actual": 0.76,
+      "surprise_pct": 74.96,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "FLR",
+      "earnings_date": "2023-11-03T05:00:00-04:00",
+      "eps_estimate": 0.57,
+      "eps_actual": 1.02,
+      "surprise_pct": 77.41,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "FLR",
+      "earnings_date": "2024-02-20T06:00:00-05:00",
+      "eps_estimate": 0.57,
+      "eps_actual": 0.68,
+      "surprise_pct": 18.82,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "FLR",
+      "earnings_date": "2024-05-03T06:00:00-04:00",
+      "eps_estimate": 0.53,
+      "eps_actual": 0.47,
+      "surprise_pct": -11.54,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "FLR",
+      "earnings_date": "2024-08-02T05:00:00-04:00",
+      "eps_estimate": 0.67,
+      "eps_actual": 0.85,
+      "surprise_pct": 26.62,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "FLR",
+      "earnings_date": "2024-11-08T05:00:00-05:00",
+      "eps_estimate": 0.76,
+      "eps_actual": 0.51,
+      "surprise_pct": -32.86,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "FLR",
+      "earnings_date": "2025-02-18T06:00:00-05:00",
+      "eps_estimate": 0.78,
+      "eps_actual": 0.48,
+      "surprise_pct": -38.55,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "FLR",
+      "earnings_date": "2025-05-02T05:00:00-04:00",
+      "eps_estimate": 0.5,
+      "eps_actual": 0.73,
+      "surprise_pct": 45.94,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "FLR",
+      "earnings_date": "2025-08-01T05:00:00-04:00",
+      "eps_estimate": 0.56,
+      "eps_actual": 0.43,
+      "surprise_pct": -23.26,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "FLR",
+      "earnings_date": "2025-11-07T05:00:00-05:00",
+      "eps_estimate": 0.45,
+      "eps_actual": 0.68,
+      "surprise_pct": 51.16,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "FLR",
+      "earnings_date": "2026-02-17T06:00:00-05:00",
+      "eps_estimate": 0.34,
+      "eps_actual": 0.33,
+      "surprise_pct": -3.57,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "FLR",
+      "earnings_date": "2026-05-08T08:00:00-04:00",
+      "eps_estimate": 0.62,
+      "eps_actual": null,
+      "surprise_pct": null,
+      "surprise_source": "yfinance_native"
+    }
+  ],
+  "GD": [
+    {
+      "ticker": "GD",
+      "earnings_date": "2020-04-29T08:00:00-04:00",
+      "eps_estimate": 2.46,
+      "eps_actual": 2.43,
+      "surprise_pct": -1.18,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GD",
+      "earnings_date": "2020-07-29T07:00:00-04:00",
+      "eps_estimate": 2.18,
+      "eps_actual": 2.18,
+      "surprise_pct": 0.15,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GD",
+      "earnings_date": "2020-10-28T07:00:00-04:00",
+      "eps_estimate": 2.86,
+      "eps_actual": 2.9,
+      "surprise_pct": 1.37,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GD",
+      "earnings_date": "2021-01-27T07:00:00-05:00",
+      "eps_estimate": 3.54,
+      "eps_actual": 3.49,
+      "surprise_pct": -1.44,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GD",
+      "earnings_date": "2021-04-28T07:00:00-04:00",
+      "eps_estimate": 2.3,
+      "eps_actual": 2.48,
+      "surprise_pct": 7.67,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GD",
+      "earnings_date": "2021-07-28T07:00:00-04:00",
+      "eps_estimate": 2.54,
+      "eps_actual": 2.61,
+      "surprise_pct": 2.83,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GD",
+      "earnings_date": "2021-10-27T07:00:00-04:00",
+      "eps_estimate": 2.98,
+      "eps_actual": 3.07,
+      "surprise_pct": 3.04,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GD",
+      "earnings_date": "2022-01-26T07:00:00-05:00",
+      "eps_estimate": 3.37,
+      "eps_actual": 3.39,
+      "surprise_pct": 0.67,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GD",
+      "earnings_date": "2022-04-27T07:00:00-04:00",
+      "eps_estimate": 2.5,
+      "eps_actual": 2.61,
+      "surprise_pct": 4.3,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GD",
+      "earnings_date": "2022-07-27T07:00:00-04:00",
+      "eps_estimate": 2.72,
+      "eps_actual": 2.75,
+      "surprise_pct": 1.18,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GD",
+      "earnings_date": "2022-10-26T07:00:00-04:00",
+      "eps_estimate": 3.14,
+      "eps_actual": 3.26,
+      "surprise_pct": 3.67,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GD",
+      "earnings_date": "2023-01-25T07:00:00-05:00",
+      "eps_estimate": 3.54,
+      "eps_actual": 3.58,
+      "surprise_pct": 1.2,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GD",
+      "earnings_date": "2023-04-26T07:00:00-04:00",
+      "eps_estimate": 2.58,
+      "eps_actual": 2.64,
+      "surprise_pct": 2.33,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GD",
+      "earnings_date": "2023-07-26T07:00:00-04:00",
+      "eps_estimate": 2.59,
+      "eps_actual": 2.7,
+      "surprise_pct": 4.19,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GD",
+      "earnings_date": "2023-10-25T08:00:00-04:00",
+      "eps_estimate": 2.92,
+      "eps_actual": 3.04,
+      "surprise_pct": 3.93,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GD",
+      "earnings_date": "2024-01-24T07:00:00-05:00",
+      "eps_estimate": 3.62,
+      "eps_actual": 3.64,
+      "surprise_pct": 0.68,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GD",
+      "earnings_date": "2024-04-24T07:00:00-04:00",
+      "eps_estimate": 2.92,
+      "eps_actual": 2.88,
+      "surprise_pct": -1.53,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GD",
+      "earnings_date": "2024-07-24T07:00:00-04:00",
+      "eps_estimate": 3.33,
+      "eps_actual": 3.26,
+      "surprise_pct": -1.99,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GD",
+      "earnings_date": "2024-10-23T07:00:00-04:00",
+      "eps_estimate": 3.51,
+      "eps_actual": 3.35,
+      "surprise_pct": -4.56,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GD",
+      "earnings_date": "2025-01-29T07:00:00-05:00",
+      "eps_estimate": 4.04,
+      "eps_actual": 4.15,
+      "surprise_pct": 2.71,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GD",
+      "earnings_date": "2025-04-23T07:00:00-04:00",
+      "eps_estimate": 3.46,
+      "eps_actual": 3.66,
+      "surprise_pct": 5.72,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GD",
+      "earnings_date": "2025-07-23T07:00:00-04:00",
+      "eps_estimate": 3.54,
+      "eps_actual": 3.74,
+      "surprise_pct": 5.59,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GD",
+      "earnings_date": "2025-10-24T07:00:00-04:00",
+      "eps_estimate": 3.71,
+      "eps_actual": 3.88,
+      "surprise_pct": 4.57,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GD",
+      "earnings_date": "2026-01-28T07:00:00-05:00",
+      "eps_estimate": 4.11,
+      "eps_actual": 4.17,
+      "surprise_pct": 1.54,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GD",
+      "earnings_date": "2026-04-29T08:00:00-04:00",
+      "eps_estimate": 3.69,
+      "eps_actual": null,
+      "surprise_pct": null,
+      "surprise_source": "yfinance_native"
+    }
+  ],
+  "GE": [
+    {
+      "ticker": "GE",
+      "earnings_date": "2020-07-29T06:00:00-04:00",
+      "eps_estimate": -0.72,
+      "eps_actual": -1.2,
+      "surprise_pct": -66.42,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GE",
+      "earnings_date": "2020-10-28T06:00:00-04:00",
+      "eps_estimate": -0.23,
+      "eps_actual": 0.48,
+      "surprise_pct": 306.31,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GE",
+      "earnings_date": "2021-01-26T06:00:00-05:00",
+      "eps_estimate": 0.68,
+      "eps_actual": 0.64,
+      "surprise_pct": -6.33,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GE",
+      "earnings_date": "2021-04-27T06:00:00-04:00",
+      "eps_estimate": 0.08,
+      "eps_actual": 0.24,
+      "surprise_pct": 208.05,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GE",
+      "earnings_date": "2021-07-27T06:00:00-04:00",
+      "eps_estimate": 0.27,
+      "eps_actual": 0.4,
+      "surprise_pct": 49.58,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GE",
+      "earnings_date": "2021-10-26T06:00:00-04:00",
+      "eps_estimate": 0.44,
+      "eps_actual": 0.57,
+      "surprise_pct": 30.03,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GE",
+      "earnings_date": "2022-01-25T06:00:00-05:00",
+      "eps_estimate": 0.82,
+      "eps_actual": 0.92,
+      "surprise_pct": 12.09,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GE",
+      "earnings_date": "2022-04-26T06:00:00-04:00",
+      "eps_estimate": 0.22,
+      "eps_actual": 0.24,
+      "surprise_pct": 7.87,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GE",
+      "earnings_date": "2022-07-26T06:00:00-04:00",
+      "eps_estimate": 0.42,
+      "eps_actual": 0.78,
+      "surprise_pct": 86.22,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GE",
+      "earnings_date": "2022-10-25T06:00:00-04:00",
+      "eps_estimate": 0.49,
+      "eps_actual": 0.35,
+      "surprise_pct": -28.12,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GE",
+      "earnings_date": "2023-01-24T06:00:00-05:00",
+      "eps_estimate": 1.16,
+      "eps_actual": 1.24,
+      "surprise_pct": 6.97,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GE",
+      "earnings_date": "2023-04-25T06:00:00-04:00",
+      "eps_estimate": 0.14,
+      "eps_actual": 0.27,
+      "surprise_pct": 97.56,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GE",
+      "earnings_date": "2023-07-25T06:00:00-04:00",
+      "eps_estimate": 0.46,
+      "eps_actual": 0.68,
+      "surprise_pct": 48.14,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GE",
+      "earnings_date": "2023-10-24T06:00:00-04:00",
+      "eps_estimate": 0.56,
+      "eps_actual": 0.82,
+      "surprise_pct": 46.28,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GE",
+      "earnings_date": "2024-01-23T06:00:00-05:00",
+      "eps_estimate": 0.9,
+      "eps_actual": 1.03,
+      "surprise_pct": 14.86,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GE",
+      "earnings_date": "2024-04-23T06:00:00-04:00",
+      "eps_estimate": 0.7,
+      "eps_actual": 0.82,
+      "surprise_pct": 16.42,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GE",
+      "earnings_date": "2024-07-23T06:00:00-04:00",
+      "eps_estimate": 0.99,
+      "eps_actual": 1.2,
+      "surprise_pct": 20.79,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GE",
+      "earnings_date": "2024-10-22T06:00:00-04:00",
+      "eps_estimate": 1.13,
+      "eps_actual": 1.15,
+      "surprise_pct": 1.34,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GE",
+      "earnings_date": "2025-01-23T06:00:00-05:00",
+      "eps_estimate": 1.04,
+      "eps_actual": 1.32,
+      "surprise_pct": 26.9,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GE",
+      "earnings_date": "2025-04-22T06:00:00-04:00",
+      "eps_estimate": 1.27,
+      "eps_actual": 1.49,
+      "surprise_pct": 17.51,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GE",
+      "earnings_date": "2025-07-17T06:00:00-04:00",
+      "eps_estimate": 1.43,
+      "eps_actual": 1.66,
+      "surprise_pct": 15.97,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GE",
+      "earnings_date": "2025-10-21T06:00:00-04:00",
+      "eps_estimate": 1.47,
+      "eps_actual": 1.66,
+      "surprise_pct": 13.01,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GE",
+      "earnings_date": "2026-01-22T06:00:00-05:00",
+      "eps_estimate": 1.43,
+      "eps_actual": 1.57,
+      "surprise_pct": 9.81,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GE",
+      "earnings_date": "2026-04-21T06:00:00-04:00",
+      "eps_estimate": 1.6,
+      "eps_actual": 1.86,
+      "surprise_pct": 16.31,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GE",
+      "earnings_date": "2026-07-16T08:00:00-04:00",
+      "eps_estimate": 1.84,
+      "eps_actual": null,
+      "surprise_pct": null,
+      "surprise_source": "yfinance_native"
+    }
+  ],
+  "GIB": [
+    {
+      "ticker": "GIB",
+      "earnings_date": "2020-04-29T06:00:00-04:00",
+      "eps_estimate": 1.22,
+      "eps_actual": 1.26,
+      "surprise_pct": 3.4,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GIB",
+      "earnings_date": "2020-07-29T07:00:00-04:00",
+      "eps_estimate": 1.13,
+      "eps_actual": 1.18,
+      "surprise_pct": 4.03,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GIB",
+      "earnings_date": "2020-11-11T06:00:00-05:00",
+      "eps_estimate": 1.17,
+      "eps_actual": 1.22,
+      "surprise_pct": 4.35,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GIB",
+      "earnings_date": "2021-01-27T06:00:00-05:00",
+      "eps_estimate": 1.24,
+      "eps_actual": 1.33,
+      "surprise_pct": 6.83,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GIB",
+      "earnings_date": "2021-04-28T06:00:00-04:00",
+      "eps_estimate": 1.33,
+      "eps_actual": 1.35,
+      "surprise_pct": 1.31,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GIB",
+      "earnings_date": "2021-07-28T06:00:00-04:00",
+      "eps_estimate": 1.35,
+      "eps_actual": 1.36,
+      "surprise_pct": 0.81,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GIB",
+      "earnings_date": "2021-11-10T06:00:00-05:00",
+      "eps_estimate": 1.35,
+      "eps_actual": 1.4,
+      "surprise_pct": 3.5,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GIB",
+      "earnings_date": "2022-02-02T06:00:00-05:00",
+      "eps_estimate": 1.43,
+      "eps_actual": 1.5,
+      "surprise_pct": 4.68,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GIB",
+      "earnings_date": "2022-04-27T06:00:00-04:00",
+      "eps_estimate": 1.51,
+      "eps_actual": 1.53,
+      "surprise_pct": 1.36,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GIB",
+      "earnings_date": "2022-07-27T07:00:00-04:00",
+      "eps_estimate": 1.53,
+      "eps_actual": 1.54,
+      "surprise_pct": 0.54,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GIB",
+      "earnings_date": "2022-11-09T06:00:00-05:00",
+      "eps_estimate": 1.55,
+      "eps_actual": 1.56,
+      "surprise_pct": 0.9,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GIB",
+      "earnings_date": "2023-02-01T06:00:00-05:00",
+      "eps_estimate": 1.6,
+      "eps_actual": 1.66,
+      "surprise_pct": 3.57,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GIB",
+      "earnings_date": "2023-04-26T06:00:00-04:00",
+      "eps_estimate": 1.72,
+      "eps_actual": 1.82,
+      "surprise_pct": 5.87,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GIB",
+      "earnings_date": "2023-07-26T06:00:00-04:00",
+      "eps_estimate": 1.79,
+      "eps_actual": 1.8,
+      "surprise_pct": 0.51,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GIB",
+      "earnings_date": "2023-11-08T06:00:00-05:00",
+      "eps_estimate": 1.77,
+      "eps_actual": 1.79,
+      "surprise_pct": 1.08,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GIB",
+      "earnings_date": "2024-01-31T06:00:00-05:00",
+      "eps_estimate": 1.82,
+      "eps_actual": 1.83,
+      "surprise_pct": 0.6,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GIB",
+      "earnings_date": "2024-05-01T06:00:00-04:00",
+      "eps_estimate": 1.95,
+      "eps_actual": 1.97,
+      "surprise_pct": 1.06,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GIB",
+      "earnings_date": "2024-07-31T06:00:00-04:00",
+      "eps_estimate": 1.92,
+      "eps_actual": 1.91,
+      "surprise_pct": -0.33,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GIB",
+      "earnings_date": "2024-11-06T06:00:00-05:00",
+      "eps_estimate": 1.9,
+      "eps_actual": 1.91,
+      "surprise_pct": 0.59,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GIB",
+      "earnings_date": "2025-01-29T06:00:00-05:00",
+      "eps_estimate": 1.98,
+      "eps_actual": 1.97,
+      "surprise_pct": -0.3,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GIB",
+      "earnings_date": "2025-04-30T06:00:00-04:00",
+      "eps_estimate": 2.13,
+      "eps_actual": 2.12,
+      "surprise_pct": -0.65,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GIB",
+      "earnings_date": "2025-07-30T06:00:00-04:00",
+      "eps_estimate": 1.87,
+      "eps_actual": 1.82,
+      "surprise_pct": -2.8,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GIB",
+      "earnings_date": "2025-11-05T07:00:00-05:00",
+      "eps_estimate": 2.09,
+      "eps_actual": 2.13,
+      "surprise_pct": 1.89,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GIB",
+      "earnings_date": "2026-01-28T06:00:00-05:00",
+      "eps_estimate": 2.11,
+      "eps_actual": 2.12,
+      "surprise_pct": 0.64,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GIB",
+      "earnings_date": "2026-04-29T08:00:00-04:00",
+      "eps_estimate": 2.26,
+      "eps_actual": null,
+      "surprise_pct": null,
+      "surprise_source": "yfinance_native"
+    }
+  ],
+  "GM": [
+    {
+      "ticker": "GM",
+      "earnings_date": "2020-05-06T08:00:00-04:00",
+      "eps_estimate": 0.34,
+      "eps_actual": 0.62,
+      "surprise_pct": 84.29,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GM",
+      "earnings_date": "2020-07-29T09:00:00-04:00",
+      "eps_estimate": -1.78,
+      "eps_actual": -0.5,
+      "surprise_pct": 71.86,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GM",
+      "earnings_date": "2020-11-05T07:00:00-05:00",
+      "eps_estimate": 1.43,
+      "eps_actual": 2.83,
+      "surprise_pct": 97.97,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GM",
+      "earnings_date": "2021-02-10T07:00:00-05:00",
+      "eps_estimate": 1.64,
+      "eps_actual": 1.93,
+      "surprise_pct": 17.6,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GM",
+      "earnings_date": "2021-05-05T07:00:00-04:00",
+      "eps_estimate": 1.05,
+      "eps_actual": 2.25,
+      "surprise_pct": 114.21,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GM",
+      "earnings_date": "2021-08-04T07:00:00-04:00",
+      "eps_estimate": 1.83,
+      "eps_actual": 1.97,
+      "surprise_pct": 7.87,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GM",
+      "earnings_date": "2021-10-27T07:00:00-04:00",
+      "eps_estimate": 0.97,
+      "eps_actual": 1.52,
+      "surprise_pct": 57.06,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GM",
+      "earnings_date": "2022-02-01T16:00:00-05:00",
+      "eps_estimate": 1.15,
+      "eps_actual": 1.35,
+      "surprise_pct": 17.31,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GM",
+      "earnings_date": "2022-04-26T16:00:00-04:00",
+      "eps_estimate": 1.66,
+      "eps_actual": 2.09,
+      "surprise_pct": 25.56,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GM",
+      "earnings_date": "2022-07-26T06:00:00-04:00",
+      "eps_estimate": 1.32,
+      "eps_actual": 1.14,
+      "surprise_pct": -13.5,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GM",
+      "earnings_date": "2022-10-25T06:00:00-04:00",
+      "eps_estimate": 1.88,
+      "eps_actual": 2.25,
+      "surprise_pct": 19.63,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GM",
+      "earnings_date": "2023-01-31T06:00:00-05:00",
+      "eps_estimate": 1.68,
+      "eps_actual": 2.12,
+      "surprise_pct": 26.05,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GM",
+      "earnings_date": "2023-04-25T06:00:00-04:00",
+      "eps_estimate": 1.73,
+      "eps_actual": 2.21,
+      "surprise_pct": 27.86,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GM",
+      "earnings_date": "2023-07-25T07:00:00-04:00",
+      "eps_estimate": 1.84,
+      "eps_actual": 1.91,
+      "surprise_pct": 3.98,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GM",
+      "earnings_date": "2023-10-24T06:00:00-04:00",
+      "eps_estimate": 1.84,
+      "eps_actual": 2.28,
+      "surprise_pct": 24.06,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GM",
+      "earnings_date": "2024-01-30T06:00:00-05:00",
+      "eps_estimate": 1.14,
+      "eps_actual": 1.24,
+      "surprise_pct": 8.78,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GM",
+      "earnings_date": "2024-04-23T06:00:00-04:00",
+      "eps_estimate": 2.12,
+      "eps_actual": 2.62,
+      "surprise_pct": 23.63,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GM",
+      "earnings_date": "2024-07-23T06:00:00-04:00",
+      "eps_estimate": 2.7,
+      "eps_actual": 3.06,
+      "surprise_pct": 13.36,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GM",
+      "earnings_date": "2024-10-22T06:00:00-04:00",
+      "eps_estimate": 2.39,
+      "eps_actual": 2.96,
+      "surprise_pct": 23.78,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GM",
+      "earnings_date": "2025-01-28T06:00:00-05:00",
+      "eps_estimate": 1.84,
+      "eps_actual": 1.92,
+      "surprise_pct": 4.3,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GM",
+      "earnings_date": "2025-04-29T07:00:00-04:00",
+      "eps_estimate": 2.67,
+      "eps_actual": 2.78,
+      "surprise_pct": 4.28,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GM",
+      "earnings_date": "2025-07-22T06:00:00-04:00",
+      "eps_estimate": 2.48,
+      "eps_actual": 2.53,
+      "surprise_pct": 2.15,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GM",
+      "earnings_date": "2025-10-21T06:00:00-04:00",
+      "eps_estimate": 2.32,
+      "eps_actual": 2.8,
+      "surprise_pct": 20.55,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GM",
+      "earnings_date": "2026-01-27T06:00:00-05:00",
+      "eps_estimate": 2.27,
+      "eps_actual": 2.51,
+      "surprise_pct": 10.65,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "GM",
+      "earnings_date": "2026-04-28T08:00:00-04:00",
+      "eps_estimate": 2.62,
+      "eps_actual": null,
+      "surprise_pct": null,
+      "surprise_source": "yfinance_native"
+    }
+  ],
+  "HII": [
+    {
+      "ticker": "HII",
+      "earnings_date": "2020-05-07T08:00:00-04:00",
+      "eps_estimate": 4.52,
+      "eps_actual": 4.23,
+      "surprise_pct": -6.38,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HII",
+      "earnings_date": "2020-08-06T07:00:00-04:00",
+      "eps_estimate": 4.14,
+      "eps_actual": 1.3,
+      "surprise_pct": -68.58,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HII",
+      "earnings_date": "2020-11-05T07:00:00-05:00",
+      "eps_estimate": 4.14,
+      "eps_actual": 5.45,
+      "surprise_pct": 31.51,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HII",
+      "earnings_date": "2021-02-11T07:00:00-05:00",
+      "eps_estimate": 4.53,
+      "eps_actual": 6.15,
+      "surprise_pct": 35.88,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HII",
+      "earnings_date": "2021-05-06T07:00:00-04:00",
+      "eps_estimate": 2.64,
+      "eps_actual": 3.68,
+      "surprise_pct": 39.53,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HII",
+      "earnings_date": "2021-08-05T07:00:00-04:00",
+      "eps_estimate": 2.56,
+      "eps_actual": 3.2,
+      "surprise_pct": 24.88,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HII",
+      "earnings_date": "2021-11-04T07:00:00-04:00",
+      "eps_estimate": 3.06,
+      "eps_actual": 3.65,
+      "surprise_pct": 19.15,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HII",
+      "earnings_date": "2022-02-10T07:00:00-05:00",
+      "eps_estimate": 2.97,
+      "eps_actual": 2.84,
+      "surprise_pct": -4.46,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HII",
+      "earnings_date": "2022-05-05T07:00:00-04:00",
+      "eps_estimate": 2.99,
+      "eps_actual": 3.5,
+      "surprise_pct": 17.12,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HII",
+      "earnings_date": "2022-08-04T07:00:00-04:00",
+      "eps_estimate": 3.44,
+      "eps_actual": 4.44,
+      "surprise_pct": 29.0,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HII",
+      "earnings_date": "2022-11-03T07:00:00-04:00",
+      "eps_estimate": 3.41,
+      "eps_actual": 3.44,
+      "surprise_pct": 0.96,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HII",
+      "earnings_date": "2023-02-09T07:00:00-05:00",
+      "eps_estimate": 3.28,
+      "eps_actual": 3.07,
+      "surprise_pct": -6.5,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HII",
+      "earnings_date": "2023-05-04T07:00:00-04:00",
+      "eps_estimate": 2.86,
+      "eps_actual": 3.23,
+      "surprise_pct": 12.94,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HII",
+      "earnings_date": "2023-08-03T07:00:00-04:00",
+      "eps_estimate": 3.03,
+      "eps_actual": 3.27,
+      "surprise_pct": 7.82,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HII",
+      "earnings_date": "2023-11-02T07:00:00-04:00",
+      "eps_estimate": 3.4,
+      "eps_actual": 3.7,
+      "surprise_pct": 8.9,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HII",
+      "earnings_date": "2024-02-01T07:00:00-05:00",
+      "eps_estimate": 4.26,
+      "eps_actual": 6.9,
+      "surprise_pct": 61.89,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HII",
+      "earnings_date": "2024-05-02T07:00:00-04:00",
+      "eps_estimate": 3.48,
+      "eps_actual": 3.87,
+      "surprise_pct": 11.35,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HII",
+      "earnings_date": "2024-08-01T07:00:00-04:00",
+      "eps_estimate": 3.48,
+      "eps_actual": 4.38,
+      "surprise_pct": 25.71,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HII",
+      "earnings_date": "2024-10-31T07:00:00-04:00",
+      "eps_estimate": 3.75,
+      "eps_actual": 2.56,
+      "surprise_pct": -31.67,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HII",
+      "earnings_date": "2025-02-06T07:00:00-05:00",
+      "eps_estimate": 3.53,
+      "eps_actual": 3.15,
+      "surprise_pct": -10.84,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HII",
+      "earnings_date": "2025-05-01T07:00:00-04:00",
+      "eps_estimate": 2.81,
+      "eps_actual": 3.79,
+      "surprise_pct": 34.99,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HII",
+      "earnings_date": "2025-07-31T07:00:00-04:00",
+      "eps_estimate": 3.43,
+      "eps_actual": 3.86,
+      "surprise_pct": 12.53,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HII",
+      "earnings_date": "2025-10-30T07:00:00-04:00",
+      "eps_estimate": 3.36,
+      "eps_actual": 3.68,
+      "surprise_pct": 9.4,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HII",
+      "earnings_date": "2026-02-05T07:00:00-05:00",
+      "eps_estimate": 3.89,
+      "eps_actual": 4.04,
+      "surprise_pct": 3.73,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HII",
+      "earnings_date": "2026-05-05T08:00:00-04:00",
+      "eps_estimate": 3.73,
+      "eps_actual": null,
+      "surprise_pct": null,
+      "surprise_source": "yfinance_native"
+    }
+  ],
+  "HON": [
+    {
+      "ticker": "HON",
+      "earnings_date": "2020-07-24T06:00:00-04:00",
+      "eps_estimate": 1.24,
+      "eps_actual": 1.26,
+      "surprise_pct": 1.66,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HON",
+      "earnings_date": "2020-10-30T06:00:00-04:00",
+      "eps_estimate": 1.49,
+      "eps_actual": 1.56,
+      "surprise_pct": 4.94,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HON",
+      "earnings_date": "2021-01-29T06:00:00-05:00",
+      "eps_estimate": 2.0,
+      "eps_actual": 2.07,
+      "surprise_pct": 3.5,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HON",
+      "earnings_date": "2021-04-23T06:00:00-04:00",
+      "eps_estimate": 1.8,
+      "eps_actual": 1.92,
+      "surprise_pct": 6.59,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HON",
+      "earnings_date": "2021-07-23T06:00:00-04:00",
+      "eps_estimate": 1.94,
+      "eps_actual": 2.02,
+      "surprise_pct": 3.86,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HON",
+      "earnings_date": "2021-10-22T06:00:00-04:00",
+      "eps_estimate": 2.0,
+      "eps_actual": 2.02,
+      "surprise_pct": 1.17,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HON",
+      "earnings_date": "2022-02-03T06:00:00-05:00",
+      "eps_estimate": 2.08,
+      "eps_actual": 2.09,
+      "surprise_pct": 0.52,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HON",
+      "earnings_date": "2022-04-29T06:00:00-04:00",
+      "eps_estimate": 1.86,
+      "eps_actual": 1.91,
+      "surprise_pct": 2.58,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HON",
+      "earnings_date": "2022-07-28T06:00:00-04:00",
+      "eps_estimate": 2.03,
+      "eps_actual": 2.1,
+      "surprise_pct": 3.6,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HON",
+      "earnings_date": "2022-10-27T06:00:00-04:00",
+      "eps_estimate": 2.15,
+      "eps_actual": 2.25,
+      "surprise_pct": 4.61,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HON",
+      "earnings_date": "2023-02-02T06:00:00-05:00",
+      "eps_estimate": 2.51,
+      "eps_actual": 2.52,
+      "surprise_pct": 0.45,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HON",
+      "earnings_date": "2023-04-27T06:00:00-04:00",
+      "eps_estimate": 1.93,
+      "eps_actual": 2.07,
+      "surprise_pct": 7.43,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HON",
+      "earnings_date": "2023-07-27T06:00:00-04:00",
+      "eps_estimate": 2.21,
+      "eps_actual": 2.23,
+      "surprise_pct": 0.79,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HON",
+      "earnings_date": "2023-10-26T06:00:00-04:00",
+      "eps_estimate": 2.23,
+      "eps_actual": 2.27,
+      "surprise_pct": 1.87,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HON",
+      "earnings_date": "2024-02-01T06:00:00-05:00",
+      "eps_estimate": 2.59,
+      "eps_actual": 2.6,
+      "surprise_pct": 0.33,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HON",
+      "earnings_date": "2024-04-25T06:00:00-04:00",
+      "eps_estimate": 2.18,
+      "eps_actual": 2.25,
+      "surprise_pct": 3.32,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HON",
+      "earnings_date": "2024-07-25T06:00:00-04:00",
+      "eps_estimate": 2.42,
+      "eps_actual": 2.49,
+      "surprise_pct": 3.1,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HON",
+      "earnings_date": "2024-10-24T06:00:00-04:00",
+      "eps_estimate": 2.5,
+      "eps_actual": 2.58,
+      "surprise_pct": 3.08,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HON",
+      "earnings_date": "2025-02-06T06:00:00-05:00",
+      "eps_estimate": 2.35,
+      "eps_actual": 2.47,
+      "surprise_pct": 5.28,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HON",
+      "earnings_date": "2025-04-29T06:00:00-04:00",
+      "eps_estimate": 2.21,
+      "eps_actual": 2.51,
+      "surprise_pct": 13.64,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HON",
+      "earnings_date": "2025-07-24T06:00:00-04:00",
+      "eps_estimate": 2.66,
+      "eps_actual": 2.75,
+      "surprise_pct": 3.43,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HON",
+      "earnings_date": "2025-10-23T06:00:00-04:00",
+      "eps_estimate": 2.57,
+      "eps_actual": 2.82,
+      "surprise_pct": 9.87,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HON",
+      "earnings_date": "2026-01-29T06:00:00-05:00",
+      "eps_estimate": 2.54,
+      "eps_actual": 2.59,
+      "surprise_pct": 2.14,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HON",
+      "earnings_date": "2026-04-23T06:00:00-04:00",
+      "eps_estimate": 2.32,
+      "eps_actual": 2.45,
+      "surprise_pct": 5.55,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HON",
+      "earnings_date": "2026-07-23T08:00:00-04:00",
+      "eps_estimate": 2.43,
+      "eps_actual": null,
+      "surprise_pct": null,
+      "surprise_source": "yfinance_native"
+    }
+  ],
+  "HPE": [
+    {
+      "ticker": "HPE",
+      "earnings_date": "2020-05-21T16:00:00-04:00",
+      "eps_estimate": 0.29,
+      "eps_actual": 0.22,
+      "surprise_pct": -24.8,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HPE",
+      "earnings_date": "2020-08-25T16:00:00-04:00",
+      "eps_estimate": 0.23,
+      "eps_actual": 0.32,
+      "surprise_pct": 39.92,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HPE",
+      "earnings_date": "2020-12-01T16:00:00-05:00",
+      "eps_estimate": 0.34,
+      "eps_actual": 0.37,
+      "surprise_pct": 8.95,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HPE",
+      "earnings_date": "2021-03-02T16:00:00-05:00",
+      "eps_estimate": 0.42,
+      "eps_actual": 0.52,
+      "surprise_pct": 24.88,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HPE",
+      "earnings_date": "2021-06-01T16:00:00-04:00",
+      "eps_estimate": 0.42,
+      "eps_actual": 0.46,
+      "surprise_pct": 9.42,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HPE",
+      "earnings_date": "2021-09-02T16:00:00-04:00",
+      "eps_estimate": 0.42,
+      "eps_actual": 0.47,
+      "surprise_pct": 10.91,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HPE",
+      "earnings_date": "2021-11-30T16:00:00-05:00",
+      "eps_estimate": 0.49,
+      "eps_actual": 0.52,
+      "surprise_pct": 6.66,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HPE",
+      "earnings_date": "2022-03-01T16:00:00-05:00",
+      "eps_estimate": 0.46,
+      "eps_actual": 0.53,
+      "surprise_pct": 14.63,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HPE",
+      "earnings_date": "2022-06-01T16:00:00-04:00",
+      "eps_estimate": 0.45,
+      "eps_actual": 0.44,
+      "surprise_pct": -2.83,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HPE",
+      "earnings_date": "2022-08-30T16:00:00-04:00",
+      "eps_estimate": 0.48,
+      "eps_actual": 0.48,
+      "surprise_pct": 0.11,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HPE",
+      "earnings_date": "2022-11-29T16:00:00-05:00",
+      "eps_estimate": 0.57,
+      "eps_actual": 0.57,
+      "surprise_pct": 0.77,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HPE",
+      "earnings_date": "2023-03-02T16:00:00-05:00",
+      "eps_estimate": 0.53,
+      "eps_actual": 0.63,
+      "surprise_pct": 17.76,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HPE",
+      "earnings_date": "2023-05-30T16:00:00-04:00",
+      "eps_estimate": 0.48,
+      "eps_actual": 0.52,
+      "surprise_pct": 7.44,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HPE",
+      "earnings_date": "2023-08-29T16:00:00-04:00",
+      "eps_estimate": 0.47,
+      "eps_actual": 0.49,
+      "surprise_pct": 5.37,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HPE",
+      "earnings_date": "2023-11-28T16:00:00-05:00",
+      "eps_estimate": 0.5,
+      "eps_actual": 0.52,
+      "surprise_pct": 3.18,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HPE",
+      "earnings_date": "2024-02-29T16:00:00-05:00",
+      "eps_estimate": 0.45,
+      "eps_actual": 0.48,
+      "surprise_pct": 6.99,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HPE",
+      "earnings_date": "2024-06-04T16:00:00-04:00",
+      "eps_estimate": 0.39,
+      "eps_actual": 0.42,
+      "surprise_pct": 8.18,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HPE",
+      "earnings_date": "2024-09-04T16:00:00-04:00",
+      "eps_estimate": 0.47,
+      "eps_actual": 0.5,
+      "surprise_pct": 6.64,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HPE",
+      "earnings_date": "2024-12-05T16:00:00-05:00",
+      "eps_estimate": 0.56,
+      "eps_actual": 0.58,
+      "surprise_pct": 3.78,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HPE",
+      "earnings_date": "2025-03-06T16:00:00-05:00",
+      "eps_estimate": 0.5,
+      "eps_actual": 0.49,
+      "surprise_pct": -1.75,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HPE",
+      "earnings_date": "2025-06-03T16:00:00-04:00",
+      "eps_estimate": 0.33,
+      "eps_actual": 0.38,
+      "surprise_pct": 16.33,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HPE",
+      "earnings_date": "2025-09-03T16:00:00-04:00",
+      "eps_estimate": 0.42,
+      "eps_actual": 0.44,
+      "surprise_pct": 5.41,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HPE",
+      "earnings_date": "2025-12-04T16:00:00-05:00",
+      "eps_estimate": 0.51,
+      "eps_actual": 0.11,
+      "surprise_pct": -78.52,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HPE",
+      "earnings_date": "2026-03-09T16:00:00-04:00",
+      "eps_estimate": 0.59,
+      "eps_actual": 0.65,
+      "surprise_pct": 10.75,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "HPE",
+      "earnings_date": "2026-06-02T16:00:00-04:00",
+      "eps_estimate": 0.53,
+      "eps_actual": null,
+      "surprise_pct": null,
+      "surprise_source": "yfinance_native"
+    }
+  ],
+  "IBM": [
+    {
+      "ticker": "IBM",
+      "earnings_date": "2020-07-20T16:00:00-04:00",
+      "eps_estimate": 2.09,
+      "eps_actual": 2.18,
+      "surprise_pct": 4.55,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "IBM",
+      "earnings_date": "2020-10-19T16:00:00-04:00",
+      "eps_estimate": 2.58,
+      "eps_actual": 2.58,
+      "surprise_pct": 0.04,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "IBM",
+      "earnings_date": "2021-01-21T16:00:00-05:00",
+      "eps_estimate": 1.88,
+      "eps_actual": 2.07,
+      "surprise_pct": 10.38,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "IBM",
+      "earnings_date": "2021-04-19T16:00:00-04:00",
+      "eps_estimate": 1.65,
+      "eps_actual": 1.77,
+      "surprise_pct": 7.12,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "IBM",
+      "earnings_date": "2021-07-19T16:00:00-04:00",
+      "eps_estimate": 2.29,
+      "eps_actual": 2.33,
+      "surprise_pct": 1.82,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "IBM",
+      "earnings_date": "2021-10-20T16:00:00-04:00",
+      "eps_estimate": 2.51,
+      "eps_actual": 2.52,
+      "surprise_pct": 0.21,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "IBM",
+      "earnings_date": "2022-01-24T16:00:00-05:00",
+      "eps_estimate": 3.29,
+      "eps_actual": 3.35,
+      "surprise_pct": 1.91,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "IBM",
+      "earnings_date": "2022-04-19T16:00:00-04:00",
+      "eps_estimate": 1.42,
+      "eps_actual": 1.4,
+      "surprise_pct": -1.46,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "IBM",
+      "earnings_date": "2022-07-18T16:00:00-04:00",
+      "eps_estimate": 2.29,
+      "eps_actual": 2.31,
+      "surprise_pct": 0.9,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "IBM",
+      "earnings_date": "2022-10-19T16:00:00-04:00",
+      "eps_estimate": 1.8,
+      "eps_actual": 1.81,
+      "surprise_pct": 0.7,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "IBM",
+      "earnings_date": "2023-01-25T16:00:00-05:00",
+      "eps_estimate": 3.61,
+      "eps_actual": 3.6,
+      "surprise_pct": -0.32,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "IBM",
+      "earnings_date": "2023-04-19T16:00:00-04:00",
+      "eps_estimate": 1.24,
+      "eps_actual": 1.36,
+      "surprise_pct": 9.73,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "IBM",
+      "earnings_date": "2023-07-19T16:00:00-04:00",
+      "eps_estimate": 2.0,
+      "eps_actual": 2.18,
+      "surprise_pct": 8.93,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "IBM",
+      "earnings_date": "2023-10-25T16:00:00-04:00",
+      "eps_estimate": 2.13,
+      "eps_actual": 2.2,
+      "surprise_pct": 3.5,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "IBM",
+      "earnings_date": "2024-01-24T16:00:00-05:00",
+      "eps_estimate": 3.8,
+      "eps_actual": 3.87,
+      "surprise_pct": 1.86,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "IBM",
+      "earnings_date": "2024-04-24T16:00:00-04:00",
+      "eps_estimate": 1.6,
+      "eps_actual": 1.68,
+      "surprise_pct": 5.2,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "IBM",
+      "earnings_date": "2024-07-24T16:00:00-04:00",
+      "eps_estimate": 2.17,
+      "eps_actual": 2.43,
+      "surprise_pct": 11.92,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "IBM",
+      "earnings_date": "2024-10-23T16:00:00-04:00",
+      "eps_estimate": 2.23,
+      "eps_actual": 2.3,
+      "surprise_pct": 3.33,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "IBM",
+      "earnings_date": "2025-01-29T16:00:00-05:00",
+      "eps_estimate": 3.78,
+      "eps_actual": 3.92,
+      "surprise_pct": 3.81,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "IBM",
+      "earnings_date": "2025-04-23T16:00:00-04:00",
+      "eps_estimate": 1.43,
+      "eps_actual": 1.6,
+      "surprise_pct": 12.12,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "IBM",
+      "earnings_date": "2025-07-23T16:00:00-04:00",
+      "eps_estimate": 2.65,
+      "eps_actual": 2.8,
+      "surprise_pct": 5.47,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "IBM",
+      "earnings_date": "2025-10-22T16:00:00-04:00",
+      "eps_estimate": 2.45,
+      "eps_actual": 2.65,
+      "surprise_pct": 8.31,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "IBM",
+      "earnings_date": "2026-01-28T16:00:00-05:00",
+      "eps_estimate": 4.29,
+      "eps_actual": 4.52,
+      "surprise_pct": 5.3,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "IBM",
+      "earnings_date": "2026-04-22T16:00:00-04:00",
+      "eps_estimate": 1.81,
+      "eps_actual": 1.91,
+      "surprise_pct": 5.45,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "IBM",
+      "earnings_date": "2026-07-22T16:00:00-04:00",
+      "eps_estimate": 2.98,
+      "eps_actual": null,
+      "surprise_pct": null,
+      "surprise_source": "yfinance_native"
+    }
+  ],
+  "ICFI": [
+    {
+      "ticker": "ICFI",
+      "earnings_date": "2020-05-05T17:00:00-04:00",
+      "eps_estimate": 0.81,
+      "eps_actual": 0.83,
+      "surprise_pct": 1.97,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ICFI",
+      "earnings_date": "2020-08-04T16:00:00-04:00",
+      "eps_estimate": 0.72,
+      "eps_actual": 0.89,
+      "surprise_pct": 22.93,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ICFI",
+      "earnings_date": "2020-11-05T16:00:00-05:00",
+      "eps_estimate": 0.89,
+      "eps_actual": 1.1,
+      "surprise_pct": 24.29,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ICFI",
+      "earnings_date": "2021-02-25T16:00:00-05:00",
+      "eps_estimate": 1.13,
+      "eps_actual": 1.36,
+      "surprise_pct": 20.18,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ICFI",
+      "earnings_date": "2021-05-04T16:00:00-04:00",
+      "eps_estimate": 0.85,
+      "eps_actual": 1.13,
+      "surprise_pct": 32.68,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ICFI",
+      "earnings_date": "2021-08-03T16:00:00-04:00",
+      "eps_estimate": 0.97,
+      "eps_actual": 1.19,
+      "surprise_pct": 22.18,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ICFI",
+      "earnings_date": "2021-11-02T16:00:00-04:00",
+      "eps_estimate": 1.12,
+      "eps_actual": 1.32,
+      "surprise_pct": 18.39,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ICFI",
+      "earnings_date": "2022-02-24T16:00:00-05:00",
+      "eps_estimate": 1.2,
+      "eps_actual": 1.19,
+      "surprise_pct": -0.42,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ICFI",
+      "earnings_date": "2022-05-04T16:00:00-04:00",
+      "eps_estimate": 1.06,
+      "eps_actual": 1.31,
+      "surprise_pct": 23.58,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ICFI",
+      "earnings_date": "2022-08-03T16:00:00-04:00",
+      "eps_estimate": 1.33,
+      "eps_actual": 1.33,
+      "surprise_pct": -0.19,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ICFI",
+      "earnings_date": "2022-11-03T16:00:00-04:00",
+      "eps_estimate": 1.45,
+      "eps_actual": 1.61,
+      "surprise_pct": 11.42,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ICFI",
+      "earnings_date": "2023-02-28T16:00:00-05:00",
+      "eps_estimate": 1.5,
+      "eps_actual": 1.56,
+      "surprise_pct": 4.17,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ICFI",
+      "earnings_date": "2023-05-09T16:00:00-04:00",
+      "eps_estimate": 1.4,
+      "eps_actual": 1.42,
+      "surprise_pct": 1.61,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ICFI",
+      "earnings_date": "2023-08-03T16:00:00-04:00",
+      "eps_estimate": 1.45,
+      "eps_actual": 1.57,
+      "surprise_pct": 8.46,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ICFI",
+      "earnings_date": "2023-11-02T16:00:00-04:00",
+      "eps_estimate": 1.62,
+      "eps_actual": 1.81,
+      "surprise_pct": 12.0,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ICFI",
+      "earnings_date": "2024-02-27T16:00:00-05:00",
+      "eps_estimate": 1.63,
+      "eps_actual": 1.68,
+      "surprise_pct": 2.94,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ICFI",
+      "earnings_date": "2024-05-02T07:00:00-04:00",
+      "eps_estimate": 1.45,
+      "eps_actual": 1.77,
+      "surprise_pct": 21.73,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ICFI",
+      "earnings_date": "2024-08-01T16:00:00-04:00",
+      "eps_estimate": 1.49,
+      "eps_actual": 1.69,
+      "surprise_pct": 13.12,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ICFI",
+      "earnings_date": "2024-10-31T16:00:00-04:00",
+      "eps_estimate": 1.77,
+      "eps_actual": 2.13,
+      "surprise_pct": 20.07,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ICFI",
+      "earnings_date": "2025-02-27T16:00:00-05:00",
+      "eps_estimate": 1.86,
+      "eps_actual": 1.87,
+      "surprise_pct": 0.65,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ICFI",
+      "earnings_date": "2025-05-01T16:00:00-04:00",
+      "eps_estimate": 1.73,
+      "eps_actual": 1.94,
+      "surprise_pct": 12.14,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ICFI",
+      "earnings_date": "2025-07-31T16:00:00-04:00",
+      "eps_estimate": 1.58,
+      "eps_actual": 1.66,
+      "surprise_pct": 5.2,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ICFI",
+      "earnings_date": "2025-10-30T16:00:00-04:00",
+      "eps_estimate": 1.73,
+      "eps_actual": 1.67,
+      "surprise_pct": -3.69,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ICFI",
+      "earnings_date": "2026-02-26T16:00:00-05:00",
+      "eps_estimate": 1.49,
+      "eps_actual": 1.47,
+      "surprise_pct": -1.47,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ICFI",
+      "earnings_date": "2026-05-07T16:00:00-04:00",
+      "eps_estimate": 1.55,
+      "eps_actual": null,
+      "surprise_pct": null,
+      "surprise_source": "yfinance_native"
+    }
+  ],
+  "JCI": [
+    {
+      "ticker": "JCI",
+      "earnings_date": "2020-05-01T07:00:00-04:00",
+      "eps_estimate": 0.36,
+      "eps_actual": 0.42,
+      "surprise_pct": 17.33,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "JCI",
+      "earnings_date": "2020-07-31T06:00:00-04:00",
+      "eps_estimate": 0.48,
+      "eps_actual": 0.67,
+      "surprise_pct": 38.8,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "JCI",
+      "earnings_date": "2020-11-03T06:00:00-05:00",
+      "eps_estimate": 0.73,
+      "eps_actual": 0.76,
+      "surprise_pct": 4.46,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "JCI",
+      "earnings_date": "2021-01-29T06:00:00-05:00",
+      "eps_estimate": 0.41,
+      "eps_actual": 0.43,
+      "surprise_pct": 5.83,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "JCI",
+      "earnings_date": "2021-04-30T06:00:00-04:00",
+      "eps_estimate": 0.49,
+      "eps_actual": 0.52,
+      "surprise_pct": 6.67,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "JCI",
+      "earnings_date": "2021-07-30T06:00:00-04:00",
+      "eps_estimate": 0.83,
+      "eps_actual": 0.83,
+      "surprise_pct": -0.04,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "JCI",
+      "earnings_date": "2021-11-05T06:00:00-04:00",
+      "eps_estimate": 0.87,
+      "eps_actual": 0.88,
+      "surprise_pct": 0.73,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "JCI",
+      "earnings_date": "2022-02-02T06:00:00-05:00",
+      "eps_estimate": 0.53,
+      "eps_actual": 0.54,
+      "surprise_pct": 1.86,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "JCI",
+      "earnings_date": "2022-05-04T06:00:00-04:00",
+      "eps_estimate": 0.63,
+      "eps_actual": 0.63,
+      "surprise_pct": -0.15,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "JCI",
+      "earnings_date": "2022-08-04T06:00:00-04:00",
+      "eps_estimate": 0.85,
+      "eps_actual": 0.85,
+      "surprise_pct": 0.5,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "JCI",
+      "earnings_date": "2022-11-03T06:00:00-04:00",
+      "eps_estimate": 0.98,
+      "eps_actual": 0.99,
+      "surprise_pct": 0.72,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "JCI",
+      "earnings_date": "2023-02-01T06:00:00-05:00",
+      "eps_estimate": 0.67,
+      "eps_actual": 0.67,
+      "surprise_pct": 0.42,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "JCI",
+      "earnings_date": "2023-05-05T06:00:00-04:00",
+      "eps_estimate": 0.74,
+      "eps_actual": 0.75,
+      "surprise_pct": 1.63,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "JCI",
+      "earnings_date": "2023-08-02T06:00:00-04:00",
+      "eps_estimate": 1.03,
+      "eps_actual": 1.03,
+      "surprise_pct": -0.02,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "JCI",
+      "earnings_date": "2023-12-12T06:00:00-05:00",
+      "eps_estimate": 1.07,
+      "eps_actual": 1.05,
+      "surprise_pct": -1.73,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "JCI",
+      "earnings_date": "2024-01-30T06:00:00-05:00",
+      "eps_estimate": 0.51,
+      "eps_actual": 0.51,
+      "surprise_pct": 0.31,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "JCI",
+      "earnings_date": "2024-05-01T06:00:00-04:00",
+      "eps_estimate": 0.75,
+      "eps_actual": 0.78,
+      "surprise_pct": 3.44,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "JCI",
+      "earnings_date": "2024-07-31T06:00:00-04:00",
+      "eps_estimate": 1.08,
+      "eps_actual": 1.14,
+      "surprise_pct": 5.18,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "JCI",
+      "earnings_date": "2024-11-06T06:00:00-05:00",
+      "eps_estimate": 1.25,
+      "eps_actual": 1.28,
+      "surprise_pct": 2.68,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "JCI",
+      "earnings_date": "2025-02-05T06:00:00-05:00",
+      "eps_estimate": 0.59,
+      "eps_actual": 0.64,
+      "surprise_pct": 8.46,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "JCI",
+      "earnings_date": "2025-05-07T06:00:00-04:00",
+      "eps_estimate": 0.8,
+      "eps_actual": 0.82,
+      "surprise_pct": 2.62,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "JCI",
+      "earnings_date": "2025-07-29T06:00:00-04:00",
+      "eps_estimate": 1.01,
+      "eps_actual": 1.05,
+      "surprise_pct": 3.63,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "JCI",
+      "earnings_date": "2025-11-05T06:00:00-05:00",
+      "eps_estimate": 1.2,
+      "eps_actual": 1.26,
+      "surprise_pct": 4.66,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "JCI",
+      "earnings_date": "2026-02-04T06:00:00-05:00",
+      "eps_estimate": 0.84,
+      "eps_actual": 0.89,
+      "surprise_pct": 5.7,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "JCI",
+      "earnings_date": "2026-05-06T08:00:00-04:00",
+      "eps_estimate": 1.12,
+      "eps_actual": null,
+      "surprise_pct": null,
+      "surprise_source": "yfinance_native"
+    }
+  ],
+  "KBR": [
+    {
+      "ticker": "KBR",
+      "earnings_date": "2020-04-29T06:00:00-04:00",
+      "eps_estimate": 0.37,
+      "eps_actual": 0.39,
+      "surprise_pct": 6.83,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "KBR",
+      "earnings_date": "2020-08-06T05:00:00-04:00",
+      "eps_estimate": 0.37,
+      "eps_actual": 0.39,
+      "surprise_pct": 5.46,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "KBR",
+      "earnings_date": "2020-10-29T05:00:00-04:00",
+      "eps_estimate": 0.43,
+      "eps_actual": 0.44,
+      "surprise_pct": 2.07,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "KBR",
+      "earnings_date": "2021-02-22T05:00:00-05:00",
+      "eps_estimate": 0.48,
+      "eps_actual": 0.51,
+      "surprise_pct": 6.71,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "KBR",
+      "earnings_date": "2021-04-29T05:00:00-04:00",
+      "eps_estimate": 0.48,
+      "eps_actual": 0.48,
+      "surprise_pct": -0.05,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "KBR",
+      "earnings_date": "2021-07-29T05:00:00-04:00",
+      "eps_estimate": 0.5,
+      "eps_actual": 0.58,
+      "surprise_pct": 16.2,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "KBR",
+      "earnings_date": "2021-10-28T05:00:00-04:00",
+      "eps_estimate": 0.58,
+      "eps_actual": 0.64,
+      "surprise_pct": 11.13,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "KBR",
+      "earnings_date": "2022-02-22T05:00:00-05:00",
+      "eps_estimate": 0.65,
+      "eps_actual": 0.69,
+      "surprise_pct": 5.45,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "KBR",
+      "earnings_date": "2022-04-28T05:00:00-04:00",
+      "eps_estimate": 0.57,
+      "eps_actual": 0.62,
+      "surprise_pct": 8.21,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "KBR",
+      "earnings_date": "2022-08-02T05:00:00-04:00",
+      "eps_estimate": 0.65,
+      "eps_actual": 0.76,
+      "surprise_pct": 16.87,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "KBR",
+      "earnings_date": "2022-10-26T05:00:00-04:00",
+      "eps_estimate": 0.63,
+      "eps_actual": 0.65,
+      "surprise_pct": 3.12,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "KBR",
+      "earnings_date": "2023-02-16T05:00:00-05:00",
+      "eps_estimate": 0.58,
+      "eps_actual": 0.69,
+      "surprise_pct": 18.01,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "KBR",
+      "earnings_date": "2023-05-01T05:00:00-04:00",
+      "eps_estimate": 0.58,
+      "eps_actual": 0.67,
+      "surprise_pct": 15.16,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "KBR",
+      "earnings_date": "2023-07-27T06:00:00-04:00",
+      "eps_estimate": 0.72,
+      "eps_actual": 0.74,
+      "surprise_pct": 3.05,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "KBR",
+      "earnings_date": "2023-11-02T06:00:00-04:00",
+      "eps_estimate": 0.74,
+      "eps_actual": 0.75,
+      "surprise_pct": 0.86,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "KBR",
+      "earnings_date": "2024-02-20T06:00:00-05:00",
+      "eps_estimate": 0.69,
+      "eps_actual": 0.69,
+      "surprise_pct": 0.51,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "KBR",
+      "earnings_date": "2024-04-30T06:00:00-04:00",
+      "eps_estimate": 0.7,
+      "eps_actual": 0.77,
+      "surprise_pct": 9.93,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "KBR",
+      "earnings_date": "2024-07-24T06:00:00-04:00",
+      "eps_estimate": 0.79,
+      "eps_actual": 0.83,
+      "surprise_pct": 4.72,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "KBR",
+      "earnings_date": "2024-10-23T06:00:00-04:00",
+      "eps_estimate": 0.84,
+      "eps_actual": 0.84,
+      "surprise_pct": 0.17,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "KBR",
+      "earnings_date": "2025-02-24T16:00:00-05:00",
+      "eps_estimate": 0.82,
+      "eps_actual": 0.91,
+      "surprise_pct": 11.38,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "KBR",
+      "earnings_date": "2025-05-06T06:00:00-04:00",
+      "eps_estimate": 0.86,
+      "eps_actual": 0.98,
+      "surprise_pct": 13.71,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "KBR",
+      "earnings_date": "2025-07-31T06:00:00-04:00",
+      "eps_estimate": 0.88,
+      "eps_actual": 0.91,
+      "surprise_pct": 2.99,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "KBR",
+      "earnings_date": "2025-10-30T06:00:00-04:00",
+      "eps_estimate": 0.95,
+      "eps_actual": 1.02,
+      "surprise_pct": 6.87,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "KBR",
+      "earnings_date": "2026-02-26T06:00:00-05:00",
+      "eps_estimate": 0.95,
+      "eps_actual": 0.99,
+      "surprise_pct": 4.39,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "KBR",
+      "earnings_date": "2026-05-05T08:00:00-04:00",
+      "eps_estimate": 0.92,
+      "eps_actual": null,
+      "surprise_pct": null,
+      "surprise_source": "yfinance_native"
+    }
+  ],
+  "KTOS": [
+    {
+      "ticker": "KTOS",
+      "earnings_date": "2020-05-07T17:00:00-04:00",
+      "eps_estimate": 0.06,
+      "eps_actual": 0.09,
+      "surprise_pct": 46.08,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "KTOS",
+      "earnings_date": "2020-08-04T16:00:00-04:00",
+      "eps_estimate": 0.06,
+      "eps_actual": 0.08,
+      "surprise_pct": 37.1,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "KTOS",
+      "earnings_date": "2020-10-29T16:00:00-04:00",
+      "eps_estimate": 0.09,
+      "eps_actual": 0.14,
+      "surprise_pct": 56.58,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "KTOS",
+      "earnings_date": "2021-02-25T16:00:00-05:00",
+      "eps_estimate": 0.1,
+      "eps_actual": 0.08,
+      "surprise_pct": -18.82,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "KTOS",
+      "earnings_date": "2021-05-05T16:00:00-04:00",
+      "eps_estimate": 0.05,
+      "eps_actual": 0.06,
+      "surprise_pct": 20.41,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "KTOS",
+      "earnings_date": "2021-08-03T16:00:00-04:00",
+      "eps_estimate": 0.06,
+      "eps_actual": 0.06,
+      "surprise_pct": -2.77,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "KTOS",
+      "earnings_date": "2021-11-03T16:00:00-04:00",
+      "eps_estimate": 0.07,
+      "eps_actual": 0.09,
+      "surprise_pct": 37.47,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "KTOS",
+      "earnings_date": "2022-02-22T16:00:00-05:00",
+      "eps_estimate": 0.09,
+      "eps_actual": 0.11,
+      "surprise_pct": 21.91,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "KTOS",
+      "earnings_date": "2022-05-05T16:00:00-04:00",
+      "eps_estimate": 0.01,
+      "eps_actual": 0.04,
+      "surprise_pct": 274.18,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "KTOS",
+      "earnings_date": "2022-08-04T16:00:00-04:00",
+      "eps_estimate": 0.04,
+      "eps_actual": 0.07,
+      "surprise_pct": 94.66,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "KTOS",
+      "earnings_date": "2022-11-03T16:00:00-04:00",
+      "eps_estimate": 0.06,
+      "eps_actual": 0.09,
+      "surprise_pct": 39.66,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "KTOS",
+      "earnings_date": "2023-02-23T16:00:00-05:00",
+      "eps_estimate": 0.07,
+      "eps_actual": 0.08,
+      "surprise_pct": 7.54,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "KTOS",
+      "earnings_date": "2023-05-03T16:00:00-04:00",
+      "eps_estimate": 0.04,
+      "eps_actual": 0.06,
+      "surprise_pct": 48.85,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "KTOS",
+      "earnings_date": "2023-08-03T16:00:00-04:00",
+      "eps_estimate": 0.05,
+      "eps_actual": 0.09,
+      "surprise_pct": 65.68,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "KTOS",
+      "earnings_date": "2023-11-02T16:00:00-04:00",
+      "eps_estimate": 0.08,
+      "eps_actual": 0.12,
+      "surprise_pct": 42.11,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "KTOS",
+      "earnings_date": "2024-02-13T16:00:00-05:00",
+      "eps_estimate": 0.08,
+      "eps_actual": 0.12,
+      "surprise_pct": 42.4,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "KTOS",
+      "earnings_date": "2024-05-07T16:00:00-04:00",
+      "eps_estimate": 0.05,
+      "eps_actual": 0.11,
+      "surprise_pct": 124.44,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "KTOS",
+      "earnings_date": "2024-08-07T16:00:00-04:00",
+      "eps_estimate": 0.08,
+      "eps_actual": 0.14,
+      "surprise_pct": 73.83,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "KTOS",
+      "earnings_date": "2024-11-07T16:00:00-05:00",
+      "eps_estimate": 0.08,
+      "eps_actual": 0.11,
+      "surprise_pct": 31.91,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "KTOS",
+      "earnings_date": "2025-02-26T16:00:00-05:00",
+      "eps_estimate": 0.1,
+      "eps_actual": 0.13,
+      "surprise_pct": 27.79,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "KTOS",
+      "earnings_date": "2025-05-07T16:00:00-04:00",
+      "eps_estimate": 0.09,
+      "eps_actual": 0.12,
+      "surprise_pct": 32.85,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "KTOS",
+      "earnings_date": "2025-08-07T16:00:00-04:00",
+      "eps_estimate": 0.09,
+      "eps_actual": 0.11,
+      "surprise_pct": 17.75,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "KTOS",
+      "earnings_date": "2025-11-04T16:00:00-05:00",
+      "eps_estimate": 0.12,
+      "eps_actual": 0.14,
+      "surprise_pct": 12.34,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "KTOS",
+      "earnings_date": "2026-02-23T16:00:00-05:00",
+      "eps_estimate": 0.15,
+      "eps_actual": 0.18,
+      "surprise_pct": 22.05,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "KTOS",
+      "earnings_date": "2026-05-07T16:00:00-04:00",
+      "eps_estimate": 0.13,
+      "eps_actual": null,
+      "surprise_pct": null,
+      "surprise_source": "yfinance_native"
+    }
+  ],
+  "LDOS": [
+    {
+      "ticker": "LDOS",
+      "earnings_date": "2020-05-05T06:00:00-04:00",
+      "eps_estimate": 1.23,
+      "eps_actual": 1.19,
+      "surprise_pct": -3.04,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LDOS",
+      "earnings_date": "2020-08-04T06:00:00-04:00",
+      "eps_estimate": 1.09,
+      "eps_actual": 1.55,
+      "surprise_pct": 42.03,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LDOS",
+      "earnings_date": "2020-11-02T06:00:00-05:00",
+      "eps_estimate": 1.24,
+      "eps_actual": 1.47,
+      "surprise_pct": 18.72,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LDOS",
+      "earnings_date": "2021-02-23T06:00:00-05:00",
+      "eps_estimate": 1.61,
+      "eps_actual": 1.63,
+      "surprise_pct": 0.95,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LDOS",
+      "earnings_date": "2021-05-04T06:00:00-04:00",
+      "eps_estimate": 1.47,
+      "eps_actual": 1.73,
+      "surprise_pct": 17.83,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LDOS",
+      "earnings_date": "2021-08-03T06:00:00-04:00",
+      "eps_estimate": 1.58,
+      "eps_actual": 1.52,
+      "surprise_pct": -3.89,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LDOS",
+      "earnings_date": "2021-11-02T06:00:00-04:00",
+      "eps_estimate": 1.62,
+      "eps_actual": 1.8,
+      "surprise_pct": 11.17,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LDOS",
+      "earnings_date": "2022-02-15T06:00:00-05:00",
+      "eps_estimate": 1.6,
+      "eps_actual": 1.56,
+      "surprise_pct": -2.33,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LDOS",
+      "earnings_date": "2022-05-03T06:00:00-04:00",
+      "eps_estimate": 1.5,
+      "eps_actual": 1.58,
+      "surprise_pct": 5.12,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LDOS",
+      "earnings_date": "2022-08-02T06:00:00-04:00",
+      "eps_estimate": 1.56,
+      "eps_actual": 1.59,
+      "surprise_pct": 1.99,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LDOS",
+      "earnings_date": "2022-11-01T06:00:00-04:00",
+      "eps_estimate": 1.57,
+      "eps_actual": 1.59,
+      "surprise_pct": 1.42,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LDOS",
+      "earnings_date": "2023-02-14T06:00:00-05:00",
+      "eps_estimate": 1.61,
+      "eps_actual": 1.83,
+      "surprise_pct": 13.42,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LDOS",
+      "earnings_date": "2023-05-02T06:00:00-04:00",
+      "eps_estimate": 1.59,
+      "eps_actual": 1.47,
+      "surprise_pct": -7.29,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LDOS",
+      "earnings_date": "2023-08-01T06:00:00-04:00",
+      "eps_estimate": 1.57,
+      "eps_actual": 1.8,
+      "surprise_pct": 14.57,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LDOS",
+      "earnings_date": "2023-10-31T06:00:00-04:00",
+      "eps_estimate": 1.67,
+      "eps_actual": 2.03,
+      "surprise_pct": 21.82,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LDOS",
+      "earnings_date": "2024-02-13T06:00:00-05:00",
+      "eps_estimate": 1.75,
+      "eps_actual": 1.99,
+      "surprise_pct": 13.96,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LDOS",
+      "earnings_date": "2024-04-30T06:00:00-04:00",
+      "eps_estimate": 1.7,
+      "eps_actual": 2.29,
+      "surprise_pct": 34.97,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LDOS",
+      "earnings_date": "2024-07-30T06:00:00-04:00",
+      "eps_estimate": 2.27,
+      "eps_actual": 2.63,
+      "surprise_pct": 15.85,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LDOS",
+      "earnings_date": "2024-10-29T06:00:00-04:00",
+      "eps_estimate": 2.02,
+      "eps_actual": 2.93,
+      "surprise_pct": 45.29,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LDOS",
+      "earnings_date": "2025-02-11T06:00:00-05:00",
+      "eps_estimate": 2.27,
+      "eps_actual": 2.37,
+      "surprise_pct": 4.45,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LDOS",
+      "earnings_date": "2025-05-06T06:00:00-04:00",
+      "eps_estimate": 2.5,
+      "eps_actual": 2.97,
+      "surprise_pct": 18.73,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LDOS",
+      "earnings_date": "2025-08-05T06:00:00-04:00",
+      "eps_estimate": 2.66,
+      "eps_actual": 3.21,
+      "surprise_pct": 20.83,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LDOS",
+      "earnings_date": "2025-11-04T06:00:00-05:00",
+      "eps_estimate": 2.72,
+      "eps_actual": 3.05,
+      "surprise_pct": 12.3,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LDOS",
+      "earnings_date": "2026-02-17T06:00:00-05:00",
+      "eps_estimate": 2.61,
+      "eps_actual": 2.76,
+      "surprise_pct": 5.91,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LDOS",
+      "earnings_date": "2026-05-05T08:00:00-04:00",
+      "eps_estimate": 2.91,
+      "eps_actual": null,
+      "surprise_pct": null,
+      "surprise_source": "yfinance_native"
+    }
+  ],
+  "LHX": [
+    {
+      "ticker": "LHX",
+      "earnings_date": "2020-05-05T07:00:00-04:00",
+      "eps_estimate": 2.59,
+      "eps_actual": 2.8,
+      "surprise_pct": 8.11,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LHX",
+      "earnings_date": "2020-07-31T06:00:00-04:00",
+      "eps_estimate": 2.58,
+      "eps_actual": 2.83,
+      "surprise_pct": 9.75,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LHX",
+      "earnings_date": "2020-10-30T06:00:00-04:00",
+      "eps_estimate": 2.74,
+      "eps_actual": 2.84,
+      "surprise_pct": 3.62,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LHX",
+      "earnings_date": "2021-01-29T06:00:00-05:00",
+      "eps_estimate": 3.1,
+      "eps_actual": 3.14,
+      "surprise_pct": 1.42,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LHX",
+      "earnings_date": "2021-04-30T06:00:00-04:00",
+      "eps_estimate": 2.94,
+      "eps_actual": 3.18,
+      "surprise_pct": 8.0,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LHX",
+      "earnings_date": "2021-08-03T06:00:00-04:00",
+      "eps_estimate": 3.18,
+      "eps_actual": 3.26,
+      "surprise_pct": 2.66,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LHX",
+      "earnings_date": "2021-10-29T06:00:00-04:00",
+      "eps_estimate": 3.18,
+      "eps_actual": 3.21,
+      "surprise_pct": 0.95,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LHX",
+      "earnings_date": "2022-01-31T06:00:00-05:00",
+      "eps_estimate": 3.27,
+      "eps_actual": 3.3,
+      "surprise_pct": 0.99,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LHX",
+      "earnings_date": "2022-04-28T19:00:00-04:00",
+      "eps_estimate": 3.05,
+      "eps_actual": 3.12,
+      "surprise_pct": 2.33,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LHX",
+      "earnings_date": "2022-07-28T16:00:00-04:00",
+      "eps_estimate": 3.18,
+      "eps_actual": 3.23,
+      "surprise_pct": 1.54,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LHX",
+      "earnings_date": "2022-10-27T16:00:00-04:00",
+      "eps_estimate": 3.4,
+      "eps_actual": 3.26,
+      "surprise_pct": -4.0,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LHX",
+      "earnings_date": "2023-01-26T16:00:00-05:00",
+      "eps_estimate": 3.28,
+      "eps_actual": 3.27,
+      "surprise_pct": -0.24,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LHX",
+      "earnings_date": "2023-04-27T16:00:00-04:00",
+      "eps_estimate": 2.87,
+      "eps_actual": 2.86,
+      "surprise_pct": -0.29,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LHX",
+      "earnings_date": "2023-07-26T16:00:00-04:00",
+      "eps_estimate": 2.95,
+      "eps_actual": 2.97,
+      "surprise_pct": 0.8,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LHX",
+      "earnings_date": "2023-10-26T16:00:00-04:00",
+      "eps_estimate": 3.03,
+      "eps_actual": 3.19,
+      "surprise_pct": 5.24,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LHX",
+      "earnings_date": "2024-01-25T16:00:00-05:00",
+      "eps_estimate": 3.31,
+      "eps_actual": 3.35,
+      "surprise_pct": 1.21,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LHX",
+      "earnings_date": "2024-04-25T16:00:00-04:00",
+      "eps_estimate": 2.91,
+      "eps_actual": 3.06,
+      "surprise_pct": 5.21,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LHX",
+      "earnings_date": "2024-07-25T16:00:00-04:00",
+      "eps_estimate": 3.18,
+      "eps_actual": 3.24,
+      "surprise_pct": 1.75,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LHX",
+      "earnings_date": "2024-10-24T16:00:00-04:00",
+      "eps_estimate": 3.26,
+      "eps_actual": 3.34,
+      "surprise_pct": 2.3,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LHX",
+      "earnings_date": "2025-01-30T06:00:00-05:00",
+      "eps_estimate": 3.42,
+      "eps_actual": 3.47,
+      "surprise_pct": 1.52,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LHX",
+      "earnings_date": "2025-04-24T06:00:00-04:00",
+      "eps_estimate": 2.32,
+      "eps_actual": 2.41,
+      "surprise_pct": 4.0,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LHX",
+      "earnings_date": "2025-07-24T06:00:00-04:00",
+      "eps_estimate": 2.5,
+      "eps_actual": 2.78,
+      "surprise_pct": 11.34,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LHX",
+      "earnings_date": "2025-10-30T06:00:00-04:00",
+      "eps_estimate": 2.57,
+      "eps_actual": 2.7,
+      "surprise_pct": 5.09,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LHX",
+      "earnings_date": "2026-01-29T06:00:00-05:00",
+      "eps_estimate": 2.76,
+      "eps_actual": 2.86,
+      "surprise_pct": 3.65,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LHX",
+      "earnings_date": "2026-04-30T08:00:00-04:00",
+      "eps_estimate": 2.57,
+      "eps_actual": null,
+      "surprise_pct": null,
+      "surprise_source": "yfinance_native"
+    }
+  ],
+  "LMT": [
+    {
+      "ticker": "LMT",
+      "earnings_date": "2020-07-21T07:00:00-04:00",
+      "eps_estimate": 5.7,
+      "eps_actual": 5.79,
+      "surprise_pct": 1.64,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LMT",
+      "earnings_date": "2020-10-20T07:00:00-04:00",
+      "eps_estimate": 6.09,
+      "eps_actual": 6.05,
+      "surprise_pct": -0.59,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LMT",
+      "earnings_date": "2021-01-26T07:00:00-05:00",
+      "eps_estimate": 6.4,
+      "eps_actual": 6.38,
+      "surprise_pct": -0.37,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LMT",
+      "earnings_date": "2021-04-20T07:00:00-04:00",
+      "eps_estimate": 6.32,
+      "eps_actual": 6.56,
+      "surprise_pct": 3.78,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LMT",
+      "earnings_date": "2021-07-26T07:00:00-04:00",
+      "eps_estimate": 6.52,
+      "eps_actual": 6.52,
+      "surprise_pct": -0.05,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LMT",
+      "earnings_date": "2021-10-26T07:00:00-04:00",
+      "eps_estimate": 6.8,
+      "eps_actual": 6.93,
+      "surprise_pct": 1.91,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LMT",
+      "earnings_date": "2022-01-25T07:00:00-05:00",
+      "eps_estimate": 7.2,
+      "eps_actual": 7.47,
+      "surprise_pct": 3.82,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LMT",
+      "earnings_date": "2022-04-19T07:00:00-04:00",
+      "eps_estimate": 6.17,
+      "eps_actual": 6.44,
+      "surprise_pct": 4.36,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LMT",
+      "earnings_date": "2022-07-19T07:00:00-04:00",
+      "eps_estimate": 6.39,
+      "eps_actual": 6.32,
+      "surprise_pct": -1.13,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LMT",
+      "earnings_date": "2022-10-18T07:00:00-04:00",
+      "eps_estimate": 6.72,
+      "eps_actual": 6.87,
+      "surprise_pct": 2.2,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LMT",
+      "earnings_date": "2023-01-24T07:00:00-05:00",
+      "eps_estimate": 7.36,
+      "eps_actual": 7.4,
+      "surprise_pct": 0.54,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LMT",
+      "earnings_date": "2023-04-18T07:00:00-04:00",
+      "eps_estimate": 6.06,
+      "eps_actual": 6.43,
+      "surprise_pct": 6.11,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LMT",
+      "earnings_date": "2023-07-18T07:00:00-04:00",
+      "eps_estimate": 6.45,
+      "eps_actual": 6.73,
+      "surprise_pct": 4.4,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LMT",
+      "earnings_date": "2023-10-17T07:00:00-04:00",
+      "eps_estimate": 6.65,
+      "eps_actual": 6.73,
+      "surprise_pct": 1.17,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LMT",
+      "earnings_date": "2024-01-23T07:00:00-05:00",
+      "eps_estimate": 7.25,
+      "eps_actual": 7.58,
+      "surprise_pct": 4.51,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LMT",
+      "earnings_date": "2024-04-23T07:00:00-04:00",
+      "eps_estimate": 5.85,
+      "eps_actual": 6.39,
+      "surprise_pct": 9.29,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LMT",
+      "earnings_date": "2024-07-23T07:00:00-04:00",
+      "eps_estimate": 6.46,
+      "eps_actual": 6.85,
+      "surprise_pct": 6.04,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LMT",
+      "earnings_date": "2024-10-22T07:00:00-04:00",
+      "eps_estimate": 6.44,
+      "eps_actual": 6.84,
+      "surprise_pct": 6.17,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LMT",
+      "earnings_date": "2025-01-28T07:00:00-05:00",
+      "eps_estimate": 6.62,
+      "eps_actual": 7.71,
+      "surprise_pct": 16.46,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LMT",
+      "earnings_date": "2025-04-22T17:00:00-04:00",
+      "eps_estimate": 6.32,
+      "eps_actual": 7.28,
+      "surprise_pct": 15.13,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LMT",
+      "earnings_date": "2025-07-22T07:00:00-04:00",
+      "eps_estimate": 6.51,
+      "eps_actual": 1.46,
+      "surprise_pct": -77.59,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LMT",
+      "earnings_date": "2025-10-21T07:00:00-04:00",
+      "eps_estimate": 6.36,
+      "eps_actual": 6.95,
+      "surprise_pct": 9.31,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LMT",
+      "earnings_date": "2026-01-29T07:00:00-05:00",
+      "eps_estimate": 5.96,
+      "eps_actual": 5.8,
+      "surprise_pct": -2.71,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LMT",
+      "earnings_date": "2026-04-23T06:00:00-04:00",
+      "eps_estimate": 6.69,
+      "eps_actual": 6.44,
+      "surprise_pct": -3.78,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "LMT",
+      "earnings_date": "2026-07-21T08:00:00-04:00",
+      "eps_estimate": 7.11,
+      "eps_actual": null,
+      "surprise_pct": null,
+      "surprise_source": "yfinance_native"
+    }
+  ],
+  "MMS": [
+    {
+      "ticker": "MMS",
+      "earnings_date": "2020-05-07T07:00:00-04:00",
+      "eps_estimate": 0.66,
+      "eps_actual": 0.43,
+      "surprise_pct": -34.35,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "MMS",
+      "earnings_date": "2020-08-06T06:00:00-04:00",
+      "eps_estimate": 0.78,
+      "eps_actual": 1.04,
+      "surprise_pct": 32.77,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "MMS",
+      "earnings_date": "2020-11-19T06:00:00-05:00",
+      "eps_estimate": 0.9,
+      "eps_actual": 1.02,
+      "surprise_pct": 13.33,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "MMS",
+      "earnings_date": "2021-02-04T06:00:00-05:00",
+      "eps_estimate": 0.9,
+      "eps_actual": 1.03,
+      "surprise_pct": 14.19,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "MMS",
+      "earnings_date": "2021-05-06T06:00:00-04:00",
+      "eps_estimate": 0.82,
+      "eps_actual": 1.29,
+      "surprise_pct": 56.55,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "MMS",
+      "earnings_date": "2021-08-05T06:00:00-04:00",
+      "eps_estimate": 1.09,
+      "eps_actual": 1.51,
+      "surprise_pct": 38.85,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "MMS",
+      "earnings_date": "2021-11-18T06:00:00-05:00",
+      "eps_estimate": 0.87,
+      "eps_actual": 0.83,
+      "surprise_pct": -4.87,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "MMS",
+      "earnings_date": "2022-02-03T06:00:00-05:00",
+      "eps_estimate": 0.8,
+      "eps_actual": 0.85,
+      "surprise_pct": 6.92,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "MMS",
+      "earnings_date": "2022-05-04T17:00:00-04:00",
+      "eps_estimate": 0.72,
+      "eps_actual": 0.8,
+      "surprise_pct": 11.89,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "MMS",
+      "earnings_date": "2022-08-03T17:00:00-04:00",
+      "eps_estimate": 0.71,
+      "eps_actual": 0.51,
+      "surprise_pct": -28.17,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "MMS",
+      "earnings_date": "2022-11-21T16:00:00-05:00",
+      "eps_estimate": 0.97,
+      "eps_actual": 1.4,
+      "surprise_pct": 44.33,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "MMS",
+      "earnings_date": "2023-02-08T16:00:00-05:00",
+      "eps_estimate": 0.76,
+      "eps_actual": 0.94,
+      "surprise_pct": 23.68,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "MMS",
+      "earnings_date": "2023-05-03T16:00:00-04:00",
+      "eps_estimate": 0.83,
+      "eps_actual": 0.8,
+      "surprise_pct": -3.61,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "MMS",
+      "earnings_date": "2023-08-02T16:00:00-04:00",
+      "eps_estimate": 1.02,
+      "eps_actual": 1.04,
+      "surprise_pct": 1.96,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "MMS",
+      "earnings_date": "2023-11-15T16:00:00-05:00",
+      "eps_estimate": 1.32,
+      "eps_actual": 1.29,
+      "surprise_pct": -2.52,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "MMS",
+      "earnings_date": "2024-02-07T16:00:00-05:00",
+      "eps_estimate": 1.28,
+      "eps_actual": 1.34,
+      "surprise_pct": 4.69,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "MMS",
+      "earnings_date": "2024-05-08T16:00:00-04:00",
+      "eps_estimate": 1.3,
+      "eps_actual": 1.57,
+      "surprise_pct": 20.46,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "MMS",
+      "earnings_date": "2024-08-07T16:00:00-04:00",
+      "eps_estimate": 1.52,
+      "eps_actual": 1.74,
+      "surprise_pct": 14.73,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "MMS",
+      "earnings_date": "2024-11-20T16:00:00-05:00",
+      "eps_estimate": 1.48,
+      "eps_actual": 1.46,
+      "surprise_pct": -1.35,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "MMS",
+      "earnings_date": "2025-02-06T06:00:00-05:00",
+      "eps_estimate": 1.37,
+      "eps_actual": 1.61,
+      "surprise_pct": 17.52,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "MMS",
+      "earnings_date": "2025-05-08T06:00:00-04:00",
+      "eps_estimate": 1.38,
+      "eps_actual": 2.01,
+      "surprise_pct": 45.65,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "MMS",
+      "earnings_date": "2025-08-07T06:00:00-04:00",
+      "eps_estimate": 1.54,
+      "eps_actual": 2.16,
+      "surprise_pct": 40.72,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "MMS",
+      "earnings_date": "2025-11-20T06:00:00-05:00",
+      "eps_estimate": 1.67,
+      "eps_actual": 1.62,
+      "surprise_pct": -2.99,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "MMS",
+      "earnings_date": "2026-02-05T06:00:00-05:00",
+      "eps_estimate": 1.82,
+      "eps_actual": 1.85,
+      "surprise_pct": 1.65,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "MMS",
+      "earnings_date": "2026-05-07T08:00:00-04:00",
+      "eps_estimate": 2.04,
+      "eps_actual": null,
+      "surprise_pct": null,
+      "surprise_source": "yfinance_native"
+    }
+  ],
+  "MOG.A": [
+    {
+      "ticker": "MOG.A",
+      "error": "no_earnings_dates"
+    }
+  ],
+  "MSFT": [
+    {
+      "ticker": "MSFT",
+      "earnings_date": "2020-04-29T16:00:00-04:00",
+      "eps_estimate": 1.27,
+      "eps_actual": 1.4,
+      "surprise_pct": 10.34,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "MSFT",
+      "earnings_date": "2020-07-22T16:00:00-04:00",
+      "eps_estimate": 1.37,
+      "eps_actual": 1.46,
+      "surprise_pct": 6.42,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "MSFT",
+      "earnings_date": "2020-10-27T16:00:00-04:00",
+      "eps_estimate": 1.55,
+      "eps_actual": 1.82,
+      "surprise_pct": 17.72,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "MSFT",
+      "earnings_date": "2021-01-26T16:00:00-05:00",
+      "eps_estimate": 1.64,
+      "eps_actual": 2.03,
+      "surprise_pct": 23.99,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "MSFT",
+      "earnings_date": "2021-04-27T16:00:00-04:00",
+      "eps_estimate": 1.78,
+      "eps_actual": 1.95,
+      "surprise_pct": 9.67,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "MSFT",
+      "earnings_date": "2021-07-27T16:00:00-04:00",
+      "eps_estimate": 1.93,
+      "eps_actual": 2.17,
+      "surprise_pct": 12.71,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "MSFT",
+      "earnings_date": "2021-10-26T16:00:00-04:00",
+      "eps_estimate": 2.08,
+      "eps_actual": 2.27,
+      "surprise_pct": 9.3,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "MSFT",
+      "earnings_date": "2022-01-25T16:00:00-05:00",
+      "eps_estimate": 2.32,
+      "eps_actual": 2.48,
+      "surprise_pct": 6.97,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "MSFT",
+      "earnings_date": "2022-04-26T16:00:00-04:00",
+      "eps_estimate": 2.2,
+      "eps_actual": 2.22,
+      "surprise_pct": 1.06,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "MSFT",
+      "earnings_date": "2022-07-26T16:00:00-04:00",
+      "eps_estimate": 2.29,
+      "eps_actual": 2.23,
+      "surprise_pct": -2.69,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "MSFT",
+      "earnings_date": "2022-10-25T16:00:00-04:00",
+      "eps_estimate": 2.31,
+      "eps_actual": 2.35,
+      "surprise_pct": 1.92,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "MSFT",
+      "earnings_date": "2023-01-24T16:00:00-05:00",
+      "eps_estimate": 2.32,
+      "eps_actual": 2.32,
+      "surprise_pct": 0.21,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "MSFT",
+      "earnings_date": "2023-04-25T16:00:00-04:00",
+      "eps_estimate": 2.23,
+      "eps_actual": 2.45,
+      "surprise_pct": 9.77,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "MSFT",
+      "earnings_date": "2023-07-25T16:00:00-04:00",
+      "eps_estimate": 2.55,
+      "eps_actual": 2.69,
+      "surprise_pct": 5.59,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "MSFT",
+      "earnings_date": "2023-10-24T16:00:00-04:00",
+      "eps_estimate": 2.65,
+      "eps_actual": 2.99,
+      "surprise_pct": 12.85,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "MSFT",
+      "earnings_date": "2024-01-30T16:00:00-05:00",
+      "eps_estimate": 2.77,
+      "eps_actual": 2.93,
+      "surprise_pct": 5.83,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "MSFT",
+      "earnings_date": "2024-04-25T16:00:00-04:00",
+      "eps_estimate": 2.84,
+      "eps_actual": 2.94,
+      "surprise_pct": 3.4,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "MSFT",
+      "earnings_date": "2024-07-30T16:00:00-04:00",
+      "eps_estimate": 2.94,
+      "eps_actual": 2.95,
+      "surprise_pct": 0.23,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "MSFT",
+      "earnings_date": "2024-10-30T16:00:00-04:00",
+      "eps_estimate": 3.11,
+      "eps_actual": 3.3,
+      "surprise_pct": 6.13,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "MSFT",
+      "earnings_date": "2025-01-29T16:00:00-05:00",
+      "eps_estimate": 3.12,
+      "eps_actual": 3.23,
+      "surprise_pct": 3.47,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "MSFT",
+      "earnings_date": "2025-04-30T16:00:00-04:00",
+      "eps_estimate": 3.22,
+      "eps_actual": 3.46,
+      "surprise_pct": 7.4,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "MSFT",
+      "earnings_date": "2025-07-30T16:00:00-04:00",
+      "eps_estimate": 3.38,
+      "eps_actual": 3.65,
+      "surprise_pct": 8.09,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "MSFT",
+      "earnings_date": "2025-10-29T16:00:00-04:00",
+      "eps_estimate": 3.66,
+      "eps_actual": 4.13,
+      "surprise_pct": 12.73,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "MSFT",
+      "earnings_date": "2026-01-28T16:00:00-05:00",
+      "eps_estimate": 3.92,
+      "eps_actual": 4.14,
+      "surprise_pct": 5.69,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "MSFT",
+      "earnings_date": "2026-04-29T16:00:00-04:00",
+      "eps_estimate": 4.06,
+      "eps_actual": null,
+      "surprise_pct": null,
+      "surprise_source": "yfinance_native"
+    }
+  ],
+  "NOC": [
+    {
+      "ticker": "NOC",
+      "earnings_date": "2020-07-30T06:00:00-04:00",
+      "eps_estimate": 5.28,
+      "eps_actual": 6.01,
+      "surprise_pct": 13.8,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "NOC",
+      "earnings_date": "2020-10-22T06:00:00-04:00",
+      "eps_estimate": 5.6,
+      "eps_actual": 5.89,
+      "surprise_pct": 5.09,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "NOC",
+      "earnings_date": "2021-01-28T06:00:00-05:00",
+      "eps_estimate": 5.71,
+      "eps_actual": 6.59,
+      "surprise_pct": 15.39,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "NOC",
+      "earnings_date": "2021-04-29T06:00:00-04:00",
+      "eps_estimate": 5.48,
+      "eps_actual": 6.57,
+      "surprise_pct": 19.82,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "NOC",
+      "earnings_date": "2021-07-29T06:00:00-04:00",
+      "eps_estimate": 5.85,
+      "eps_actual": 6.42,
+      "surprise_pct": 9.67,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "NOC",
+      "earnings_date": "2021-10-28T06:00:00-04:00",
+      "eps_estimate": 5.98,
+      "eps_actual": 6.63,
+      "surprise_pct": 10.82,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "NOC",
+      "earnings_date": "2022-01-27T06:00:00-05:00",
+      "eps_estimate": 5.96,
+      "eps_actual": 6.0,
+      "surprise_pct": 0.63,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "NOC",
+      "earnings_date": "2022-04-28T06:00:00-04:00",
+      "eps_estimate": 5.98,
+      "eps_actual": 6.1,
+      "surprise_pct": 2.04,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "NOC",
+      "earnings_date": "2022-07-28T06:00:00-04:00",
+      "eps_estimate": 6.1,
+      "eps_actual": 6.06,
+      "surprise_pct": -0.66,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "NOC",
+      "earnings_date": "2022-10-27T06:00:00-04:00",
+      "eps_estimate": 6.11,
+      "eps_actual": 5.89,
+      "surprise_pct": -3.66,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "NOC",
+      "earnings_date": "2023-01-26T06:00:00-05:00",
+      "eps_estimate": 6.57,
+      "eps_actual": 7.5,
+      "surprise_pct": 14.23,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "NOC",
+      "earnings_date": "2023-04-27T06:00:00-04:00",
+      "eps_estimate": 5.09,
+      "eps_actual": 5.5,
+      "surprise_pct": 8.0,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "NOC",
+      "earnings_date": "2023-07-27T06:00:00-04:00",
+      "eps_estimate": 5.32,
+      "eps_actual": 5.34,
+      "surprise_pct": 0.3,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "NOC",
+      "earnings_date": "2023-10-26T06:00:00-04:00",
+      "eps_estimate": 5.8,
+      "eps_actual": 6.18,
+      "surprise_pct": 6.57,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "NOC",
+      "earnings_date": "2024-01-25T06:00:00-05:00",
+      "eps_estimate": 5.8,
+      "eps_actual": 6.27,
+      "surprise_pct": 8.1,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "NOC",
+      "earnings_date": "2024-04-25T06:00:00-04:00",
+      "eps_estimate": 5.78,
+      "eps_actual": 6.32,
+      "surprise_pct": 9.38,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "NOC",
+      "earnings_date": "2024-07-25T06:00:00-04:00",
+      "eps_estimate": 5.93,
+      "eps_actual": 6.36,
+      "surprise_pct": 7.18,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "NOC",
+      "earnings_date": "2024-10-24T06:00:00-04:00",
+      "eps_estimate": 6.07,
+      "eps_actual": 7.0,
+      "surprise_pct": 15.36,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "NOC",
+      "earnings_date": "2025-01-30T06:00:00-05:00",
+      "eps_estimate": 6.35,
+      "eps_actual": 6.39,
+      "surprise_pct": 0.71,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "NOC",
+      "earnings_date": "2025-04-22T06:00:00-04:00",
+      "eps_estimate": 6.26,
+      "eps_actual": 3.32,
+      "surprise_pct": -46.99,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "NOC",
+      "earnings_date": "2025-07-22T06:00:00-04:00",
+      "eps_estimate": 6.8,
+      "eps_actual": 8.15,
+      "surprise_pct": 19.93,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "NOC",
+      "earnings_date": "2025-10-21T06:00:00-04:00",
+      "eps_estimate": 6.46,
+      "eps_actual": 7.67,
+      "surprise_pct": 18.82,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "NOC",
+      "earnings_date": "2026-01-27T06:00:00-05:00",
+      "eps_estimate": 6.96,
+      "eps_actual": 7.23,
+      "surprise_pct": 3.84,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "NOC",
+      "earnings_date": "2026-04-21T06:00:00-04:00",
+      "eps_estimate": 6.06,
+      "eps_actual": 6.14,
+      "surprise_pct": 1.28,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "NOC",
+      "earnings_date": "2026-07-21T08:00:00-04:00",
+      "eps_estimate": 6.83,
+      "eps_actual": null,
+      "surprise_pct": null,
+      "surprise_source": "yfinance_native"
+    }
+  ],
+  "ORCL": [
+    {
+      "ticker": "ORCL",
+      "earnings_date": "2020-06-16T16:00:00-04:00",
+      "eps_estimate": 1.15,
+      "eps_actual": 1.2,
+      "surprise_pct": 4.16,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ORCL",
+      "earnings_date": "2020-09-10T16:00:00-04:00",
+      "eps_estimate": 0.86,
+      "eps_actual": 0.93,
+      "surprise_pct": 7.77,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ORCL",
+      "earnings_date": "2020-12-10T16:00:00-05:00",
+      "eps_estimate": 1.0,
+      "eps_actual": 1.06,
+      "surprise_pct": 6.13,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ORCL",
+      "earnings_date": "2021-03-10T16:00:00-05:00",
+      "eps_estimate": 1.11,
+      "eps_actual": 1.16,
+      "surprise_pct": 4.54,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ORCL",
+      "earnings_date": "2021-06-15T16:00:00-04:00",
+      "eps_estimate": 1.33,
+      "eps_actual": 1.54,
+      "surprise_pct": 15.62,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ORCL",
+      "earnings_date": "2021-09-13T16:00:00-04:00",
+      "eps_estimate": 0.97,
+      "eps_actual": 1.03,
+      "surprise_pct": 6.4,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ORCL",
+      "earnings_date": "2021-12-09T16:00:00-05:00",
+      "eps_estimate": 1.11,
+      "eps_actual": 1.21,
+      "surprise_pct": 8.53,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ORCL",
+      "earnings_date": "2022-03-10T16:00:00-05:00",
+      "eps_estimate": 1.18,
+      "eps_actual": 1.13,
+      "surprise_pct": -4.02,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ORCL",
+      "earnings_date": "2022-06-13T16:00:00-04:00",
+      "eps_estimate": 1.38,
+      "eps_actual": 1.54,
+      "surprise_pct": 11.95,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ORCL",
+      "earnings_date": "2022-09-12T16:00:00-04:00",
+      "eps_estimate": 1.08,
+      "eps_actual": 1.03,
+      "surprise_pct": -4.22,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ORCL",
+      "earnings_date": "2022-12-12T16:00:00-05:00",
+      "eps_estimate": 1.17,
+      "eps_actual": 1.21,
+      "surprise_pct": 3.15,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ORCL",
+      "earnings_date": "2023-03-09T16:00:00-05:00",
+      "eps_estimate": 1.2,
+      "eps_actual": 1.22,
+      "surprise_pct": 1.44,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ORCL",
+      "earnings_date": "2023-06-12T16:00:00-04:00",
+      "eps_estimate": 1.58,
+      "eps_actual": 1.67,
+      "surprise_pct": 5.56,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ORCL",
+      "earnings_date": "2023-09-11T16:00:00-04:00",
+      "eps_estimate": 1.15,
+      "eps_actual": 1.19,
+      "surprise_pct": 3.46,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ORCL",
+      "earnings_date": "2023-12-11T16:00:00-05:00",
+      "eps_estimate": 1.33,
+      "eps_actual": 1.34,
+      "surprise_pct": 0.95,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ORCL",
+      "earnings_date": "2024-03-11T16:00:00-04:00",
+      "eps_estimate": 1.38,
+      "eps_actual": 1.41,
+      "surprise_pct": 2.47,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ORCL",
+      "earnings_date": "2024-06-11T16:00:00-04:00",
+      "eps_estimate": 1.65,
+      "eps_actual": 1.63,
+      "surprise_pct": -1.14,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ORCL",
+      "earnings_date": "2024-09-09T16:00:00-04:00",
+      "eps_estimate": 1.33,
+      "eps_actual": 1.39,
+      "surprise_pct": 4.29,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ORCL",
+      "earnings_date": "2024-12-09T16:00:00-05:00",
+      "eps_estimate": 1.48,
+      "eps_actual": 1.47,
+      "surprise_pct": -0.77,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ORCL",
+      "earnings_date": "2025-03-10T16:00:00-04:00",
+      "eps_estimate": 1.49,
+      "eps_actual": 1.47,
+      "surprise_pct": -1.35,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ORCL",
+      "earnings_date": "2025-06-11T16:00:00-04:00",
+      "eps_estimate": 1.64,
+      "eps_actual": 1.7,
+      "surprise_pct": 3.37,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ORCL",
+      "earnings_date": "2025-09-09T16:00:00-04:00",
+      "eps_estimate": 1.48,
+      "eps_actual": 1.47,
+      "surprise_pct": -0.62,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ORCL",
+      "earnings_date": "2025-12-10T16:00:00-05:00",
+      "eps_estimate": 1.64,
+      "eps_actual": 2.26,
+      "surprise_pct": 38.04,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ORCL",
+      "earnings_date": "2026-03-10T16:00:00-04:00",
+      "eps_estimate": 1.69,
+      "eps_actual": 1.79,
+      "surprise_pct": 5.69,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "ORCL",
+      "earnings_date": "2026-06-10T16:00:00-04:00",
+      "eps_estimate": 1.96,
+      "eps_actual": null,
+      "surprise_pct": null,
+      "surprise_source": "yfinance_native"
+    }
+  ],
+  "OSK": [
+    {
+      "ticker": "OSK",
+      "earnings_date": "2020-01-29T06:00:00-05:00",
+      "eps_estimate": 1.16,
+      "eps_actual": 1.1,
+      "surprise_pct": -5.34,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "OSK",
+      "earnings_date": "2020-04-29T07:00:00-04:00",
+      "eps_estimate": 1.25,
+      "eps_actual": 1.25,
+      "surprise_pct": 0.05,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "OSK",
+      "earnings_date": "2020-07-30T06:00:00-04:00",
+      "eps_estimate": 0.51,
+      "eps_actual": 1.29,
+      "surprise_pct": 151.32,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "OSK",
+      "earnings_date": "2020-10-29T06:00:00-04:00",
+      "eps_estimate": 1.09,
+      "eps_actual": 1.3,
+      "surprise_pct": 19.36,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "OSK",
+      "earnings_date": "2021-01-27T06:00:00-05:00",
+      "eps_estimate": 0.73,
+      "eps_actual": 1.13,
+      "surprise_pct": 55.56,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "OSK",
+      "earnings_date": "2021-04-28T06:00:00-04:00",
+      "eps_estimate": 1.15,
+      "eps_actual": 1.48,
+      "surprise_pct": 28.34,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "OSK",
+      "earnings_date": "2021-07-29T06:00:00-04:00",
+      "eps_estimate": 2.26,
+      "eps_actual": 2.09,
+      "surprise_pct": -7.66,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "OSK",
+      "earnings_date": "2022-01-26T06:00:00-05:00",
+      "eps_estimate": 0.43,
+      "eps_actual": 0.09,
+      "surprise_pct": -79.02,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "OSK",
+      "earnings_date": "2022-04-27T07:00:00-04:00",
+      "eps_estimate": 0.17,
+      "eps_actual": 0.24,
+      "surprise_pct": 42.7,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "OSK",
+      "earnings_date": "2022-07-28T07:00:00-04:00",
+      "eps_estimate": 0.85,
+      "eps_actual": 0.41,
+      "surprise_pct": -51.89,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "OSK",
+      "earnings_date": "2022-10-27T07:00:00-04:00",
+      "eps_estimate": 1.18,
+      "eps_actual": 1.0,
+      "surprise_pct": -15.56,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "OSK",
+      "earnings_date": "2023-01-31T07:00:00-05:00",
+      "eps_estimate": 1.73,
+      "eps_actual": 1.6,
+      "surprise_pct": -7.62,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "OSK",
+      "earnings_date": "2023-04-27T07:00:00-04:00",
+      "eps_estimate": 1.03,
+      "eps_actual": 1.59,
+      "surprise_pct": 54.14,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "OSK",
+      "earnings_date": "2023-08-01T07:00:00-04:00",
+      "eps_estimate": 1.62,
+      "eps_actual": 2.69,
+      "surprise_pct": 66.01,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "OSK",
+      "earnings_date": "2023-10-26T07:00:00-04:00",
+      "eps_estimate": 2.22,
+      "eps_actual": 3.04,
+      "surprise_pct": 36.9,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "OSK",
+      "earnings_date": "2024-01-30T07:00:00-05:00",
+      "eps_estimate": 2.24,
+      "eps_actual": 2.56,
+      "surprise_pct": 14.48,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "OSK",
+      "earnings_date": "2024-04-25T06:00:00-04:00",
+      "eps_estimate": 2.25,
+      "eps_actual": 2.89,
+      "surprise_pct": 28.6,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "OSK",
+      "earnings_date": "2024-07-31T07:00:00-04:00",
+      "eps_estimate": 3.01,
+      "eps_actual": 3.34,
+      "surprise_pct": 11.03,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "OSK",
+      "earnings_date": "2024-10-30T07:00:00-04:00",
+      "eps_estimate": 2.91,
+      "eps_actual": 2.93,
+      "surprise_pct": 0.77,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "OSK",
+      "earnings_date": "2025-01-30T07:00:00-05:00",
+      "eps_estimate": 2.18,
+      "eps_actual": 2.58,
+      "surprise_pct": 18.21,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "OSK",
+      "earnings_date": "2025-04-30T07:00:00-04:00",
+      "eps_estimate": 2.04,
+      "eps_actual": 1.92,
+      "surprise_pct": -5.81,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "OSK",
+      "earnings_date": "2025-08-01T07:00:00-04:00",
+      "eps_estimate": 2.95,
+      "eps_actual": 3.41,
+      "surprise_pct": 15.7,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "OSK",
+      "earnings_date": "2025-10-29T08:00:00-04:00",
+      "eps_estimate": 3.1,
+      "eps_actual": 3.2,
+      "surprise_pct": 3.32,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "OSK",
+      "earnings_date": "2026-01-29T07:00:00-05:00",
+      "eps_estimate": 2.31,
+      "eps_actual": 2.26,
+      "surprise_pct": -2.24,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "OSK",
+      "earnings_date": "2026-05-08T08:00:00-04:00",
+      "eps_estimate": 1.04,
+      "eps_actual": null,
+      "surprise_pct": null,
+      "surprise_source": "yfinance_native"
+    }
+  ],
+  "PLTR": [
+    {
+      "ticker": "PLTR",
+      "earnings_date": "2020-11-12T16:00:00-05:00",
+      "eps_estimate": 0.03,
+      "eps_actual": 0.06,
+      "surprise_pct": 145.25,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "PLTR",
+      "earnings_date": "2021-02-16T07:00:00-05:00",
+      "eps_estimate": 0.02,
+      "eps_actual": 0.06,
+      "surprise_pct": 128.04,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "PLTR",
+      "earnings_date": "2021-05-11T07:00:00-04:00",
+      "eps_estimate": 0.04,
+      "eps_actual": 0.04,
+      "surprise_pct": 7.87,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "PLTR",
+      "earnings_date": "2021-08-12T07:00:00-04:00",
+      "eps_estimate": 0.03,
+      "eps_actual": 0.04,
+      "surprise_pct": 16.01,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "PLTR",
+      "earnings_date": "2021-11-09T07:00:00-05:00",
+      "eps_estimate": 0.04,
+      "eps_actual": 0.04,
+      "surprise_pct": 10.16,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "PLTR",
+      "earnings_date": "2022-02-17T06:00:00-05:00",
+      "eps_estimate": 0.04,
+      "eps_actual": 0.02,
+      "surprise_pct": -44.09,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "PLTR",
+      "earnings_date": "2022-05-09T07:00:00-04:00",
+      "eps_estimate": 0.04,
+      "eps_actual": 0.02,
+      "surprise_pct": -45.37,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "PLTR",
+      "earnings_date": "2022-08-08T07:00:00-04:00",
+      "eps_estimate": 0.03,
+      "eps_actual": -0.01,
+      "surprise_pct": -131.7,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "PLTR",
+      "earnings_date": "2022-11-07T07:00:00-05:00",
+      "eps_estimate": 0.02,
+      "eps_actual": 0.01,
+      "surprise_pct": -38.61,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "PLTR",
+      "earnings_date": "2023-02-13T16:00:00-05:00",
+      "eps_estimate": 0.03,
+      "eps_actual": 0.04,
+      "surprise_pct": 49.48,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "PLTR",
+      "earnings_date": "2023-05-08T16:00:00-04:00",
+      "eps_estimate": 0.04,
+      "eps_actual": 0.05,
+      "surprise_pct": 25.03,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "PLTR",
+      "earnings_date": "2023-08-07T16:00:00-04:00",
+      "eps_estimate": 0.05,
+      "eps_actual": 0.05,
+      "surprise_pct": -0.79,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "PLTR",
+      "earnings_date": "2023-11-02T07:00:00-04:00",
+      "eps_estimate": 0.06,
+      "eps_actual": 0.07,
+      "surprise_pct": 25.07,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "PLTR",
+      "earnings_date": "2024-02-05T16:00:00-05:00",
+      "eps_estimate": 0.08,
+      "eps_actual": 0.08,
+      "surprise_pct": 5.39,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "PLTR",
+      "earnings_date": "2024-05-06T16:00:00-04:00",
+      "eps_estimate": 0.08,
+      "eps_actual": 0.08,
+      "surprise_pct": 4.1,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "PLTR",
+      "earnings_date": "2024-08-05T16:00:00-04:00",
+      "eps_estimate": 0.08,
+      "eps_actual": 0.09,
+      "surprise_pct": 10.55,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "PLTR",
+      "earnings_date": "2024-11-04T16:00:00-05:00",
+      "eps_estimate": 0.09,
+      "eps_actual": 0.1,
+      "surprise_pct": 10.06,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "PLTR",
+      "earnings_date": "2025-02-03T16:00:00-05:00",
+      "eps_estimate": 0.11,
+      "eps_actual": 0.14,
+      "surprise_pct": 23.72,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "PLTR",
+      "earnings_date": "2025-05-05T16:00:00-04:00",
+      "eps_estimate": 0.13,
+      "eps_actual": 0.13,
+      "surprise_pct": 1.11,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "PLTR",
+      "earnings_date": "2025-08-04T16:00:00-04:00",
+      "eps_estimate": 0.14,
+      "eps_actual": 0.16,
+      "surprise_pct": 15.57,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "PLTR",
+      "earnings_date": "2025-11-03T16:00:00-05:00",
+      "eps_estimate": 0.17,
+      "eps_actual": 0.21,
+      "surprise_pct": 25.46,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "PLTR",
+      "earnings_date": "2026-02-02T16:00:00-05:00",
+      "eps_estimate": 0.23,
+      "eps_actual": 0.25,
+      "surprise_pct": 8.6,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "PLTR",
+      "earnings_date": "2026-05-04T16:00:00-04:00",
+      "eps_estimate": 0.28,
+      "eps_actual": null,
+      "surprise_pct": null,
+      "surprise_source": "yfinance_native"
+    }
+  ],
+  "PSN": [
+    {
+      "ticker": "PSN",
+      "earnings_date": "2020-05-06T07:00:00-04:00",
+      "eps_estimate": 0.46,
+      "eps_actual": 0.33,
+      "surprise_pct": -28.07,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "PSN",
+      "earnings_date": "2020-08-05T06:00:00-04:00",
+      "eps_estimate": 0.44,
+      "eps_actual": 0.49,
+      "surprise_pct": 10.53,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "PSN",
+      "earnings_date": "2020-11-04T06:00:00-05:00",
+      "eps_estimate": 0.54,
+      "eps_actual": 0.57,
+      "surprise_pct": 5.56,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "PSN",
+      "earnings_date": "2021-02-24T06:00:00-05:00",
+      "eps_estimate": 0.56,
+      "eps_actual": 0.51,
+      "surprise_pct": -9.62,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "PSN",
+      "earnings_date": "2021-05-05T06:00:00-04:00",
+      "eps_estimate": 0.29,
+      "eps_actual": 0.34,
+      "surprise_pct": 15.74,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "PSN",
+      "earnings_date": "2021-08-04T06:00:00-04:00",
+      "eps_estimate": 0.51,
+      "eps_actual": 0.32,
+      "surprise_pct": -37.08,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "PSN",
+      "earnings_date": "2021-11-03T06:00:00-04:00",
+      "eps_estimate": 0.48,
+      "eps_actual": 0.44,
+      "surprise_pct": -9.15,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "PSN",
+      "earnings_date": "2022-02-23T06:00:00-05:00",
+      "eps_estimate": 0.53,
+      "eps_actual": 0.55,
+      "surprise_pct": 2.94,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "PSN",
+      "earnings_date": "2022-05-04T06:00:00-04:00",
+      "eps_estimate": 0.37,
+      "eps_actual": 0.4,
+      "surprise_pct": 7.46,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "PSN",
+      "earnings_date": "2022-08-03T06:00:00-04:00",
+      "eps_estimate": 0.41,
+      "eps_actual": 0.41,
+      "surprise_pct": -0.27,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "PSN",
+      "earnings_date": "2022-11-02T06:00:00-04:00",
+      "eps_estimate": 0.51,
+      "eps_actual": 0.48,
+      "surprise_pct": -5.06,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "PSN",
+      "earnings_date": "2023-02-15T06:00:00-05:00",
+      "eps_estimate": 0.54,
+      "eps_actual": 0.51,
+      "surprise_pct": -6.25,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "PSN",
+      "earnings_date": "2023-05-03T06:00:00-04:00",
+      "eps_estimate": 0.43,
+      "eps_actual": 0.43,
+      "surprise_pct": 0.94,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "PSN",
+      "earnings_date": "2023-08-02T06:00:00-04:00",
+      "eps_estimate": 0.5,
+      "eps_actual": 0.63,
+      "surprise_pct": 25.0,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "PSN",
+      "earnings_date": "2023-11-01T06:00:00-04:00",
+      "eps_estimate": 0.62,
+      "eps_actual": 0.69,
+      "surprise_pct": 12.09,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "PSN",
+      "earnings_date": "2024-02-14T06:00:00-05:00",
+      "eps_estimate": 0.63,
+      "eps_actual": 0.69,
+      "surprise_pct": 9.84,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "PSN",
+      "earnings_date": "2024-05-01T06:00:00-04:00",
+      "eps_estimate": 0.61,
+      "eps_actual": 0.7,
+      "surprise_pct": 14.07,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "PSN",
+      "earnings_date": "2024-07-31T06:00:00-04:00",
+      "eps_estimate": 0.69,
+      "eps_actual": 0.84,
+      "surprise_pct": 21.04,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "PSN",
+      "earnings_date": "2024-10-30T06:00:00-04:00",
+      "eps_estimate": 0.79,
+      "eps_actual": 0.95,
+      "surprise_pct": 20.76,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "PSN",
+      "earnings_date": "2025-02-19T06:00:00-05:00",
+      "eps_estimate": 0.91,
+      "eps_actual": 0.78,
+      "surprise_pct": -14.57,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "PSN",
+      "earnings_date": "2025-04-30T06:00:00-04:00",
+      "eps_estimate": 0.74,
+      "eps_actual": 0.78,
+      "surprise_pct": 5.12,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "PSN",
+      "earnings_date": "2025-08-06T06:00:00-04:00",
+      "eps_estimate": 0.74,
+      "eps_actual": 0.78,
+      "surprise_pct": 5.69,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "PSN",
+      "earnings_date": "2025-11-05T06:00:00-05:00",
+      "eps_estimate": 0.75,
+      "eps_actual": 0.86,
+      "surprise_pct": 14.51,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "PSN",
+      "earnings_date": "2026-02-11T06:00:00-05:00",
+      "eps_estimate": 0.79,
+      "eps_actual": 0.75,
+      "surprise_pct": -4.91,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "PSN",
+      "earnings_date": "2026-04-29T08:00:00-04:00",
+      "eps_estimate": 0.68,
+      "eps_actual": null,
+      "surprise_pct": null,
+      "surprise_source": "yfinance_native"
+    }
+  ],
+  "RTX": [
+    {
+      "ticker": "RTX",
+      "earnings_date": "2020-07-28T06:00:00-04:00",
+      "eps_estimate": 0.12,
+      "eps_actual": 0.4,
+      "surprise_pct": 231.51,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "RTX",
+      "earnings_date": "2020-10-27T06:00:00-04:00",
+      "eps_estimate": 0.5,
+      "eps_actual": 0.58,
+      "surprise_pct": 15.79,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "RTX",
+      "earnings_date": "2021-01-26T06:00:00-05:00",
+      "eps_estimate": 0.69,
+      "eps_actual": 0.74,
+      "surprise_pct": 6.82,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "RTX",
+      "earnings_date": "2021-04-27T06:00:00-04:00",
+      "eps_estimate": 0.83,
+      "eps_actual": 0.9,
+      "surprise_pct": 8.15,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "RTX",
+      "earnings_date": "2021-07-27T06:00:00-04:00",
+      "eps_estimate": 0.93,
+      "eps_actual": 1.03,
+      "surprise_pct": 10.91,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "RTX",
+      "earnings_date": "2021-10-26T06:00:00-04:00",
+      "eps_estimate": 1.09,
+      "eps_actual": 1.26,
+      "surprise_pct": 16.0,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "RTX",
+      "earnings_date": "2022-01-25T06:00:00-05:00",
+      "eps_estimate": 1.02,
+      "eps_actual": 1.08,
+      "surprise_pct": 5.72,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "RTX",
+      "earnings_date": "2022-04-26T06:00:00-04:00",
+      "eps_estimate": 1.02,
+      "eps_actual": 1.15,
+      "surprise_pct": 13.11,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "RTX",
+      "earnings_date": "2022-07-26T06:00:00-04:00",
+      "eps_estimate": 1.11,
+      "eps_actual": 1.16,
+      "surprise_pct": 4.16,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "RTX",
+      "earnings_date": "2022-10-25T06:00:00-04:00",
+      "eps_estimate": 1.14,
+      "eps_actual": 1.21,
+      "surprise_pct": 6.33,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "RTX",
+      "earnings_date": "2023-01-24T06:00:00-05:00",
+      "eps_estimate": 1.25,
+      "eps_actual": 1.27,
+      "surprise_pct": 1.83,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "RTX",
+      "earnings_date": "2023-04-25T06:00:00-04:00",
+      "eps_estimate": 0.95,
+      "eps_actual": 0.97,
+      "surprise_pct": 2.25,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "RTX",
+      "earnings_date": "2023-07-25T06:00:00-04:00",
+      "eps_estimate": 1.18,
+      "eps_actual": 1.29,
+      "surprise_pct": 9.73,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "RTX",
+      "earnings_date": "2023-10-24T06:00:00-04:00",
+      "eps_estimate": 1.22,
+      "eps_actual": 1.25,
+      "surprise_pct": 2.64,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "RTX",
+      "earnings_date": "2024-01-23T06:00:00-05:00",
+      "eps_estimate": 1.25,
+      "eps_actual": 1.29,
+      "surprise_pct": 3.46,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "RTX",
+      "earnings_date": "2024-04-23T06:00:00-04:00",
+      "eps_estimate": 1.23,
+      "eps_actual": 1.34,
+      "surprise_pct": 8.6,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "RTX",
+      "earnings_date": "2024-07-25T06:00:00-04:00",
+      "eps_estimate": 1.3,
+      "eps_actual": 1.41,
+      "surprise_pct": 8.61,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "RTX",
+      "earnings_date": "2024-10-22T06:00:00-04:00",
+      "eps_estimate": 1.34,
+      "eps_actual": 1.45,
+      "surprise_pct": 8.31,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "RTX",
+      "earnings_date": "2025-01-28T07:00:00-05:00",
+      "eps_estimate": 1.38,
+      "eps_actual": 1.54,
+      "surprise_pct": 11.8,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "RTX",
+      "earnings_date": "2025-04-22T06:00:00-04:00",
+      "eps_estimate": 1.37,
+      "eps_actual": 1.47,
+      "surprise_pct": 7.52,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "RTX",
+      "earnings_date": "2025-07-22T06:00:00-04:00",
+      "eps_estimate": 1.1,
+      "eps_actual": 1.22,
+      "surprise_pct": 11.22,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "RTX",
+      "earnings_date": "2025-10-21T06:00:00-04:00",
+      "eps_estimate": 1.41,
+      "eps_actual": 1.7,
+      "surprise_pct": 20.64,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "RTX",
+      "earnings_date": "2026-01-27T06:00:00-05:00",
+      "eps_estimate": 1.47,
+      "eps_actual": 1.55,
+      "surprise_pct": 5.34,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "RTX",
+      "earnings_date": "2026-04-21T06:00:00-04:00",
+      "eps_estimate": 1.52,
+      "eps_actual": 1.78,
+      "surprise_pct": 16.95,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "RTX",
+      "earnings_date": "2026-07-21T08:00:00-04:00",
+      "eps_estimate": 1.66,
+      "eps_actual": null,
+      "surprise_pct": null,
+      "surprise_source": "yfinance_native"
+    }
+  ],
+  "RYCEY": [
+    {
+      "ticker": "RYCEY",
+      "earnings_date": "2026-07-30T16:00:00-04:00",
+      "eps_estimate": null,
+      "eps_actual": null,
+      "surprise_pct": null,
+      "surprise_source": "yfinance_native"
+    }
+  ],
+  "SAIC": [
+    {
+      "ticker": "SAIC",
+      "earnings_date": "2020-06-04T16:00:00-04:00",
+      "eps_estimate": 1.38,
+      "eps_actual": 1.38,
+      "surprise_pct": -0.14,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "SAIC",
+      "earnings_date": "2020-09-01T20:00:00-04:00",
+      "eps_estimate": 1.44,
+      "eps_actual": 1.63,
+      "surprise_pct": 12.93,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "SAIC",
+      "earnings_date": "2020-12-03T16:00:00-05:00",
+      "eps_estimate": 1.53,
+      "eps_actual": 1.62,
+      "surprise_pct": 5.88,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "SAIC",
+      "earnings_date": "2021-03-25T16:00:00-04:00",
+      "eps_estimate": 1.44,
+      "eps_actual": 1.67,
+      "surprise_pct": 15.62,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "SAIC",
+      "earnings_date": "2021-06-03T16:00:00-04:00",
+      "eps_estimate": 1.54,
+      "eps_actual": 1.94,
+      "surprise_pct": 25.7,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "SAIC",
+      "earnings_date": "2021-09-02T16:00:00-04:00",
+      "eps_estimate": 1.46,
+      "eps_actual": 1.97,
+      "surprise_pct": 34.7,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "SAIC",
+      "earnings_date": "2021-12-06T07:00:00-05:00",
+      "eps_estimate": 1.46,
+      "eps_actual": 1.85,
+      "surprise_pct": 26.84,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "SAIC",
+      "earnings_date": "2022-03-28T07:00:00-04:00",
+      "eps_estimate": 1.22,
+      "eps_actual": 1.5,
+      "surprise_pct": 23.4,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "SAIC",
+      "earnings_date": "2022-06-06T07:00:00-04:00",
+      "eps_estimate": 1.77,
+      "eps_actual": 1.88,
+      "surprise_pct": 5.95,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "SAIC",
+      "earnings_date": "2022-09-01T07:00:00-04:00",
+      "eps_estimate": 1.68,
+      "eps_actual": 1.75,
+      "surprise_pct": 3.97,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "SAIC",
+      "earnings_date": "2022-12-05T07:00:00-05:00",
+      "eps_estimate": 1.73,
+      "eps_actual": 1.9,
+      "surprise_pct": 10.12,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "SAIC",
+      "earnings_date": "2023-04-03T07:00:00-04:00",
+      "eps_estimate": 1.65,
+      "eps_actual": 2.04,
+      "surprise_pct": 23.36,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "SAIC",
+      "earnings_date": "2023-06-05T07:00:00-04:00",
+      "eps_estimate": 1.82,
+      "eps_actual": 2.14,
+      "surprise_pct": 17.83,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "SAIC",
+      "earnings_date": "2023-09-07T07:00:00-04:00",
+      "eps_estimate": 1.62,
+      "eps_actual": 2.05,
+      "surprise_pct": 26.34,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "SAIC",
+      "earnings_date": "2023-12-04T07:00:00-05:00",
+      "eps_estimate": 1.69,
+      "eps_actual": 2.27,
+      "surprise_pct": 34.69,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "SAIC",
+      "earnings_date": "2024-03-18T07:00:00-04:00",
+      "eps_estimate": 1.44,
+      "eps_actual": 1.43,
+      "surprise_pct": -0.98,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "SAIC",
+      "earnings_date": "2024-06-03T12:00:00-04:00",
+      "eps_estimate": 1.92,
+      "eps_actual": 1.92,
+      "surprise_pct": -0.08,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "SAIC",
+      "earnings_date": "2024-09-05T07:00:00-04:00",
+      "eps_estimate": 1.85,
+      "eps_actual": 2.05,
+      "surprise_pct": 10.6,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "SAIC",
+      "earnings_date": "2024-12-05T07:00:00-05:00",
+      "eps_estimate": 2.16,
+      "eps_actual": 2.61,
+      "surprise_pct": 20.97,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "SAIC",
+      "earnings_date": "2025-03-17T06:00:00-04:00",
+      "eps_estimate": 2.09,
+      "eps_actual": 2.57,
+      "surprise_pct": 23.24,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "SAIC",
+      "earnings_date": "2025-06-02T06:00:00-04:00",
+      "eps_estimate": 2.12,
+      "eps_actual": 1.92,
+      "surprise_pct": -9.27,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "SAIC",
+      "earnings_date": "2025-09-04T07:00:00-04:00",
+      "eps_estimate": 2.24,
+      "eps_actual": 3.63,
+      "surprise_pct": 62.25,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "SAIC",
+      "earnings_date": "2025-12-04T07:00:00-05:00",
+      "eps_estimate": 2.15,
+      "eps_actual": 2.58,
+      "surprise_pct": 20.22,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "SAIC",
+      "earnings_date": "2026-03-16T07:00:00-04:00",
+      "eps_estimate": 2.01,
+      "eps_actual": 2.62,
+      "surprise_pct": 30.03,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "SAIC",
+      "earnings_date": "2026-06-01T08:00:00-04:00",
+      "eps_estimate": 2.28,
+      "eps_actual": null,
+      "surprise_pct": null,
+      "surprise_source": "yfinance_native"
+    }
+  ],
+  "TDY": [
+    {
+      "ticker": "TDY",
+      "earnings_date": "2020-07-22T06:00:00-04:00",
+      "eps_estimate": 2.04,
+      "eps_actual": 2.68,
+      "surprise_pct": 31.2,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "TDY",
+      "earnings_date": "2020-10-21T06:00:00-04:00",
+      "eps_estimate": 2.4,
+      "eps_actual": 2.57,
+      "surprise_pct": 6.66,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "TDY",
+      "earnings_date": "2021-01-27T06:00:00-05:00",
+      "eps_estimate": 3.17,
+      "eps_actual": 3.73,
+      "surprise_pct": 17.62,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "TDY",
+      "earnings_date": "2021-04-28T06:00:00-04:00",
+      "eps_estimate": 2.56,
+      "eps_actual": 3.02,
+      "surprise_pct": 17.85,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "TDY",
+      "earnings_date": "2021-07-28T06:00:00-04:00",
+      "eps_estimate": 2.82,
+      "eps_actual": 4.61,
+      "surprise_pct": 63.77,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "TDY",
+      "earnings_date": "2021-10-27T06:00:00-04:00",
+      "eps_estimate": 3.69,
+      "eps_actual": 4.34,
+      "surprise_pct": 17.75,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "TDY",
+      "earnings_date": "2022-01-27T06:00:00-05:00",
+      "eps_estimate": 4.22,
+      "eps_actual": 4.56,
+      "surprise_pct": 8.15,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "TDY",
+      "earnings_date": "2022-04-27T06:00:00-04:00",
+      "eps_estimate": 4.08,
+      "eps_actual": 4.27,
+      "surprise_pct": 4.55,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "TDY",
+      "earnings_date": "2022-07-27T06:00:00-04:00",
+      "eps_estimate": 4.38,
+      "eps_actual": 4.43,
+      "surprise_pct": 1.11,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "TDY",
+      "earnings_date": "2022-10-26T06:00:00-04:00",
+      "eps_estimate": 4.3,
+      "eps_actual": 4.54,
+      "surprise_pct": 5.69,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "TDY",
+      "earnings_date": "2023-01-25T06:00:00-05:00",
+      "eps_estimate": 4.54,
+      "eps_actual": 4.94,
+      "surprise_pct": 8.81,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "TDY",
+      "earnings_date": "2023-04-26T06:00:00-04:00",
+      "eps_estimate": 4.43,
+      "eps_actual": 4.53,
+      "surprise_pct": 2.19,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "TDY",
+      "earnings_date": "2023-07-26T06:00:00-04:00",
+      "eps_estimate": 4.64,
+      "eps_actual": 4.67,
+      "surprise_pct": 0.57,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "TDY",
+      "earnings_date": "2023-10-25T06:00:00-04:00",
+      "eps_estimate": 4.76,
+      "eps_actual": 5.05,
+      "surprise_pct": 6.0,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "TDY",
+      "earnings_date": "2024-01-24T06:00:00-05:00",
+      "eps_estimate": 5.04,
+      "eps_actual": 5.44,
+      "surprise_pct": 7.91,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "TDY",
+      "earnings_date": "2024-04-24T06:00:00-04:00",
+      "eps_estimate": 4.63,
+      "eps_actual": 4.55,
+      "surprise_pct": -1.7,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "TDY",
+      "earnings_date": "2024-07-24T06:00:00-04:00",
+      "eps_estimate": 4.5,
+      "eps_actual": 4.58,
+      "surprise_pct": 1.87,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "TDY",
+      "earnings_date": "2024-10-23T06:00:00-04:00",
+      "eps_estimate": 4.97,
+      "eps_actual": 5.1,
+      "surprise_pct": 2.57,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "TDY",
+      "earnings_date": "2025-01-22T06:00:00-05:00",
+      "eps_estimate": 5.23,
+      "eps_actual": 5.52,
+      "surprise_pct": 5.64,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "TDY",
+      "earnings_date": "2025-04-23T06:00:00-04:00",
+      "eps_estimate": 4.92,
+      "eps_actual": 4.95,
+      "surprise_pct": 0.56,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "TDY",
+      "earnings_date": "2025-07-23T06:00:00-04:00",
+      "eps_estimate": 5.05,
+      "eps_actual": 5.2,
+      "surprise_pct": 3.04,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "TDY",
+      "earnings_date": "2025-10-22T06:00:00-04:00",
+      "eps_estimate": 5.47,
+      "eps_actual": 5.57,
+      "surprise_pct": 1.8,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "TDY",
+      "earnings_date": "2026-01-21T06:00:00-05:00",
+      "eps_estimate": 5.83,
+      "eps_actual": 6.3,
+      "surprise_pct": 8.1,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "TDY",
+      "earnings_date": "2026-04-22T06:00:00-04:00",
+      "eps_estimate": 5.47,
+      "eps_actual": 5.8,
+      "surprise_pct": 5.97,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "TDY",
+      "earnings_date": "2026-07-22T08:00:00-04:00",
+      "eps_estimate": 5.78,
+      "eps_actual": null,
+      "surprise_pct": null,
+      "surprise_source": "yfinance_native"
+    }
+  ],
+  "TXT": [
+    {
+      "ticker": "TXT",
+      "earnings_date": "2020-04-30T06:00:00-04:00",
+      "eps_estimate": 0.47,
+      "eps_actual": 0.35,
+      "surprise_pct": -25.81,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "TXT",
+      "earnings_date": "2020-07-30T06:00:00-04:00",
+      "eps_estimate": -0.09,
+      "eps_actual": 0.13,
+      "surprise_pct": 248.38,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "TXT",
+      "earnings_date": "2020-10-29T06:00:00-04:00",
+      "eps_estimate": 0.36,
+      "eps_actual": 0.53,
+      "surprise_pct": 46.43,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "TXT",
+      "earnings_date": "2021-01-27T06:00:00-05:00",
+      "eps_estimate": 0.92,
+      "eps_actual": 1.06,
+      "surprise_pct": 15.55,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "TXT",
+      "earnings_date": "2021-04-29T06:00:00-04:00",
+      "eps_estimate": 0.47,
+      "eps_actual": 0.7,
+      "surprise_pct": 49.22,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "TXT",
+      "earnings_date": "2021-07-29T06:00:00-04:00",
+      "eps_estimate": 0.65,
+      "eps_actual": 0.81,
+      "surprise_pct": 24.75,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "TXT",
+      "earnings_date": "2021-10-28T06:00:00-04:00",
+      "eps_estimate": 0.78,
+      "eps_actual": 0.85,
+      "surprise_pct": 8.82,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "TXT",
+      "earnings_date": "2022-01-27T06:00:00-05:00",
+      "eps_estimate": 0.96,
+      "eps_actual": 0.94,
+      "surprise_pct": -1.8,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "TXT",
+      "earnings_date": "2022-04-28T06:00:00-04:00",
+      "eps_estimate": 0.74,
+      "eps_actual": 0.88,
+      "surprise_pct": 19.31,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "TXT",
+      "earnings_date": "2022-07-28T06:00:00-04:00",
+      "eps_estimate": 0.88,
+      "eps_actual": 1.0,
+      "surprise_pct": 13.02,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "TXT",
+      "earnings_date": "2022-10-27T06:00:00-04:00",
+      "eps_estimate": 0.93,
+      "eps_actual": 1.06,
+      "surprise_pct": 13.88,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "TXT",
+      "earnings_date": "2023-01-25T06:00:00-05:00",
+      "eps_estimate": 1.07,
+      "eps_actual": 1.07,
+      "surprise_pct": 0.17,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "TXT",
+      "earnings_date": "2023-04-27T06:00:00-04:00",
+      "eps_estimate": 0.99,
+      "eps_actual": 1.05,
+      "surprise_pct": 6.17,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "TXT",
+      "earnings_date": "2023-07-27T06:00:00-04:00",
+      "eps_estimate": 1.2,
+      "eps_actual": 1.46,
+      "surprise_pct": 21.48,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "TXT",
+      "earnings_date": "2023-10-26T07:00:00-04:00",
+      "eps_estimate": 1.28,
+      "eps_actual": 1.49,
+      "surprise_pct": 16.52,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "TXT",
+      "earnings_date": "2024-01-24T06:00:00-05:00",
+      "eps_estimate": 1.53,
+      "eps_actual": 1.6,
+      "surprise_pct": 4.49,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "TXT",
+      "earnings_date": "2024-04-25T06:00:00-04:00",
+      "eps_estimate": 1.23,
+      "eps_actual": 1.2,
+      "surprise_pct": -2.43,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "TXT",
+      "earnings_date": "2024-07-18T06:00:00-04:00",
+      "eps_estimate": 1.47,
+      "eps_actual": 1.54,
+      "surprise_pct": 4.6,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "TXT",
+      "earnings_date": "2024-10-24T06:00:00-04:00",
+      "eps_estimate": 1.5,
+      "eps_actual": 1.4,
+      "surprise_pct": -6.42,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "TXT",
+      "earnings_date": "2025-01-22T06:00:00-05:00",
+      "eps_estimate": 1.25,
+      "eps_actual": 1.34,
+      "surprise_pct": 6.81,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "TXT",
+      "earnings_date": "2025-04-24T06:00:00-04:00",
+      "eps_estimate": 1.14,
+      "eps_actual": 1.28,
+      "surprise_pct": 12.56,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "TXT",
+      "earnings_date": "2025-07-24T06:00:00-04:00",
+      "eps_estimate": 1.45,
+      "eps_actual": 1.55,
+      "surprise_pct": 7.18,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "TXT",
+      "earnings_date": "2025-10-23T06:00:00-04:00",
+      "eps_estimate": 1.46,
+      "eps_actual": 1.55,
+      "surprise_pct": 6.43,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "TXT",
+      "earnings_date": "2026-01-28T06:00:00-05:00",
+      "eps_estimate": 1.7,
+      "eps_actual": 1.73,
+      "surprise_pct": 1.53,
+      "surprise_source": "yfinance_native"
+    },
+    {
+      "ticker": "TXT",
+      "earnings_date": "2026-04-30T08:00:00-04:00",
+      "eps_estimate": 1.3,
+      "eps_actual": null,
+      "surprise_pct": null,
+      "surprise_source": "yfinance_native"
+    }
+  ]
+}

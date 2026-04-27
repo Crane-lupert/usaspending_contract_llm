@@ -64,15 +64,25 @@ Industry pickup window narrowed from ~65% lead (2014) to ~25% lead (2024). Most 
 
 Phase plan §1 Day 8 target "≥ 40K target queued" was set assuming unlimited LLM budget. **40K × 3 vendors = $456, far over $25 Phase 1 cap.** Re-anchored realistic LLM batch size: **2,000 contracts × 3 vendors ≈ $23** — fits exactly. The binding power metric is cross-section quintile-month n (39 primes × 17 yr × 4 quarters ≈ 2,652 cells), not raw LLM-call count.
 
-## Day 9 — what next session needs
+## Phase 1 plan (reframed 2026-04-27 — alpha-discovery + §4 robustness)
 
-1. **Decide LLM batch scope**: (a) 2,000 × 3 vendors = $23, (b) 4,000 × 2 vendors = $30 (over cap), (c) 3,000 × 2 vendors = $23 (Opus + Gemma). Recommended (a).
-2. **Run LLM 3-axis batch on stratified subsample** of `manifest_strategic_sample.jsonl`. 5 cohorts × 30 primes × ~13 contracts per pair = 1,950 stratified.
-3. **Day 10**: mapping + earnings/CAR join.
-4. **Day 11-13**: cross-section quintile + CCM replication + incremental R².
-5. **Day 14**: Phase 1 mid-checkpoint (4 metrics).
-6. **Day 16**: trigger #2 formal evaluation (naive-vs-realistic backtest + alpha decay).
-7. **Day 17-21**: rigor + dashboard + writeup.
+**Single hard kill = trigger #1 (main effect ALL-3 AND fail).** Trigger #2 demoted to §4 robustness finding (cohort heterogeneity = identification strength, not freeze).
+
+| Day | Task | Cost |
+|---|---|---|
+| 9 | LLM 3-axis batch on stratified subsample (1,950 contracts × 3 vendors) | ~$23 |
+| 10 | recipient_uei→ticker on full 8K + yfinance daily price + quarterly EPS join + 8-K CAR computation | $0 |
+| 11 | Cross-section quintile portfolio (low-commitment long / high-commitment short, XAR/XLK-hedged) | $0 |
+| 12 | CCM 2011 aggregate baseline replication (state-level federal-spending shock + state-of-HQ for 39 primes) | $0 |
+| 13 | Two-step regression: incremental R² + ROC-AUC + quintile spread Sharpe | $0 |
+| 14 | **Mid-checkpoint trigger #1 evaluation** — incremental R² ≥ 5% AND ROC-AUC ≥ 0.6 AND Sharpe ≥ 0.3 (kill if ALL fail) | $0 |
+| 15 | Cohort-stratified §4.1 regression (per-FY-cohort quintile spread Sharpe trajectory) | $0 |
+| 16 | §4.2 realistic-vs-naive timing audit + §4.3 cross-LLM sign agreement | $0 |
+| 17 | DSR / BH-FDR / cluster bootstrap rigor on §3 main effect | $0 |
+| 18 | §4.4 contamination (cutoff split) + §4.5 firm-name masking + (optional) §4.6 subaward dry-run | $0 |
+| 19 | Streamlit MVP 5-page (Page 4 = cohort heterogeneity chart, single-chart §3+§4 surface) | $0 |
+| 20 | Writeup 8-12p per `analysis/paper_outline.md` (§3 main + §4 robustness integrated) | $0 |
+| 21 | Hard cap + GitHub push + dashboard deploy | $0 |
 
 ## Resume command
 

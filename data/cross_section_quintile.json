@@ -1,0 +1,112 @@
+{
+  "n_panel_rows": 382,
+  "n_distinct_tickers": 24,
+  "n_distinct_quarters": 96,
+  "n_with_car": 98,
+  "spread_summary": {
+    "n_quarters": 12,
+    "spread_mean": 0.037578,
+    "spread_std": 0.072619,
+    "sharpe_quarterly": 0.5175,
+    "sharpe_annualized": 1.0349,
+    "t_stat": 1.7926,
+    "rows": [
+      {
+        "quarter": "2020Q3",
+        "q1_mean": -0.105336,
+        "q5_mean": -0.050019,
+        "spread": -0.055317,
+        "n_q1": 1,
+        "n_q5": 2
+      },
+      {
+        "quarter": "2020Q4",
+        "q1_mean": 0.007002,
+        "q5_mean": -0.140513,
+        "spread": 0.147515,
+        "n_q1": 1,
+        "n_q5": 1
+      },
+      {
+        "quarter": "2021Q3",
+        "q1_mean": 0.010669,
+        "q5_mean": 0.059498,
+        "spread": -0.048829,
+        "n_q1": 2,
+        "n_q5": 2
+      },
+      {
+        "quarter": "2022Q1",
+        "q1_mean": 0.251389,
+        "q5_mean": 0.113142,
+        "spread": 0.138248,
+        "n_q1": 2,
+        "n_q5": 2
+      },
+      {
+        "quarter": "2022Q2",
+        "q1_mean": 0.05907,
+        "q5_mean": 0.003188,
+        "spread": 0.055882,
+        "n_q1": 2,
+        "n_q5": 1
+      },
+      {
+        "quarter": "2022Q3",
+        "q1_mean": 0.055862,
+        "q5_mean": 0.0852,
+        "spread": -0.029338,
+        "n_q1": 2,
+        "n_q5": 2
+      },
+      {
+        "quarter": "2023Q1",
+        "q1_mean": -0.024052,
+        "q5_mean": 0.025714,
+        "spread": -0.049766,
+        "n_q1": 1,
+        "n_q5": 1
+      },
+      {
+        "quarter": "2023Q3",
+        "q1_mean": 0.122866,
+        "q5_mean": 0.022742,
+        "spread": 0.100124,
+        "n_q1": 2,
+        "n_q5": 1
+      },
+      {
+        "quarter": "2023Q4",
+        "q1_mean": 0.04856,
+        "q5_mean": -0.045201,
+        "spread": 0.093761,
+        "n_q1": 2,
+        "n_q5": 1
+      },
+      {
+        "quarter": "2024Q1",
+        "q1_mean": 0.084928,
+        "q5_mean": 0.058243,
+        "spread": 0.026686,
+        "n_q1": 2,
+        "n_q5": 2
+      },
+      {
+        "quarter": "2024Q2",
+        "q1_mean": 0.041159,
+        "q5_mean": -0.000211,
+        "spread": 0.04137,
+        "n_q1": 2,
+        "n_q5": 2
+      },
+      {
+        "quarter": "2024Q3",
+        "q1_mean": 0.054932,
+        "q5_mean": 0.024329,
+        "spread": 0.030603,
+        "n_q1": 2,
+        "n_q5": 2
+      }
+    ]
+  }
+}

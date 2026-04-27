@@ -23,7 +23,7 @@ USAspending.gov API 의 federal contract obligation text → 3-vendor LLM ensemb
 - USAspending.gov API 무료 (2008-2026, defense/IT R&D-intensive R1000 firm universe ~수십만 contract awards/y subset)
 - Compustat XRD/SALE (R&D-intensive filter, free-tier 활용)
 - yfinance (price + quarterly earnings, free)
-- OpenRouter: `shared_utils.openrouter_client.OpenRouterClient(project="usaspending")`, project cap=$20
+- OpenRouter: `shared_utils.openrouter_client.OpenRouterClient(project="usaspending_contract_llm")`, project cap=$35 (max=8). Coord registered 2026-04-27T21:30 (mailbox in_reply_to `20260427T1604-usaspending_contract_llm-001`).
 - Atomic IO: `shared_utils.atomic_io.atomic_write_json + FileLock`
 - **SEC daemon 사용 X** (Gate F ✓). filer_ontology / daemon-capacity-probe 도 미사용
 - 체크포인트: 매일 `portfolio-coordination/checkpoints/<date>/usaspending.md`
@@ -74,12 +74,20 @@ Y kill 의 18시간 single-burst 패턴 회피 — daily checkpoint + self-audit
 4. **[Resource]** Phase 0 spend > $8 → Phase 1 진입 보류
 5. **[Product-market]** **arxiv/SSRN "USAspending LLM cross-section earnings", "federal contract forward revenue extraction" 신규 paper 출현** → 즉시 중단
 
-### Phase 1
-1. **[Mechanism]** Day 14 cross-section spread Sharpe < 0.3 OR FDR-adjusted alpha |t| < 2.0 → negative writeup
-2. **[Mechanism]** **Day 17 산업 lead time gate**: USAspending → 8-K announce lag <24h sample 비율 ≥50% OR alpha 시간 decay >50%/y → **writeup-only freeze (full kill 아님 — negative incremental publishable)**
+### Phase 1 (reframed 2026-04-27 — alpha-discovery + robustness section structure)
+
+**Single hard kill** = trigger #1. Trigger #2 demoted to *paper §4 robustness finding* (cohort heterogeneity is itself an identification result, not a freeze condition).
+
+1. **[Mechanism] HARD KILL** — Day 14 mid-checkpoint, ALL 3 metric AND fail:
+   - incremental R² over CCM aggregate < 5%, AND
+   - quarterly earnings surprise ROC-AUC < 0.6, AND
+   - cross-section quintile spread Sharpe (XAR/XLK-hedged) < 0.3
+   → ABANDONED.md (no paper headline). 1 of 3 fail → exploratory; 2 of 3 fail → tighten + re-test once.
+2. **[Mechanism] §4 ROBUSTNESS finding** (not kill) — Day 16 cohort-stratified evaluation: USAspending → 8-K lag <24h sample fraction trajectory + alpha decay rolling-Sharpe by cohort. Reported in paper §4 as *time-varying alpha + industry-absorption mechanism* (Cotropia 2017 USPTO pattern). Heterogeneity = identification strength, not weakness.
 3. **[Resource]** Day 21 EOD hard cap
-4. **[Data-validity]** Final analyzable sample < 5K → power 부족, writeup-only
-5. **[Product-market]** mailbox 통한 portfolio overlap signal → orthogonality test
+4. **[Data-validity]** Final analyzable sample < 1,500 firm-quarter cells → power 부족, writeup-only with caveat
+5. **[Product-market]** mailbox portfolio overlap signal → orthogonality test
+6. **[Mechanism]** Cross-LLM replication: 3-vendor 중 2개 이상 부호 불일치 → mechanism unstable → ABANDONED.md
 
 ---
 
@@ -142,9 +150,8 @@ QR Scout 멤버 간 파일 메시지 버스. 가입 사유: shared-utils + buy-s
 - [ ] Interview demo 5분 + CV/LinkedIn 1-line
 
 **close 경로별** (`d:/vscode/meta-harness/reports/`):
-- Success → `{{YYYY-MM-DD}}-usaspending-contract-paper-practical.md`
-- Mechanical kill → `{{YYYY-MM-DD}}-usaspending-contract-postmortem.md`
-- **산업 lead time freeze** (Phase 1 #2) → `{{YYYY-MM-DD}}-usaspending-contract-industry-lag-freeze.md` (writeup-only, paper publishable as negative incremental)
+- Success → `{{YYYY-MM-DD}}-usaspending-contract-paper-practical.md`. Paper structure: §3 main effect + §4 robustness (cohort heterogeneity + industry-absorption mechanism + cross-LLM + contamination + masking). Reframing 2026-04-27: 산업 lead time finding 은 §4 robustness section 의 *positive identification result* 으로 흡수 (Cotropia 2017 USPTO 패턴 동형). Heterogeneity = mechanism 식별 강화, freeze 아님.
+- Mechanical kill (trigger #1 ALL-3 AND fail) → `{{YYYY-MM-DD}}-usaspending-contract-postmortem.md`. main effect 자체 null 시만 발화 — paper headline 없음.
 
 ---
 

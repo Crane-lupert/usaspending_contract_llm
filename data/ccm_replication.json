@@ -1,0 +1,40 @@
+{
+  "n_panel_rows": 386,
+  "n_with_forward_car": 98,
+  "n_with_surprise": 98,
+  "regressions": {
+    "forward_car_3m": {
+      "n_obs": 97,
+      "outcome_col": "forward_car_3m",
+      "r2_step1": 0.022207,
+      "r2_step2": 0.05882,
+      "incremental_r2": 0.036613,
+      "beta_state": -0.008007,
+      "beta_commitment": -0.062005,
+      "commitment_t_stat": -1.9122,
+      "f_stat_incremental": 3.6567
+    },
+    "event_car_3d": {
+      "n_obs": 97,
+      "outcome_col": "event_car_3d",
+      "r2_step1": 0.007796,
+      "r2_step2": 0.007818,
+      "incremental_r2": 2.2e-05,
+      "beta_state": 0.002497,
+      "beta_commitment": -0.000737,
+      "commitment_t_stat": -0.0454,
+      "f_stat_incremental": 0.0021
+    },
+    "surprise_pct": {
+      "n_obs": 97,
+      "outcome_col": "surprise_pct",
+      "r2_step1": 0.010735,
+      "r2_step2": 0.024327,
+      "incremental_r2": 0.013592,
+      "beta_state": 37.264253,
+      "beta_commitment": -221.659996,
+      "commitment_t_stat": -1.1443,
+      "f_stat_incremental": 1.3095
+    }
+  }
+}

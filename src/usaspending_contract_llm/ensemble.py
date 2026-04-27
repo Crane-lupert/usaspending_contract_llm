@@ -49,7 +49,7 @@ DEFAULT_VENDORS: tuple[str, ...] = (
 CACHE_DIR = DATA_DIR / "cache" / "llm_responses"
 CACHE_DIR.mkdir(parents=True, exist_ok=True)
 
-PROJECT = "usaspending"  # CLAUDE.md §Dependencies. Cap = $20 per project.
+PROJECT = "usaspending_contract_llm"  # Coord-registered 2026-04-27, cap=$35, max=8.
 
 
 # ---------------------------------------------------------------------------
