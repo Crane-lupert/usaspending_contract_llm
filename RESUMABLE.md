@@ -1,5 +1,11 @@
 # RESUMABLE.md — Project M1 (USAspending Federal Contract Narrative LLM)
 
+> ⚠️ **2026-04-28 FROZEN — pending paid-data-vendor decision** ⚠️
+>
+> See [FREEZE_NOTICE.md](./FREEZE_NOTICE.md) and [FROZEN_WITH_CAVEAT.md](./FROZEN_WITH_CAVEAT.md). Project paused at commit `a801933` (Gate F LIFTED state). Resume conditional on portfolio-coordination paid-vendor decision (FMP / WRDS / stay-free + §12 alternatives). See `D:/vscode/meta-harness/audits/2026-04-28-M1-paid-data-vendor-needs.md` §13 decision tree.
+>
+> ---
+>
 > Phase 0 → Phase 1 transition GO. 0 abandon triggers fired.
 
 ## Status snapshot — 2026-04-27 EOD
