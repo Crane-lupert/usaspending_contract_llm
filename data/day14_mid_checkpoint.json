@@ -6,35 +6,40 @@
     {
       "metric": "incremental_R2",
       "outcome_used": "forward_car_3m",
-      "value": 4e-06,
+      "value": 0.001376,
       "threshold": 0.05,
       "pass": false,
-      "n_obs": 178,
-      "commitment_t_stat": 0.0266,
+      "n_obs": 262,
+      "commitment_t_stat": 0.5983,
       "verdict": "FAIL"
     },
     {
       "metric": "quintile_sharpe_annualized",
-      "value": -0.0666,
+      "value": -0.0209,
       "threshold": 0.3,
       "pass": false,
-      "n_quarters": 17,
-      "spread_t_stat": -0.1374,
+      "n_quarters": 18,
+      "spread_t_stat": -0.0443,
       "verdict": "FAIL"
     },
     {
       "metric": "earnings_beat_roc_auc",
-      "value": 0.511,
+      "value": 0.5471,
       "threshold": 0.6,
       "pass": false,
-      "n_obs": 187,
-      "n_beat": 150,
-      "n_miss": 37,
+      "n_obs": 262,
+      "n_beat": 213,
+      "n_miss": 49,
       "verdict": "FAIL"
     },
     {
-      "verdict": "MISSING_DAY9",
-      "pass": false
+      "metric": "cross_llm_full_3vendor_coverage",
+      "n_full_3vendor": 1726,
+      "n_sample": 1874,
+      "pct_full": 92.1,
+      "threshold_pct": 80.0,
+      "pass": true,
+      "verdict": "PASS"
     }
   ],
   "n_main3_fail": 3,

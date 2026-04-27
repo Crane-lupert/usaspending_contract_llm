@@ -1,10 +1,10 @@
 {
   "section_4_4_contamination": {
     "cutoff_date": "2026-01-01T00:00:00",
-    "n_pre_cutoff": 721,
+    "n_pre_cutoff": 1034,
     "n_post_cutoff": 0,
     "pre_spread": {
-      "n": 178,
+      "n": 261,
       "skipped": "qcut_failed"
     },
     "post_spread": {
@@ -22,7 +22,7 @@
     },
     "masked_axis1_accuracy_vs_oracle": {
       "anthropic/claude-opus-4.7": 0.944,
-      "anthropic/claude-sonnet-4.6": 0.889,
+      "anthropic/claude-sonnet-4.6": 0.833,
       "google/gemma-2-27b-it": 0.889
     },
     "unmasked_axis1_accuracy_vs_oracle": {
@@ -32,13 +32,13 @@
     },
     "drop_in_accuracy": {
       "anthropic/claude-opus-4.7": 0.0,
-      "anthropic/claude-sonnet-4.6": -0.056,
+      "anthropic/claude-sonnet-4.6": 0.0,
       "google/gemma-2-27b-it": 0.0
     },
     "max_drop": 0.0,
     "threshold_drop": 0.1,
     "pass": true,
-    "masked_cost_usd": 0.2007,
+    "masked_cost_usd": 0.2005,
     "interpretation": "Drop > 10pp = LLM was using firm-name shortcut; <= 10pp = decision driven by narrative content per LABELER_GUIDE."
   }
 }

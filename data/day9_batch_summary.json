@@ -1,0 +1,19 @@
+{
+  "n_sample": 1874,
+  "n_with_full_3vendor": 1726,
+  "n_with_at_least_1_vendor": 1752,
+  "n_all_3_vendors_failed": 0,
+  "by_vendor_ok": {
+    "anthropic/claude-opus-4.7": 1751,
+    "anthropic/claude-sonnet-4.6": 1751,
+    "google/gemma-2-27b-it": 1727
+  },
+  "by_vendor_err": {
+    "anthropic/claude-opus-4.7": 1,
+    "anthropic/claude-sonnet-4.6": 1,
+    "google/gemma-2-27b-it": 25
+  },
+  "total_cost_usd": 19.0006,
+  "phase1_cap": 25.0,
+  "remaining_cap": 5.9994
+}
