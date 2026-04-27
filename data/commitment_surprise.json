@@ -1,0 +1,118 @@
+{
+  "n_panel_rows": 818,
+  "n_with_commitment_surprise": 778,
+  "quintile_spread_on_surprise": {
+    "n_quarters": 11,
+    "spread_mean": 0.013707,
+    "spread_std": 0.07821,
+    "sharpe_quarterly": 0.1753,
+    "sharpe_annualized": 0.3505,
+    "t_stat": 0.5813,
+    "rows": [
+      {
+        "quarter": "2020Q3",
+        "q1_mean": -0.050766,
+        "q5_mean": -0.109967,
+        "spread": 0.0592,
+        "n_q1": 5,
+        "n_q5": 3
+      },
+      {
+        "quarter": "2020Q4",
+        "q1_mean": -0.074219,
+        "q5_mean": -0.140513,
+        "spread": 0.066294,
+        "n_q1": 4,
+        "n_q5": 1
+      },
+      {
+        "quarter": "2022Q1",
+        "q1_mean": 0.079919,
+        "q5_mean": 0.07515,
+        "spread": 0.004768,
+        "n_q1": 3,
+        "n_q5": 3
+      },
+      {
+        "quarter": "2022Q4",
+        "q1_mean": -0.040576,
+        "q5_mean": 0.093982,
+        "spread": -0.134558,
+        "n_q1": 2,
+        "n_q5": 2
+      },
+      {
+        "quarter": "2023Q1",
+        "q1_mean": 0.011758,
+        "q5_mean": 0.075363,
+        "spread": -0.063605,
+        "n_q1": 2,
+        "n_q5": 2
+      },
+      {
+        "quarter": "2023Q2",
+        "q1_mean": -0.047704,
+        "q5_mean": -0.1098,
+        "spread": 0.062096,
+        "n_q1": 2,
+        "n_q5": 1
+      },
+      {
+        "quarter": "2023Q3",
+        "q1_mean": 0.09488,
+        "q5_mean": 0.074373,
+        "spread": 0.020507,
+        "n_q1": 3,
+        "n_q5": 2
+      },
+      {
+        "quarter": "2023Q4",
+        "q1_mean": 0.0255,
+        "q5_mean": -0.118808,
+        "spread": 0.144308,
+        "n_q1": 2,
+        "n_q5": 2
+      },
+      {
+        "quarter": "2024Q1",
+        "q1_mean": 0.01593,
+        "q5_mean": 0.068774,
+        "spread": -0.052843,
+        "n_q1": 3,
+        "n_q5": 3
+      },
+      {
+        "quarter": "2024Q2",
+        "q1_mean": 0.016358,
+        "q5_mean": -0.05216,
+        "spread": 0.068518,
+        "n_q1": 3,
+        "n_q5": 3
+      },
+      {
+        "quarter": "2024Q3",
+        "q1_mean": 0.01866,
+        "q5_mean": 0.042572,
+        "spread": -0.023912,
+        "n_q1": 3,
+        "n_q5": 3
+      }
+    ]
+  },
+  "two_step_regression_on_surprise": {
+    "n_obs": 192,
+    "outcome_col": "forward_car_3m",
+    "r2_step1": 0.004441,
+    "r2_step2_surprise": 0.004447,
+    "incremental_r2_surprise": 6e-06,
+    "beta_state": -0.003954,
+    "beta_surprise": -0.000832,
+    "surprise_t_stat": -0.0336
+  },
+  "level_vs_surprise_verdict": {
+    "rule": "Level + Surprise verdict matrix per CLAUDE.md trigger #1 + #1b",
+    "level_pass": null,
+    "surprise_pass_inc_R2": null,
+    "interpretation": "If level FAIL + surprise PASS -> F1 sub-trigger #1b PASS, paper headline candidate."
+  }
+}
