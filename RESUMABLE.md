@@ -53,15 +53,37 @@ Industry pickup window narrowed from ~65% lead (2014) to ~25% lead (2024). Most 
 - `audits/self_audit_day4to7_2026-04-27.md` — 48h-kill-gate clear
 - `data/cache/llm_responses/` — 60 cached LLM responses (idempotent re-runs cost $0)
 
-## Phase 1 entry (Day 8) — what next session needs
+## Day 8 done — Phase 1 entry achieved
 
-1. **Strategic sampling expansion**: R1000 defense/IT × IS 2010-2020 + OOS 2021-2026 stratified → ~50K LLM target. Build via:
-   - `usaspending_client.search_spending_by_award` w/ start_date/end_date overrides + recipient_search_text from universe.
-   - Parallel asyncio.gather over 39 primes × cohort years.
-   - Idempotent: dedup cache means re-runs cost $0.
-2. **LLM 3-axis batch**: 50K × 3 vendors. Cost estimate at $0.004/call avg = ~$600. Way over budget. **Plan**: only 2 vendors for batch (Opus + Gemma — vendor-diversity preserved), or sample-down to 10K for IS + 10K for OOS = ~$80, or use only Sonnet 4.6 + Gemma. Need a cost / sample-size compromise — Day 8 kickoff decision.
-3. **Cohen-Coval-Malloy 2011 baseline replication**: `analysis/ccm_baseline.py` (Day 12). Free-tier WRDS or Compustat substitute (Yahoo Finance R&D ratios + manually curated state-of-HQ for the 39 primes).
-4. **Realistic execution audit core (Day 16)**: cohort-stratified naive-vs-realistic backtest + alpha-decay rolling Sharpe — this is the trigger #2 formal evaluator.
+- `src/.../strategic_sample.py`: 30 primes × 5 cohorts (2010/2014/2018/2022/2024) fetcher.
+- `data/manifest_strategic_sample.jsonl`: **8,365 parsed contracts** (parse yield 99.1%).
+- Even cohort split: 5,051 IS (2010-2018) / 3,390 OOS (2022-2024).
+- Validation batch: 50 × 3 vendors = **150/150 calls $0.575**, per-call avg $0.0038.
+
+## Phase 1 sizing finding
+
+Phase plan §1 Day 8 target "≥ 40K target queued" was set assuming unlimited LLM budget. **40K × 3 vendors = $456, far over $25 Phase 1 cap.** Re-anchored realistic LLM batch size: **2,000 contracts × 3 vendors ≈ $23** — fits exactly. The binding power metric is cross-section quintile-month n (39 primes × 17 yr × 4 quarters ≈ 2,652 cells), not raw LLM-call count.
+
+## Day 9 — what next session needs
+
+1. **Decide LLM batch scope**: (a) 2,000 × 3 vendors = $23, (b) 4,000 × 2 vendors = $30 (over cap), (c) 3,000 × 2 vendors = $23 (Opus + Gemma). Recommended (a).
+2. **Run LLM 3-axis batch on stratified subsample** of `manifest_strategic_sample.jsonl`. 5 cohorts × 30 primes × ~13 contracts per pair = 1,950 stratified.
+3. **Day 10**: mapping + earnings/CAR join.
+4. **Day 11-13**: cross-section quintile + CCM replication + incremental R².
+5. **Day 14**: Phase 1 mid-checkpoint (4 metrics).
+6. **Day 16**: trigger #2 formal evaluation (naive-vs-realistic backtest + alpha decay).
+7. **Day 17-21**: rigor + dashboard + writeup.
+
+## Resume command
+
+```
+python -m usaspending_contract_llm.resume
+pytest tests/ -v
+python -m usaspending_contract_llm.phase0_kill_gate  # re-confirm 6/6
+ls data/manifest_strategic_sample.jsonl    # 8,365 lines
+```
+
+Then proceed: `Day 9 시작` or `계속`.
 
 ## Resume command
 

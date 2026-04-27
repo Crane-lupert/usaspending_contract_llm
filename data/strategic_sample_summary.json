@@ -1,0 +1,26 @@
+{
+  "n_pair_attempted": 150,
+  "n_pair_errors": 0,
+  "n_raw_rows": 8441,
+  "n_parsed_written": 8365,
+  "manifest_path": "D:\\vscode\\usaspending_contract_llm\\data\\manifest_strategic_sample.jsonl",
+  "per_cohort": {
+    "2010": 1687,
+    "2014": 1689,
+    "2018": 1675,
+    "2022": 1707,
+    "2024": 1683
+  },
+  "per_ticker_top10": {
+    "LMT": 300,
+    "BA": 300,
+    "RTX": 300,
+    "NOC": 300,
+    "LDOS": 300,
+    "BAH": 300,
+    "GD": 300,
+    "LHX": 300,
+    "SAIC": 300,
+    "ACN": 300
+  }
+}
