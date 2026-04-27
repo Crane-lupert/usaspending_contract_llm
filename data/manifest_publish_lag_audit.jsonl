@@ -1,0 +1,26 @@
+{
+  "day3_v2_sample": {
+    "n_sampled": 20,
+    "n_no_transactions": 0,
+    "n_tx_fetch_error": 0,
+    "n_with_lag": 20,
+    "lt_24h_fraction": 0.75,
+    "lt_7d_fraction": 0.85,
+    "bin_counts": {
+      "<24h": 15,
+      "24-72h": 1,
+      "72h-7d": 1,
+      "7-30d": 0,
+      ">30d": 3
+    },
+    "bin_fractions": {
+      "<24h": 0.75,
+      "24-72h": 0.05,
+      "72h-7d": 0.05,
+      "7-30d": 0.0,
+      ">30d": 0.15
+    },
+    "trigger_2a_threshold": 0.5,
+    "trigger_2a_fired": true
+  }
+}

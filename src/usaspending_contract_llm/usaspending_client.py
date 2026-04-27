@@ -149,17 +149,24 @@ class UsaSpendingClient:
         page: int = 1,
         recipient_name: str | None = None,
         recipient_uei: str | None = None,
+        start_date: str | None = None,
+        end_date: str | None = None,
     ) -> dict:
         """POST /search/spending_by_award/
 
         Returns one page of awards under the given filters. The response shape:
             {"results": [...], "page_metadata": {"page": 1, "hasNext": true}}
+
+        start_date / end_date override the FY-derived window for date-slice
+        pagination (USAspending caps simple page/limit at ~10K records, so
+        we slice by month/quarter to fetch deep history).
         """
+        if start_date is None:
+            start_date = f"{spec.fiscal_year - 1}-10-01"
+        if end_date is None:
+            end_date = f"{spec.fiscal_year}-09-30"
         filters: dict[str, Any] = {
-            "time_period": [{
-                "start_date": f"{spec.fiscal_year - 1}-10-01",
-                "end_date":   f"{spec.fiscal_year}-09-30",
-            }],
+            "time_period": [{"start_date": start_date, "end_date": end_date}],
             "award_type_codes": list(spec.award_type_codes),
             "naics_codes": list(spec.naics_prefixes),
         }
@@ -191,9 +198,19 @@ class UsaSpendingClient:
         """GET /awards/<generated_internal_id>/  — full award detail incl. obligation text."""
         return await self._get(f"/awards/{generated_internal_id}/")
 
-    async def fetch_award_transactions(self, generated_internal_id: str) -> dict:
-        """GET /awards/<id>/transactions/ — modification timeline (program continuity axis)."""
-        return await self._get(f"/awards/{generated_internal_id}/transactions/")
+    async def fetch_award_transactions(self, generated_internal_id: str, *, limit: int = 25) -> dict:
+        """POST /transactions/  — modification timeline (program continuity axis).
+
+        Returns transactions sorted most-recent-first. Each result row has
+        action_date (per-transaction signing date), modification_number,
+        action_type / description (used for the program continuity axis).
+        """
+        return await self._post("/transactions/", {
+            "award_id": generated_internal_id,
+            "limit": limit,
+            "sort": "action_date",
+            "order": "desc",
+        })
 
 
 def iter_award_pages_sync(

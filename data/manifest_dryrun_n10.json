@@ -1,0 +1,33 @@
+{
+  "n_raw_fetched": 100,
+  "n_parsed": 100,
+  "n_skipped": 0,
+  "parse_yield_pct": 100.0,
+  "publish_lag": {
+    "n_with_lag": 100,
+    "lt_24h_fraction": 0.0,
+    "lt_7d_fraction": 0.0,
+    "bin_counts": {
+      "<24h": 0,
+      "24-72h": 0,
+      "72h-7d": 0,
+      "7-30d": 0,
+      ">30d": 100
+    },
+    "bin_fractions": {
+      "<24h": 0.0,
+      "24-72h": 0.0,
+      "72h-7d": 0.0,
+      "7-30d": 0.0,
+      ">30d": 1.0
+    }
+  },
+  "mapping": {
+    "n_mapped": 5,
+    "map_yield_pct": 5.0
+  },
+  "phase0_trigger_check": {
+    "trigger_2_n10_pipeline": "not yet measured (Day 5-7)",
+    "trigger_6_publish_lag_distribution": "FIRST MEASUREMENT"
+  }
+}
