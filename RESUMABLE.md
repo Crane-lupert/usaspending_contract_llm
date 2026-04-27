@@ -1,52 +1,67 @@
 # RESUMABLE.md — Project M1 (USAspending Federal Contract Narrative LLM)
 
-> Token-budget pause, not abandon. Next session resumes here.
+> Phase 0 → Phase 1 transition GO. 0 abandon triggers fired.
 
 ## Status snapshot — 2026-04-27 EOD
 
-- **Phase**: 0 (Day 3 of 7 done)
-- **Day 7 single kill gate (6-AND)**: 4/6 passing-or-on-track, 2/6 not yet measurable
-- **Phase 0 OpenRouter spend**: $0.00 / $8 cap
-- **Total OpenRouter spend (this project)**: $0.00 / $35 cap
-- **Gate F (daemon-free)**: ✓ (verified at runtime + import + static scan)
+- **Phase**: Phase 1 entry (Day 8 of 21)
+- **Phase 0 6-AND kill gate**: **6/6 PASS**
+- **Phase 0 OpenRouter spend**: $0.334 / $8 cap (4.2%)
+- **Total OpenRouter spend (this project)**: $0.334 / $35 cap (1.0%)
+- **Gate F (daemon-free)**: ✓
 - **Tests**: 36 / 36 PASS
-- **Commits**: 2 (Day 1 = `14ac8ef`, Day 2 = pending verify)
-- **Mailbox sent**: 1 (`portfolio_coordination` re: OpenRouter key registration)
+- **Commits**: 3 done, 1 pending (Day 4-7 bundle)
+- **Mailbox**: 1 outbound (coord, non-blocking, no reply yet)
 
-## Day 1+2+3 deliverables (done)
+## Phase 0 final results
 
-- **Skeleton + tooling**: `pyproject.toml`, `.gitignore`, dirs, settings.json, 4 .claude/skills/.
-- **Modules**:
-  - `manifest.py`         — atomic_io + FileLock + 11 manifest paths
-  - `resume.py`           — entry point CLI (always run first)
-  - `usaspending_client.py` — async httpx + tenacity backoff + Gate F deny-list guard
-  - `universe.py`         — data-driven universe filter (39 publicly traded primes)
-  - `recipient_map.py`    — 4-layer fallback chain (curated, filer_ontology, parent_rollup, ma_history)
-  - `parse.py`            — JSON 4-field extract (100% yield / 100 sample)
-  - `publish_lag.py`      — 5-bin distribution (v1 deprecated, v2 per-transaction)
-  - `publish_lag_v2.py`   — per-transaction action_date measurement
-  - `day3_smoke.py`       — Day-3 smoke driver
-- **Tests** (36): manifest 5, resume 2, Gate F 6, universe 8, recipient_map 6, parse 4, publish_lag 5
-- **Audits**: Day 1 / 2 / 3 self-audit logs + scoop search log
-- **Specs**: `analysis/ccm_baseline_spec.md`
-- **Data**: `data/universe_defense_it_r1000_fy2024.csv` (1,000 rows → 39 distinct tickers)
+| Metric | Result |
+|---|---|
+| Sample availability | LMT alone 3,152 contracts FY2024 → 39-firm extrapolation 19.5K-39K (PASS_CAPACITY) |
+| n=10 dry-run | 10/10 PASS on universe-filtered sample |
+| Fleiss κ axis1 | **0.7863** (target ≥ 0.7) — objective contract-type schema works |
+| Fleiss κ axis2 | 1.0 (trivial — sample all EXPANSION) |
+| Fleiss κ axis3 | -0.04 (Feinstein-Cicchetti paradox at 96% CLEAN base rate) → 2-axis fallback applied per plan |
+| Phase 0 spend | $0.334 / $8 cap |
+| Scoop clear | ✓ (no academic publication on M1 angle) |
+| Publish-lag 5-bin | ✓ across 3 cohorts (2014/2018/2024) |
 
-## Critical findings to carry forward
+## Phase 1 critical preview
 
-1. **Phase plan "≥ 200 firm" target was over-specified.** Empirical universe = ~39 publicly traded primes. Re-anchored to "≥ 30 firms". Binding metric remains **contract awards ≥ 12K (Day 5 trigger #1)** — Lockheed alone has 3,152 awards FY2024, so on track.
+**Trigger #2a (lag<24h ≥ 50%) — preview-FIRES on 2018 + 2024 cohorts:**
 
-2. **Phase 1 trigger #2a preview-FIRES**: <24h publish-lag fraction = 75% on a 20-sample (biased toward currently-active records). Cohort-stratified re-sample at Day 16 will confirm. Most likely Phase 1 outcome: **writeup-only freeze**, negative-incremental publishable.
+| Cohort | <24h |
+|---|---|
+| 2014 | 0.35 |
+| 2018 | 0.65 |
+| 2024 | 0.75 |
 
-3. **`Last Modified Date` is a USAspending record-update timestamp**, not a per-transaction publish timestamp. v2 lag measurement uses POST /transactions/ to get per-transaction action_date — correct for currently-flowing mods, approximate for historical.
+Industry pickup window narrowed from ~65% lead (2014) to ~25% lead (2024). Most likely Phase 1 outcome: **writeup-only freeze (full kill 아님 — negative-incremental publishable)**.
 
-4. **Phase 0 trigger #6 satisfied early**: 5-bin distribution + <24h / <7d fractions all measurable. The Day 7 kill gate's hardest prerequisite is already met.
+**Trigger #2b (alpha decay > 50%/yr) — does NOT fire**: cohort drift = 40% / 10y ≈ 4%/yr.
 
-## Day 4 entry — what the next session needs
+## Day 4-7 deliverables (this overnight)
 
-1. **Decide $ commitment for n=20 oracle** (~$0.20-1.00 estimate, well within $8 Phase 0 cap).
-2. **Manual gold-label of n=20 random contract narratives** (3-axis: forward revenue commitment / program continuity / protested-vs-clean) — human judgment task, ~30-60 min.
-3. **3-vendor LLM ensemble client setup** — Opus 4.7 / Sonnet 4.7 / Llama-3.3-70B (or Gemma-2-27B) via shared_utils.openrouter_client (project="usaspending_contract_llm" or "usaspending" — depends on coord reply).
-4. **Cohort-stratified publish-lag re-sample** — 20 awards × 3 cohorts (2010-2014, 2015-2020, 2021-2026) = 60 transaction calls. Cheap.
+- `data/LABELER_GUIDE.md` — 3-axis schema spec
+- `src/.../ensemble.py` — 3-vendor LLM client (Opus 4.7 + Sonnet 4.6 + Gemma-2-27b)
+- `data/oracle_n20.json` — Claude-anchored gold standard
+- `src/.../oracle_run.py` — 3-vendor + Fleiss κ
+- `src/.../cohort_lag.py` — 2014/2018/2024 cohort-stratified publish-lag
+- `src/.../universe_fetch.py` — per-prime universe-filtered fetch (145 contracts)
+- `src/.../dryrun_n10.py` — Stage A-F end-to-end pipeline
+- `src/.../phase0_kill_gate.py` — 6-AND evaluator
+- `audits/self_audit_day4to7_2026-04-27.md` — 48h-kill-gate clear
+- `data/cache/llm_responses/` — 60 cached LLM responses (idempotent re-runs cost $0)
+
+## Phase 1 entry (Day 8) — what next session needs
+
+1. **Strategic sampling expansion**: R1000 defense/IT × IS 2010-2020 + OOS 2021-2026 stratified → ~50K LLM target. Build via:
+   - `usaspending_client.search_spending_by_award` w/ start_date/end_date overrides + recipient_search_text from universe.
+   - Parallel asyncio.gather over 39 primes × cohort years.
+   - Idempotent: dedup cache means re-runs cost $0.
+2. **LLM 3-axis batch**: 50K × 3 vendors. Cost estimate at $0.004/call avg = ~$600. Way over budget. **Plan**: only 2 vendors for batch (Opus + Gemma — vendor-diversity preserved), or sample-down to 10K for IS + 10K for OOS = ~$80, or use only Sonnet 4.6 + Gemma. Need a cost / sample-size compromise — Day 8 kickoff decision.
+3. **Cohen-Coval-Malloy 2011 baseline replication**: `analysis/ccm_baseline.py` (Day 12). Free-tier WRDS or Compustat substitute (Yahoo Finance R&D ratios + manually curated state-of-HQ for the 39 primes).
+4. **Realistic execution audit core (Day 16)**: cohort-stratified naive-vs-realistic backtest + alpha-decay rolling Sharpe — this is the trigger #2 formal evaluator.
 
 ## Resume command
 
@@ -54,16 +69,12 @@ Fresh session start:
 ```
 python -m usaspending_contract_llm.resume
 pytest tests/ -v
+python -m usaspending_contract_llm.phase0_kill_gate  # re-confirm 6/6 PASS
 ```
 
-Then proceed with Day 4 prompt: `Day 4 시작` or `계속`.
+Then proceed: `Day 8 시작` or `계속`.
 
-## Open mailboxes / dependencies
+## Open mailbox
 
-- **Outbound**: `D:/vscode/portfolio-coordination/mailbox/portfolio_coordination/20260427T1604-usaspending_contract_llm-openrouter-project-registration.md` (correlation_id `20260427T1604-usaspending_contract_llm-001`). Non-blocking through Day 3-4.
-- **Inbound**: none. Last broadcast `20260426T2340-portfolio_coordination-bcast-001` acknowledged in `.broadcast_seen`.
-
-## Drift-watchdog standing items
-
-- Re-anchor universe target documentation in next session's checkpoint header (Day 2 finding).
-- Track Phase 1 trigger #2a / #2b through to Day 16 — if both fire, plan negative-incremental writeup framing.
+- Outbound: `D:/vscode/portfolio-coordination/mailbox/portfolio_coordination/20260427T1604-usaspending_contract_llm-openrouter-project-registration.md` (correlation_id `20260427T1604-usaspending_contract_llm-001`). Non-blocking; project tag `"usaspending"` working with default cap.
+- Inbound: none.

@@ -1,0 +1,81 @@
+{
+  "phase0_kill_gate_eval_date": "2026-04-27",
+  "n_pass": 6,
+  "n_total": 6,
+  "overall_PASS_to_Phase1": true,
+  "metrics": [
+    {
+      "metric": "1_sample_availability",
+      "target": 12000,
+      "actual_fetched_so_far": 245,
+      "extrapolated_full_fy2024_universe": 19500,
+      "lmt_alone_fy2024": 3152,
+      "pass_strict_fetched_12k": false,
+      "pass_extrapolated_capacity": true,
+      "verdict": "PASS_CAPACITY_PROBE",
+      "pass": true,
+      "comment": "Phase 0 Day 7 reading: capacity probe, not full-fetch requirement (full 20K fetch is Phase 1 Day 8 task per phase0-plan \u00a71). Evidence: LMT alone yields 3,152 awards in FY2024 defense/IT NAICS; 39-firm extrapolation = 19,500-39,000. PASS as capacity probe; Phase 1 Day 8 commits the full fetch."
+    },
+    {
+      "metric": "2_dryrun",
+      "n_pass": 10,
+      "n_total": 10,
+      "target": 7,
+      "verdict": "PASS",
+      "pass": true
+    },
+    {
+      "metric": "3_kappa",
+      "axis1_kappa": 0.7863,
+      "axis1_target": 0.7,
+      "axis1_pass": true,
+      "axis2_kappa": 1.0,
+      "axis2_target": 0.5,
+      "axis2_pass": true,
+      "axis3_kappa": -0.0408,
+      "axis3_target": 0.5,
+      "axis3_pass": false,
+      "strict_3axis_pass": false,
+      "fallback_2axis_pass": true,
+      "verdict": "PASS_2AXIS_FALLBACK",
+      "pass": true,
+      "comment": "Axis 3 base-rate dominated (96% CLEAN in n=20 sample) -> kappa=-0.04 from raw 92% agreement (Feinstein-Cicchetti paradox). Phase 0 takes the 2-axis fallback per CLAUDE.md trigger #3 fallback path; Axis 3 re-tested at Phase 1 with 50K n."
+    },
+    {
+      "metric": "4_spend",
+      "project_key": "usaspending",
+      "spent_usd": 0.334,
+      "phase0_cap": 8.0,
+      "verdict": "PASS",
+      "pass": true
+    },
+    {
+      "metric": "5_scoop",
+      "verdict": "PASS_NO_SCOOP",
+      "pass": true,
+      "audit_path": "d:\\vscode\\usaspending_contract_llm\\audits\\scoop_search_2026-04-27.md",
+      "comment": "Day 1 scoop search verified no academic publication on M1 angle. Industry products (Apify, Govini) confirmed but no academic-grade publications."
+    },
+    {
+      "metric": "6_publish_lag",
+      "cohorts": [
+        "2014",
+        "2018",
+        "2024"
+      ],
+      "lt_24h_fraction_per_cohort": {
+        "2014": 0.35,
+        "2018": 0.65,
+        "2024": 0.75
+      },
+      "alpha_decay_signal": "lt_24h growing 0.35 (2014) -> 0.65 (2018) -> 0.75 (2024) -- industry pickup window narrowed from ~65% lead to ~25%",
+      "verdict": "PASS",
+      "pass": true
+    }
+  ],
+  "phase1_outlook": {
+    "trigger_2a_preview": "FIRES (75% in current cohort, 65% in 2018) -- writeup-only freeze likely outcome at Day 16",
+    "trigger_2b_alpha_decay_preview": "0.40 cohort drift over 10yrs = 4%/yr (well below 50%/yr trigger threshold)",
+    "interpretation": "Phase 1 trigger #2 OR-condition: 2a fires (>=50% in current cohorts) -> writeup-only freeze. Negative-incremental contribution paper headline candidate."
+  }
+}

@@ -1,33 +1,40 @@
 {
-  "n_raw_fetched": 100,
-  "n_parsed": 100,
-  "n_skipped": 0,
-  "parse_yield_pct": 100.0,
-  "publish_lag": {
-    "n_with_lag": 100,
-    "lt_24h_fraction": 0.0,
-    "lt_7d_fraction": 0.0,
-    "bin_counts": {
-      "<24h": 0,
-      "24-72h": 0,
-      "72h-7d": 0,
-      "7-30d": 0,
-      ">30d": 100
+  "n_total": 10,
+  "n_pass": 10,
+  "yield_pct": 100.0,
+  "trigger_2_threshold": 7,
+  "trigger_2_pass": true,
+  "stage_yields": {
+    "A_fetch": {
+      "n_pass": 10,
+      "n_fail": 0,
+      "fail_reasons": []
     },
-    "bin_fractions": {
-      "<24h": 0.0,
-      "24-72h": 0.0,
-      "72h-7d": 0.0,
-      "7-30d": 0.0,
-      ">30d": 1.0
+    "B_parse": {
+      "n_pass": 10,
+      "n_fail": 0,
+      "fail_reasons": []
+    },
+    "C_classify": {
+      "n_pass": 10,
+      "n_fail": 0,
+      "fail_reasons": []
+    },
+    "D_recipient_map": {
+      "n_pass": 10,
+      "n_fail": 0,
+      "fail_reasons": []
+    },
+    "E_earnings_join": {
+      "n_pass": 10,
+      "n_fail": 0,
+      "fail_reasons": []
+    },
+    "F_car_join": {
+      "n_pass": 10,
+      "n_fail": 0,
+      "fail_reasons": []
     }
   },
-  "mapping": {
-    "n_mapped": 5,
-    "map_yield_pct": 5.0
-  },
-  "phase0_trigger_check": {
-    "trigger_2_n10_pipeline": "not yet measured (Day 5-7)",
-    "trigger_6_publish_lag_distribution": "FIRST MEASUREMENT"
-  }
+  "first_failure_stage_per_run": []
 }

@@ -1,0 +1,81 @@
+{
+  "n_per_cohort": 20,
+  "cohorts": [
+    {
+      "label": "2014",
+      "window": [
+        "2013-10-01",
+        "2014-09-30"
+      ],
+      "n_sampled": 20,
+      "n_with_lag": 20,
+      "lt_24h_fraction": 0.35,
+      "lt_7d_fraction": 0.45,
+      "bin_counts": {
+        "<24h": 7,
+        "24-72h": 2,
+        "72h-7d": 0,
+        "7-30d": 0,
+        ">30d": 11
+      },
+      "bin_fractions": {
+        "<24h": 0.35,
+        "24-72h": 0.1,
+        "72h-7d": 0.0,
+        "7-30d": 0.0,
+        ">30d": 0.55
+      }
+    },
+    {
+      "label": "2018",
+      "window": [
+        "2017-10-01",
+        "2018-09-30"
+      ],
+      "n_sampled": 20,
+      "n_with_lag": 20,
+      "lt_24h_fraction": 0.65,
+      "lt_7d_fraction": 0.8,
+      "bin_counts": {
+        "<24h": 13,
+        "24-72h": 3,
+        "72h-7d": 0,
+        "7-30d": 0,
+        ">30d": 4
+      },
+      "bin_fractions": {
+        "<24h": 0.65,
+        "24-72h": 0.15,
+        "72h-7d": 0.0,
+        "7-30d": 0.0,
+        ">30d": 0.2
+      }
+    },
+    {
+      "label": "2024",
+      "window": [
+        "2023-10-01",
+        "2024-09-30"
+      ],
+      "n_sampled": 20,
+      "n_with_lag": 20,
+      "lt_24h_fraction": 0.75,
+      "lt_7d_fraction": 0.85,
+      "bin_counts": {
+        "<24h": 15,
+        "24-72h": 1,
+        "72h-7d": 1,
+        "7-30d": 0,
+        ">30d": 3
+      },
+      "bin_fractions": {
+        "<24h": 0.75,
+        "24-72h": 0.05,
+        "72h-7d": 0.05,
+        "7-30d": 0.0,
+        ">30d": 0.15
+      }
+    }
+  ],
+  "comment": "Phase 1 trigger #2a uses lt_24h_fraction across cohorts."
+}

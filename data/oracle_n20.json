@@ -1,0 +1,232 @@
+{
+  "_meta": {
+    "n": 20,
+    "anchor_labeler": "claude (overnight session, 2026-04-27)",
+    "rules": "data/LABELER_GUIDE.md",
+    "sample_method": "random.sample(seed=42, k=20) over data/manifest_parse.jsonl (n=100)",
+    "purpose": "n=20 oracle gold standard for Phase 0 trigger #3 Fleiss kappa. Cross-vendor 3-vendor ensemble compared to oracle for accuracy + each-vs-each kappa.",
+    "comment": "Most Day-3 random sample is routine procurement (small-dollar BPA calls / DOs / POs against existing vehicles) -> EXPANSION + CLEAN dominant. Axis 1 has FFP / IDIQ_CEILING / COST_PLUS variation -- that's where kappa is binding."
+  },
+  "items": [
+    {
+      "i": 0,
+      "contract_id": "CONT_AWD_80NSSC24FB214_8000_NNG15SC82B_8000",
+      "label": {
+        "axis1_forward_revenue_commitment": "IDIQ_CEILING",
+        "axis2_program_continuity": "EXPANSION",
+        "axis3_protested_vs_clean": "CLEAN",
+        "confidence": 0.85,
+        "reasoning": "A1: DELIVERY ORDER -> IDIQ_CEILING (fallback). A2: new DO -> EXPANSION. A3: $34K micro -> CLEAN."
+      }
+    },
+    {
+      "i": 1,
+      "contract_id": "CONT_AWD_75N93023C00045_7529_-NONE-_-NONE-",
+      "label": {
+        "axis1_forward_revenue_commitment": "FFP",
+        "axis2_program_continuity": "EXPANSION",
+        "axis3_protested_vs_clean": "CLEAN",
+        "confidence": 0.6,
+        "reasoning": "A1: DEFINITIVE + no explicit cost-plus cue -> FFP fallback (NIH R&D often cost-plus in practice but narrative opaque). A2: new -> EXPANSION. A3: $4.7M -> CLEAN."
+      }
+    },
+    {
+      "i": 2,
+      "contract_id": "CONT_AWD_70FA3021F00000190_7022_75N98119D00058_752",
+      "label": {
+        "axis1_forward_revenue_commitment": "IDIQ_CEILING",
+        "axis2_program_continuity": "EXPANSION",
+        "axis3_protested_vs_clean": "CLEAN",
+        "confidence": 0.85,
+        "reasoning": "A1: DELIVERY ORDER -> IDIQ. A2: new DO -> EXPANSION. A3: $13M routine support svc -> CLEAN."
+      }
+    },
+    {
+      "i": 3,
+      "contract_id": "CONT_AWD_75N98024F00022_7529_75N98022A00040_7529",
+      "label": {
+        "axis1_forward_revenue_commitment": "IDIQ_CEILING",
+        "axis2_program_continuity": "EXPANSION",
+        "axis3_protested_vs_clean": "CLEAN",
+        "confidence": 0.9,
+        "reasoning": "A1: BPA CALL -> IDIQ. A2: new -> EXPANSION. A3: $499K small -> CLEAN."
+      }
+    },
+    {
+      "i": 4,
+      "contract_id": "CONT_AWD_70CMSW23C00000035_7012_-NONE-_-NONE-",
+      "label": {
+        "axis1_forward_revenue_commitment": "FFP",
+        "axis2_program_continuity": "EXPANSION",
+        "axis3_protested_vs_clean": "CLEAN",
+        "confidence": 0.7,
+        "reasoning": "A1: DEFINITIVE, no explicit cost-plus cue -> FFP fallback. A2: new -> EXPANSION. A3: $2.86M routine support -> CLEAN."
+      }
+    },
+    {
+      "i": 5,
+      "contract_id": "CONT_AWD_140M0124P0023_1435_-NONE-_-NONE-",
+      "label": {
+        "axis1_forward_revenue_commitment": "FFP",
+        "axis2_program_continuity": "EXPANSION",
+        "axis3_protested_vs_clean": "CLEAN",
+        "confidence": 0.95,
+        "reasoning": "A1: PURCHASE ORDER -> FFP. A2: new -> EXPANSION. A3: $103K small -> CLEAN."
+      }
+    },
+    {
+      "i": 6,
+      "contract_id": "CONT_AWD_19AQMM24F1317_1900_19AQMM18D0086_1900",
+      "label": {
+        "axis1_forward_revenue_commitment": "IDIQ_CEILING",
+        "axis2_program_continuity": "EXPANSION",
+        "axis3_protested_vs_clean": "CLEAN",
+        "confidence": 0.7,
+        "reasoning": "A1: DELIVERY ORDER under existing IDIQ -> IDIQ_CEILING. A2: new DO -> EXPANSION. A3: $91.6M State IT modernization but DO under existing IDIQ -> CLEAN (already-competed)."
+      }
+    },
+    {
+      "i": 7,
+      "contract_id": "CONT_AWD_75N93024F00256_7529_GS07F0564X_4732",
+      "label": {
+        "axis1_forward_revenue_commitment": "IDIQ_CEILING",
+        "axis2_program_continuity": "EXPANSION",
+        "axis3_protested_vs_clean": "CLEAN",
+        "confidence": 0.9,
+        "reasoning": "A1: DELIVERY ORDER -> IDIQ. A2: new -> EXPANSION. A3: $11K micro -> CLEAN."
+      }
+    },
+    {
+      "i": 8,
+      "contract_id": "CONT_AWD_N0025324P5004_9700_-NONE-_-NONE-",
+      "label": {
+        "axis1_forward_revenue_commitment": "FFP",
+        "axis2_program_continuity": "EXPANSION",
+        "axis3_protested_vs_clean": "CLEAN",
+        "confidence": 0.9,
+        "reasoning": "A1: PURCHASE ORDER -> FFP. A2: new -> EXPANSION. A3: $68K small -> CLEAN."
+      }
+    },
+    {
+      "i": 9,
+      "contract_id": "CONT_AWD_80GSFC21C0004_8000_-NONE-_-NONE-",
+      "label": {
+        "axis1_forward_revenue_commitment": "COST_PLUS",
+        "axis2_program_continuity": "EXPANSION",
+        "axis3_protested_vs_clean": "CLEAN",
+        "confidence": 0.7,
+        "reasoning": "A1: NASA SPAN-AI flight instrument R&D, 'directly responsible for all phases' -> COST_PLUS (NASA major instrument standard contract type). A2: new -> EXPANSION. A3: NASA sole-source instrument -> CLEAN."
+      }
+    },
+    {
+      "i": 10,
+      "contract_id": "CONT_AWD_80MSFC20C0015_8000_-NONE-_-NONE-",
+      "label": {
+        "axis1_forward_revenue_commitment": "COST_PLUS",
+        "axis2_program_continuity": "EXPANSION",
+        "axis3_protested_vs_clean": "CLEAN",
+        "confidence": 0.7,
+        "reasoning": "A1: NASA AR12 applied space R&D, 'capture requirements / initiate long-lead procurement' -> LOE / COST_PLUS. A2: new -> EXPANSION. A3: $3.23M NASA R&D -> CLEAN."
+      }
+    },
+    {
+      "i": 11,
+      "contract_id": "CONT_AWD_75N90019F00026_7529_GS07F0597T_4730",
+      "label": {
+        "axis1_forward_revenue_commitment": "IDIQ_CEILING",
+        "axis2_program_continuity": "EXPANSION",
+        "axis3_protested_vs_clean": "CLEAN",
+        "confidence": 0.9,
+        "reasoning": "A1: DELIVERY ORDER -> IDIQ. A2: new -> EXPANSION. A3: $100K small -> CLEAN."
+      }
+    },
+    {
+      "i": 12,
+      "contract_id": "CONT_AWD_2091JB24F00089_2050_70B04C19D00000020_701",
+      "label": {
+        "axis1_forward_revenue_commitment": "IDIQ_CEILING",
+        "axis2_program_continuity": "EXPANSION",
+        "axis3_protested_vs_clean": "CLEAN",
+        "confidence": 0.85,
+        "reasoning": "A1: DELIVERY ORDER -> IDIQ. A2: new -> EXPANSION. A3: $27.4M routine equipment purchase under existing IDIQ -> CLEAN."
+      }
+    },
+    {
+      "i": 13,
+      "contract_id": "CONT_AWD_80NSSC24PB169_8000_-NONE-_-NONE-",
+      "label": {
+        "axis1_forward_revenue_commitment": "FFP",
+        "axis2_program_continuity": "EXPANSION",
+        "axis3_protested_vs_clean": "CLEAN",
+        "confidence": 0.95,
+        "reasoning": "A1: PURCHASE ORDER, annual service plan -> FFP. A2: new -> EXPANSION. A3: $16K micro -> CLEAN."
+      }
+    },
+    {
+      "i": 14,
+      "contract_id": "CONT_AWD_HHSF223201310561G_7524_GS10F0097L_4730",
+      "label": {
+        "axis1_forward_revenue_commitment": "IDIQ_CEILING",
+        "axis2_program_continuity": "EXPANSION",
+        "axis3_protested_vs_clean": "CLEAN",
+        "confidence": 0.9,
+        "reasoning": "A1: DELIVERY ORDER -> IDIQ. A2: new -> EXPANSION. A3: $299K small FDA study -> CLEAN."
+      }
+    },
+    {
+      "i": 15,
+      "contract_id": "CONT_AWD_19AQMM18F3932_1900_GS35F597GA_4732",
+      "label": {
+        "axis1_forward_revenue_commitment": "IDIQ_CEILING",
+        "axis2_program_continuity": "EXPANSION",
+        "axis3_protested_vs_clean": "CLEAN",
+        "confidence": 0.7,
+        "reasoning": "A1: DELIVERY ORDER under GS35 IDIQ -> IDIQ. A2: new -> EXPANSION. A3: $72M State FR system tech refresh, but under existing IDIQ -> CLEAN (already-competed vehicle)."
+      }
+    },
+    {
+      "i": 16,
+      "contract_id": "CONT_AWD_75D30121C11011_7523_-NONE-_-NONE-",
+      "label": {
+        "axis1_forward_revenue_commitment": "FFP",
+        "axis2_program_continuity": "EXPANSION",
+        "axis3_protested_vs_clean": "CLEAN",
+        "confidence": 0.7,
+        "reasoning": "A1: DEFINITIVE, web design/dev support, no explicit cost-plus cue -> FFP fallback. A2: new -> EXPANSION. A3: $7M routine IT -> CLEAN."
+      }
+    },
+    {
+      "i": 17,
+      "contract_id": "CONT_AWD_693KA921F00161_6920_693KA918A00221_6920",
+      "label": {
+        "axis1_forward_revenue_commitment": "IDIQ_CEILING",
+        "axis2_program_continuity": "EXPANSION",
+        "axis3_protested_vs_clean": "CLEAN",
+        "confidence": 0.9,
+        "reasoning": "A1: BPA CALL -> IDIQ. A2: new -> EXPANSION. A3: $8.37M FAA support BPA call -> CLEAN."
+      }
+    },
+    {
+      "i": 18,
+      "contract_id": "CONT_AWD_140D0426F8031_1406_NNG15SD38B_8000",
+      "label": {
+        "axis1_forward_revenue_commitment": "IDIQ_CEILING",
+        "axis2_program_continuity": "EXPANSION",
+        "axis3_protested_vs_clean": "CLEAN",
+        "confidence": 0.9,
+        "reasoning": "A1: DELIVERY ORDER -> IDIQ. A2: new -> EXPANSION. A3: $68K micro Granicus subscription -> CLEAN."
+      }
+    },
+    {
+      "i": 19,
+      "contract_id": "CONT_AWD_75N90020P00290_7529_-NONE-_-NONE-",
+      "label": {
+        "axis1_forward_revenue_commitment": "FFP",
+        "axis2_program_continuity": "EXPANSION",
+        "axis3_protested_vs_clean": "CLEAN",
+        "confidence": 0.95,
+        "reasoning": "A1: PURCHASE ORDER -> FFP. A2: new -> EXPANSION. A3: $24K micro -> CLEAN."
+      }
+    }
+  ]
+}
