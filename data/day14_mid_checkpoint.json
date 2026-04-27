@@ -6,30 +6,30 @@
     {
       "metric": "incremental_R2",
       "outcome_used": "forward_car_3m",
-      "value": 0.036613,
+      "value": 4e-06,
       "threshold": 0.05,
       "pass": false,
-      "n_obs": 97,
-      "commitment_t_stat": -1.9122,
+      "n_obs": 178,
+      "commitment_t_stat": 0.0266,
       "verdict": "FAIL"
     },
     {
       "metric": "quintile_sharpe_annualized",
-      "value": 1.0349,
+      "value": -0.0666,
       "threshold": 0.3,
-      "pass": true,
-      "n_quarters": 12,
-      "spread_t_stat": 1.7926,
-      "verdict": "PASS"
+      "pass": false,
+      "n_quarters": 17,
+      "spread_t_stat": -0.1374,
+      "verdict": "FAIL"
     },
     {
       "metric": "earnings_beat_roc_auc",
-      "value": 0.5877,
+      "value": 0.511,
       "threshold": 0.6,
       "pass": false,
-      "n_obs": 97,
-      "n_beat": 76,
-      "n_miss": 21,
+      "n_obs": 187,
+      "n_beat": 150,
+      "n_miss": 37,
       "verdict": "FAIL"
     },
     {
@@ -37,7 +37,7 @@
       "pass": false
     }
   ],
-  "n_main3_fail": 2,
-  "verdict": "TIGHTEN_RETEST_2_OF_3_FAIL",
-  "next_action": "Tighten data joins + re-test once. If still 2/3 fail -> ABANDONED.md."
+  "n_main3_fail": 3,
+  "verdict": "HARD_KILL_TRIGGER1_FIRES",
+  "next_action": "ABANDONED.md. Project freezes. Postmortem report."
 }

@@ -1,0 +1,44 @@
+{
+  "section_4_4_contamination": {
+    "cutoff_date": "2026-01-01T00:00:00",
+    "n_pre_cutoff": 721,
+    "n_post_cutoff": 0,
+    "pre_spread": {
+      "n": 178,
+      "skipped": "qcut_failed"
+    },
+    "post_spread": {
+      "n": 0,
+      "skipped": "too_small"
+    },
+    "interpretation": "If pre-cutoff |spread| >> post-cutoff |spread|, this flags potential LLM contamination (training-data leakage). Direction-stable + magnitude-similar = contamination unlikely."
+  },
+  "section_4_5_masking": {
+    "n_oracle_items": 20,
+    "n_evaluated": {
+      "anthropic/claude-opus-4.7": 18,
+      "anthropic/claude-sonnet-4.6": 18,
+      "google/gemma-2-27b-it": 18
+    },
+    "masked_axis1_accuracy_vs_oracle": {
+      "anthropic/claude-opus-4.7": 0.944,
+      "anthropic/claude-sonnet-4.6": 0.889,
+      "google/gemma-2-27b-it": 0.889
+    },
+    "unmasked_axis1_accuracy_vs_oracle": {
+      "anthropic/claude-opus-4.7": 0.944,
+      "anthropic/claude-sonnet-4.6": 0.833,
+      "google/gemma-2-27b-it": 0.889
+    },
+    "drop_in_accuracy": {
+      "anthropic/claude-opus-4.7": 0.0,
+      "anthropic/claude-sonnet-4.6": -0.056,
+      "google/gemma-2-27b-it": 0.0
+    },
+    "max_drop": 0.0,
+    "threshold_drop": 0.1,
+    "pass": true,
+    "masked_cost_usd": 0.2007,
+    "interpretation": "Drop > 10pp = LLM was using firm-name shortcut; <= 10pp = decision driven by narrative content per LABELER_GUIDE."
+  }
+}

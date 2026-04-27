@@ -1,30 +1,30 @@
 {
   "deflated_sharpe": {
-    "sr_observed": 1.0349,
+    "sr_observed": -0.0666,
     "n_trials": 9,
-    "n": 12,
+    "n": 17,
     "expected_max_sr_null": 1.5208,
-    "sr_threshold_null": 0.439,
-    "z": 1.9763,
-    "psr": 0.9759,
-    "dsr_pass_p05": true
+    "sr_threshold_null": 0.3688,
+    "z": -1.7418,
+    "psr": 0.0408,
+    "dsr_pass_p05": false
   },
   "newey_west_lag4": {
-    "n": 12,
+    "n": 17,
     "lags": 4,
-    "mean": 0.037578,
-    "nw_variance": 0.000908,
-    "nw_se": 0.008697,
-    "nw_t": 4.3207
+    "mean": -0.005264,
+    "nw_variance": 0.023563,
+    "nw_se": 0.03723,
+    "nw_t": -0.1414
   },
   "cluster_bootstrap": {
-    "n_quarters": 12,
-    "obs_mean": 0.037578,
-    "obs_t": 1.7926,
-    "boot_se": 0.020398,
+    "n_quarters": 17,
+    "obs_mean": -0.005264,
+    "obs_t": -0.1374,
+    "boot_se": 0.037322,
     "boot_ci95": [
-      -0.003277,
-      0.076681
+      -0.077647,
+      0.067058
     ],
     "boot_excludes_zero": false
   },

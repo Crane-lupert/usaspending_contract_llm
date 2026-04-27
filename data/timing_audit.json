@@ -1,0 +1,16 @@
+{
+  "naive_sharpe_annualized": -0.0666,
+  "naive_t_stat": -0.1374,
+  "n_quarters": 17,
+  "cohort_lt_24h": {
+    "2014": 0.35,
+    "2018": 0.65,
+    "2024": 0.75
+  },
+  "pooled_lt_24h_fraction": 0.5833,
+  "realistic_sharpe_pooled": -0.0278,
+  "realistic_sharpe_2024_only": -0.0167,
+  "realistic_t_pooled": -0.0572,
+  "delta_sharpe_naive_minus_pooled": -0.0389,
+  "interpretation": "First-order industry-absorption haircut: realistic-Sharpe = naive-Sharpe x (1 - lt_24h_fraction). Cohort-pooled lt_24h = 58.33%. Naive-vs-realistic gap = -0.0389. Note: this is a proxy. True per-award realistic backtest needs the publish_date stamp on each award + price tick at publish."
+}

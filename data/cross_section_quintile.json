@@ -1,111 +1,151 @@
 {
-  "n_panel_rows": 382,
-  "n_distinct_tickers": 24,
-  "n_distinct_quarters": 96,
-  "n_with_car": 98,
+  "n_panel_rows": 719,
+  "n_distinct_tickers": 28,
+  "n_distinct_quarters": 99,
+  "n_with_car": 177,
   "spread_summary": {
-    "n_quarters": 12,
-    "spread_mean": 0.037578,
-    "spread_std": 0.072619,
-    "sharpe_quarterly": 0.5175,
-    "sharpe_annualized": 1.0349,
-    "t_stat": 1.7926,
+    "n_quarters": 17,
+    "spread_mean": -0.005264,
+    "spread_std": 0.157973,
+    "sharpe_quarterly": -0.0333,
+    "sharpe_annualized": -0.0666,
+    "t_stat": -0.1374,
     "rows": [
       {
         "quarter": "2020Q3",
-        "q1_mean": -0.105336,
-        "q5_mean": -0.050019,
-        "spread": -0.055317,
+        "q1_mean": -0.107912,
+        "q5_mean": -0.050712,
+        "spread": -0.0572,
+        "n_q1": 2,
+        "n_q5": 3
+      },
+      {
+        "quarter": "2020Q4",
+        "q1_mean": -0.105832,
+        "q5_mean": -0.136756,
+        "spread": 0.030924,
         "n_q1": 1,
         "n_q5": 2
       },
       {
-        "quarter": "2020Q4",
-        "q1_mean": 0.007002,
-        "q5_mean": -0.140513,
-        "spread": 0.147515,
+        "quarter": "2021Q1",
+        "q1_mean": -0.051266,
+        "q5_mean": 0.047014,
+        "spread": -0.09828,
+        "n_q1": 2,
+        "n_q5": 1
+      },
+      {
+        "quarter": "2021Q2",
+        "q1_mean": 0.272681,
+        "q5_mean": -0.097122,
+        "spread": 0.369803,
         "n_q1": 1,
         "n_q5": 1
       },
       {
         "quarter": "2021Q3",
-        "q1_mean": 0.010669,
-        "q5_mean": 0.059498,
-        "spread": -0.048829,
+        "q1_mean": 0.074707,
+        "q5_mean": 0.05255,
+        "spread": 0.022157,
+        "n_q1": 3,
+        "n_q5": 3
+      },
+      {
+        "quarter": "2021Q4",
+        "q1_mean": -0.054634,
+        "q5_mean": 0.098157,
+        "spread": -0.15279,
         "n_q1": 2,
-        "n_q5": 2
+        "n_q5": 1
       },
       {
         "quarter": "2022Q1",
-        "q1_mean": 0.251389,
-        "q5_mean": 0.113142,
-        "spread": 0.138248,
-        "n_q1": 2,
-        "n_q5": 2
+        "q1_mean": 0.079919,
+        "q5_mean": 0.136257,
+        "spread": -0.056339,
+        "n_q1": 3,
+        "n_q5": 3
       },
       {
         "quarter": "2022Q2",
-        "q1_mean": 0.05907,
-        "q5_mean": 0.003188,
-        "spread": 0.055882,
+        "q1_mean": 0.007392,
+        "q5_mean": 0.010689,
+        "spread": -0.003297,
+        "n_q1": 3,
+        "n_q5": 3
+      },
+      {
+        "quarter": "2022Q3",
+        "q1_mean": 0.054035,
+        "q5_mean": 0.067916,
+        "spread": -0.013881,
+        "n_q1": 4,
+        "n_q5": 4
+      },
+      {
+        "quarter": "2022Q4",
+        "q1_mean": -0.082595,
+        "q5_mean": 0.331049,
+        "spread": -0.413643,
         "n_q1": 2,
         "n_q5": 1
       },
       {
-        "quarter": "2022Q3",
-        "q1_mean": 0.055862,
-        "q5_mean": 0.0852,
-        "spread": -0.029338,
+        "quarter": "2023Q1",
+        "q1_mean": 0.011758,
+        "q5_mean": 0.135147,
+        "spread": -0.123388,
         "n_q1": 2,
         "n_q5": 2
       },
       {
-        "quarter": "2023Q1",
-        "q1_mean": -0.024052,
-        "q5_mean": 0.025714,
-        "spread": -0.049766,
-        "n_q1": 1,
-        "n_q5": 1
+        "quarter": "2023Q2",
+        "q1_mean": -0.024962,
+        "q5_mean": -0.089449,
+        "spread": 0.064487,
+        "n_q1": 2,
+        "n_q5": 2
       },
       {
         "quarter": "2023Q3",
-        "q1_mean": 0.122866,
-        "q5_mean": 0.022742,
-        "spread": 0.100124,
-        "n_q1": 2,
-        "n_q5": 1
+        "q1_mean": 0.068646,
+        "q5_mean": 0.01836,
+        "spread": 0.050286,
+        "n_q1": 3,
+        "n_q5": 2
       },
       {
         "quarter": "2023Q4",
         "q1_mean": 0.04856,
-        "q5_mean": -0.045201,
-        "spread": 0.093761,
+        "q5_mean": -0.016611,
+        "spread": 0.065171,
         "n_q1": 2,
         "n_q5": 1
       },
       {
         "quarter": "2024Q1",
-        "q1_mean": 0.084928,
-        "q5_mean": 0.058243,
-        "spread": 0.026686,
+        "q1_mean": 0.155782,
+        "q5_mean": 0.012554,
+        "spread": 0.143228,
         "n_q1": 2,
-        "n_q5": 2
+        "n_q5": 3
       },
       {
         "quarter": "2024Q2",
-        "q1_mean": 0.041159,
-        "q5_mean": -0.000211,
-        "spread": 0.04137,
-        "n_q1": 2,
-        "n_q5": 2
+        "q1_mean": 0.016358,
+        "q5_mean": -0.007071,
+        "spread": 0.023428,
+        "n_q1": 3,
+        "n_q5": 3
       },
       {
         "quarter": "2024Q3",
-        "q1_mean": 0.054932,
-        "q5_mean": 0.024329,
-        "spread": 0.030603,
-        "n_q1": 2,
-        "n_q5": 2
+        "q1_mean": 0.01866,
+        "q5_mean": -0.041191,
+        "spread": 0.059852,
+        "n_q1": 3,
+        "n_q5": 3
       }
     ]
   }
