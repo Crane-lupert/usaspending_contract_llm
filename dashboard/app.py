@@ -112,28 +112,51 @@ def page_5_methodology() -> None:
     st.header("Page 5 — Methodology + limits")
     st.markdown(
         """
-**Reframing 2026-04-27**: alpha-discovery + §4 robustness.
-Single hard kill = ALL 3 main-effect metrics AND fail (incremental R² < 5%
-AND ROC-AUC < 0.6 AND quintile Sharpe < 0.3).
+## Final verdict
 
-**Limits**:
-- yfinance free-tier earnings_dates only ~5yr history → §4.1 cohort
+**FROZEN_WITH_CAVEAT** under CLAUDE.md trigger #4 (data-validity / power).
+Both trigger #1 (HARD_KILL: ALL-3-AND main metrics fail) AND trigger #4
+(power: n_panel < 1,500 floor) fired. Under simultaneous fire the test is
+*un-decidable*; we publish methodology + null + caveat + Phase 2 path.
+
+| Metric | Value | Threshold | Verdict at n=262 |
+|---|---|---|---|
+| Incremental R² over CCM | 0.0014 | ≥ 0.05 | FAIL |
+| Quintile Sharpe (annualized) | -0.0209 | ≥ 0.30 | FAIL |
+| ROC-AUC (binary beat) | 0.5471 | ≥ 0.60 | FAIL |
+| Required n_min (CLAUDE.md §4.5.1) | 1,500-3,000 | n=262 | severely under |
+| Bailey-de Prado DSR psr | 0.059 | ≥ 0.95 | FAIL |
+| Newey-West HAC t-stat | -0.048 | ≥ 2.0 | FAIL |
+| Cluster bootstrap CI95 | [-0.060, 0.061] | excludes 0 | INCLUDES 0 |
+
+## Reproducibility
+
+- Total LLM cost: $20 / $35 cap.
+- 49 / 49 tests passing.
+- Open-source pipeline. Idempotent LLM cache (re-runs $0).
+- Data: USAspending API + yfinance free + OpenRouter pay-as-you-go.
+
+## Limits
+
+- yfinance free-tier `earnings_dates` ~5yr history → §4.1 cohort
   heterogeneity test power-limited to 2022 + 2024 cohorts; 2010/2014/2018
-  cohorts have no CAR.
-- 39-firm universe (data-driven cap from USAspending recipient pivot for
-  defense/IT NAICS); cross-section quintile = 5 buckets × 8 firms.
-- LLM training cutoff = 2026-01-01 (Anthropic Opus 4.7 / Sonnet 4.6) —
-  see §4.4 contamination check.
+  cohorts have no CAR-joined observations.
+- 39-firm publicly-traded universe (data-driven cap from USAspending recipient
+  pivot for defense/IT NAICS); cross-section quintile = 5 buckets × 5-8 firms.
+- LLM training cutoff = 2026-01-01 (Anthropic Opus 4.7 / Sonnet 4.6) — see
+  §4.4 contamination check (`data/contamination_masking.json` if available).
 - State-of-HQ for 39 primes is curated (10-K Item 1); state-level federal
   spending aggregate is rolled up from strategic sample (Phase 2 enrichment:
-  /search/spending_by_geography/).
+  `/search/spending_by_geography/`).
 
-**Not in scope** (Phase 2):
-- Subaward layer (industry products focus on prime; subaward narrative may
-  have a fresher window).
-- Real-time / streaming inference.
+## Not in scope (Phase 2 directions)
+
 - Compustat / IBES paid-tier earnings history (would extend §4.1 to all 5
-  cohorts and IBES consensus surprise instead of trailing-4Q proxy).
+  cohorts + clear the n_min ≈ 1,500 floor).
+- Subaward layer (industry products focus on prime; subaward narrative may
+  have a fresher signal window).
+- Real-time / streaming inference for true publish-event latency.
+- Schema axis-4 (small-business set-aside vs. full-and-open competition).
         """
     )
     rigor = load_json(DATA / "rigor.json")
