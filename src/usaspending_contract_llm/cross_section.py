@@ -159,10 +159,27 @@ def quintile_sort(panel: pd.DataFrame) -> pd.DataFrame:
 
 
 def join_with_car(panel: pd.DataFrame) -> pd.DataFrame:
-    """Prefer the SEC 8-K event panel (sec_event_panel.json) when available --
-    it has multi-decade coverage. Fall back to yfinance CAR (5yr cap) only if
-    the SEC panel is missing.
+    """CAR source priority (highest first):
+       1. WRDS event panel (CRSP daily + IBES anndats; multi-decade 2000+)
+       2. SEC 8-K event panel (SEC filed_date + yfinance prices; 2009+)
+       3. yfinance CAR (5yr cap)
     """
+    wrds_panel = DATA_DIR / "wrds_event_panel.json"
+    if wrds_panel.exists():
+        wrds = json.loads(wrds_panel.read_text(encoding="utf-8")).get("rows", [])
+        if wrds:
+            w_df = pd.DataFrame(wrds)
+            # Aggregate to firm-quarter (multiple announcements per quarter possible).
+            w_q = w_df.groupby(["ticker", "quarter"]).agg(
+                event_car_3d=("event_car_3d", "mean"),
+                forward_car_3m=("forward_car_3m", "mean"),
+                surprise_z=("surprise_z", "mean"),
+            ).reset_index()
+            return panel.merge(
+                w_q[["ticker", "quarter", "event_car_3d", "forward_car_3m", "surprise_z"]],
+                on=["ticker", "quarter"], how="left",
+            )
+
     sec_panel = DATA_DIR / "sec_event_panel.json"
     if sec_panel.exists():
         sec = json.loads(sec_panel.read_text(encoding="utf-8")).get("rows", [])

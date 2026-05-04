@@ -3,50 +3,59 @@
   "section_4_1_cohort_heterogeneity": {
     "by_cohort": [
       {
+        "cohort_fy": 2010,
+        "n_rows": 78,
+        "n_paired_q": 6,
+        "spread_mean": -0.123772,
+        "spread_std": 0.128356,
+        "sharpe_quarterly": -0.9643,
+        "sharpe_annualized": -1.9286
+      },
+      {
         "cohort_fy": 2014,
-        "n_rows": 72,
-        "n_paired_q": 7,
-        "spread_mean": 0.023937,
-        "spread_std": 0.138983,
-        "sharpe_quarterly": 0.1722,
-        "sharpe_annualized": 0.3445
+        "n_rows": 135,
+        "n_paired_q": 10,
+        "spread_mean": 0.031142,
+        "spread_std": 0.178362,
+        "sharpe_quarterly": 0.1746,
+        "sharpe_annualized": 0.3492
       },
       {
         "cohort_fy": 2018,
-        "n_rows": 125,
-        "n_paired_q": 11,
-        "spread_mean": 0.01918,
-        "spread_std": 0.103135,
-        "sharpe_quarterly": 0.186,
-        "sharpe_annualized": 0.3719
+        "n_rows": 152,
+        "n_paired_q": 12,
+        "spread_mean": 0.041125,
+        "spread_std": 0.097826,
+        "sharpe_quarterly": 0.4204,
+        "sharpe_annualized": 0.8408
       },
       {
         "cohort_fy": 2022,
-        "n_rows": 119,
+        "n_rows": 120,
         "n_paired_q": 9,
-        "spread_mean": -0.044217,
-        "spread_std": 0.257021,
-        "sharpe_quarterly": -0.172,
-        "sharpe_annualized": -0.3441
+        "spread_mean": -0.029049,
+        "spread_std": 0.291718,
+        "sharpe_quarterly": -0.0996,
+        "sharpe_annualized": -0.1992
       },
       {
         "cohort_fy": 2024,
-        "n_rows": 289,
-        "n_paired_q": 22,
-        "spread_mean": 0.03332,
-        "spread_std": 0.12986,
-        "sharpe_quarterly": 0.2566,
-        "sharpe_annualized": 0.5132
+        "n_rows": 312,
+        "n_paired_q": 23,
+        "spread_mean": 0.029881,
+        "spread_std": 0.125619,
+        "sharpe_quarterly": 0.2379,
+        "sharpe_annualized": 0.4757
       }
     ]
   },
   "section_4_1_alpha_decay_summary": {
-    "earliest_cohort": 2014,
-    "earliest_sharpe": 0.3445,
+    "earliest_cohort": 2010,
+    "earliest_sharpe": -1.9286,
     "latest_cohort": 2024,
-    "latest_sharpe": 0.5132,
-    "delta_ratio_total": 0.4897,
-    "decay_per_year": 0.049,
+    "latest_sharpe": 0.4757,
+    "delta_ratio_total": 1.2467,
+    "decay_per_year": 0.089,
     "phase1_trigger_2b_decay_50pct_per_year": false
   },
   "interpretation": "If sharpe_annualized declines from earliest to latest cohort, this is the \u00a74.1 *positive identification result* of industry absorption (Cotropia 2017 USPTO pattern). Direction matters more than magnitude for the \u00a74 framing."

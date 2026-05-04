@@ -29,32 +29,34 @@ IBES_STATSUMU = WRDS_DUMP_ROOT / "tr_ibes.statsumu_epsus.csv.gz"
 IBES_ACTXEPS = WRDS_DUMP_ROOT / "tr_ibes.act_xepsus.csv.gz"
 
 
+IBES_NDET = WRDS_DUMP_ROOT / "tr_ibes.ndet_epsus.csv.gz"
+
+
 @lru_cache(maxsize=1)
 def _ibes_con() -> duckdb.DuckDBPyConnection:
-    """Local DuckDB connection with permissive views for IBES (ignore_errors)."""
+    """Local DuckDB connection with permissive views for IBES (ignore_errors).
+
+    `ndet_epsus` (35M rows) is the analyst-detail file — has both `value`
+    (estimate) and `actual` (EPS reported). `statsumu_epsus` is pre-aggregated
+    consensus. `act_xepsus` covers non-EPS measures (sales, BPS, etc.).
+    """
     con = duckdb.connect()
-    con.execute(f"""
-        CREATE VIEW ibes_statsumu AS
-        SELECT * FROM read_csv(
-            '{IBES_STATSUMU.as_posix()}',
-            ignore_errors = true,
-            strict_mode = false,
-            null_padding = true,
-            header = true,
-            all_varchar = false
-        )
-    """)
-    con.execute(f"""
-        CREATE VIEW ibes_actxeps AS
-        SELECT * FROM read_csv(
-            '{IBES_ACTXEPS.as_posix()}',
-            ignore_errors = true,
-            strict_mode = false,
-            null_padding = true,
-            header = true,
-            all_varchar = false
-        )
-    """)
+    for name, path in [
+        ("ibes_statsumu", IBES_STATSUMU),
+        ("ibes_actxeps",  IBES_ACTXEPS),
+        ("ibes_ndet",     IBES_NDET),
+    ]:
+        con.execute(f"""
+            CREATE VIEW {name} AS
+            SELECT * FROM read_csv(
+                '{path.as_posix()}',
+                ignore_errors = true,
+                strict_mode = false,
+                null_padding = true,
+                header = true,
+                all_varchar = false
+            )
+        """)
     return con
 
 

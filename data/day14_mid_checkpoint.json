@@ -6,30 +6,30 @@
     {
       "metric": "incremental_R2",
       "outcome_used": "forward_car_3m",
-      "value": 0.000414,
+      "value": 6e-05,
       "threshold": 0.05,
       "pass": false,
-      "n_obs": 606,
-      "commitment_t_stat": 0.4999,
+      "n_obs": 797,
+      "commitment_t_stat": -0.219,
       "verdict": "FAIL"
     },
     {
       "metric": "quintile_sharpe_annualized",
-      "value": -0.2138,
+      "value": -0.2014,
       "threshold": 0.3,
       "pass": false,
-      "n_quarters": 50,
-      "spread_t_stat": -0.756,
+      "n_quarters": 66,
+      "spread_t_stat": -0.8181,
       "verdict": "FAIL"
     },
     {
       "metric": "earnings_beat_roc_auc",
-      "value": 0.5471,
+      "value": 0.5161,
       "threshold": 0.6,
       "pass": false,
-      "n_obs": 262,
-      "n_beat": 213,
-      "n_miss": 49,
+      "n_obs": 797,
+      "n_beat": 468,
+      "n_miss": 329,
       "verdict": "FAIL"
     },
     {

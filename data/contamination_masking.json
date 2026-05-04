@@ -4,7 +4,7 @@
     "n_pre_cutoff": 1034,
     "n_post_cutoff": 0,
     "pre_spread": {
-      "n": 605,
+      "n": 797,
       "skipped": "qcut_failed"
     },
     "post_spread": {
@@ -38,7 +38,7 @@
     "max_drop": 0.0,
     "threshold_drop": 0.1,
     "pass": true,
-    "masked_cost_usd": 0.2016,
+    "masked_cost_usd": 0.2001,
     "interpretation": "Drop > 10pp = LLM was using firm-name shortcut; <= 10pp = decision driven by narrative content per LABELER_GUIDE."
   }
 }

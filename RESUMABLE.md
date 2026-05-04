@@ -1,12 +1,16 @@
 # RESUMABLE.md — Project M1 (USAspending Federal Contract Narrative LLM)
 
-> ⚠️ **2026-04-28 FROZEN — pending paid-data-vendor decision** ⚠️
+> 🔒 **2026-05-04 CLOSED — HARD_KILL_FINAL** 🔒
 >
-> See [FREEZE_NOTICE.md](./FREEZE_NOTICE.md) and [FROZEN_WITH_CAVEAT.md](./FROZEN_WITH_CAVEAT.md). Project paused at commit `a801933` (Gate F LIFTED state). Resume conditional on portfolio-coordination paid-vendor decision (FMP / WRDS / stay-free + §12 alternatives). See `D:/vscode/meta-harness/audits/2026-04-28-M1-paid-data-vendor-needs.md` §13 decision tree.
+> See [HARD_KILL_FINAL.md](./HARD_KILL_FINAL.md). WRDS recovery (Day 1-2) completed; 3-of-3 main metrics fail cleaner-null at proper power (n_obs 262 → 797, n_q 18 → 66). Trigger #4 power-caveat that produced FROZEN_WITH_CAVEAT no longer applies. ABANDONED.md (commit `0b48e6f`) is now canonical.
+>
+> No resume planned. No paper_v2 (QR Scout objective = ship working alpha). Repo preserved as audit trail.
+>
+> Meta-harness audit: `D:/vscode/meta-harness/audits/2026-05-04-M1-recovery-results-verdict-reframe.md`.
 >
 > ---
 >
-> Phase 0 → Phase 1 transition GO. 0 abandon triggers fired.
+> Phase 0 → Phase 1 transition GO. 0 abandon triggers fired (Phase 0 6/6 PASS); Phase 1 trigger #1 fired clean at WRDS-power.
 
 ## Status snapshot — 2026-04-27 EOD
 

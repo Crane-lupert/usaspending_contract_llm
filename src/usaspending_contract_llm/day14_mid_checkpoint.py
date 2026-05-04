@@ -72,32 +72,39 @@ def metric_quintile_sharpe() -> dict:
 def metric_roc_auc_proxy() -> dict:
     """ROC-AUC for binary EPS-beat prediction using commitment_score_norm.
 
-    Without the live LLM batch this can run on the firm-quarter panel + earnings
-    surprise sign. We compute Mann-Whitney U / 2 = AUC.
+    Surprise source priority: WRDS event panel (multi-decade IBES) > yfinance.
     """
     from .cross_section import build_firm_quarter_panel
     panel = build_firm_quarter_panel()
     if panel.empty:
         return {"verdict": "MISSING", "pass": False}
-    if not EARNINGS_JSON.exists():
-        return {"verdict": "MISSING_EARNINGS", "pass": False}
-    earnings = json.loads(EARNINGS_JSON.read_text(encoding="utf-8"))
-    rows: list[dict] = []
-    for ticker, ers in earnings.items():
-        if not ers or "error" in ers[0]:
-            continue
-        for r in ers:
-            if r.get("surprise_pct") is None:
-                continue
-            try:
-                import pandas as pd
-                ts = pd.Timestamp(r["earnings_date"])
-                quarter = str(ts.tz_localize(None).to_period("Q") if ts.tzinfo else ts.to_period("Q"))
-            except Exception:
-                continue
-            rows.append({"ticker": ticker, "quarter": quarter, "surprise_pct": r["surprise_pct"]})
     import pandas as pd
-    surprise_df = pd.DataFrame(rows)
+
+    wrds_panel_p = DATA_DIR / "wrds_event_panel.json"
+    surprise_df = pd.DataFrame()
+    if wrds_panel_p.exists():
+        wrds = json.loads(wrds_panel_p.read_text(encoding="utf-8")).get("rows", [])
+        if wrds:
+            w_df = pd.DataFrame(wrds)
+            surprise_df = w_df.groupby(["ticker", "quarter"]).agg(
+                surprise_pct=("surprise_pct", "mean"),
+            ).reset_index()
+    if surprise_df.empty and EARNINGS_JSON.exists():
+        earnings = json.loads(EARNINGS_JSON.read_text(encoding="utf-8"))
+        rows: list[dict] = []
+        for ticker, ers in earnings.items():
+            if not ers or "error" in ers[0]:
+                continue
+            for r in ers:
+                if r.get("surprise_pct") is None:
+                    continue
+                try:
+                    ts = pd.Timestamp(r["earnings_date"])
+                    quarter = str(ts.tz_localize(None).to_period("Q") if ts.tzinfo else ts.to_period("Q"))
+                except Exception:
+                    continue
+                rows.append({"ticker": ticker, "quarter": quarter, "surprise_pct": r["surprise_pct"]})
+        surprise_df = pd.DataFrame(rows)
     if surprise_df.empty:
         return {"verdict": "MISSING_SURPRISE", "pass": False}
     merged = panel.merge(surprise_df, on=["ticker", "quarter"], how="inner")
