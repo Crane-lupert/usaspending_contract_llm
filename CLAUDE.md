@@ -1,6 +1,8 @@
 # Project M1 — USAspending Federal Contract Narrative LLM
 
-> USAspending.gov federal contract obligation text (정부 contract description 자유 텍스트) × multi-vendor LLM ensemble × forward revenue commitment 추출 → defense/IT contractor next quarter earnings surprise 사전 예측. **β2 frozen 후 swap 1순위 launch 2026-04-27**. **PURE daemon-free** (Gate F ✓), **discovery-form** (Gate G ✓).
+> **2026-05-04 RECOVERY LAUNCH** — Recovery Phase 0 active. 2026-04-28 freeze (yfinance ~5yr earnings cap, n=262 << 1,500 floor) cleared via WRDS courier (CRSP `dsf`/`stkdlysecuritydata` + IBES `statsumu_epsus`/`act_xepsus`). Gate F **LIFTED** (commit `a801933`); now also CRSP/IBES via WRDS. CCM blocked → ticker-CUSIP-PERMNO chain via `dseall` substitute (no CCM linktable needed). Existing assets (paper_v1.md + dashboard + 49 tests + cached LLM 3-axis κ_axis1=0.7863) lift 80%+. See `RECOVERY_PHASE0.md`.
+>
+> Original launch context: USAspending.gov federal contract obligation text × multi-vendor LLM ensemble × forward revenue commitment 추출 → defense/IT contractor next quarter earnings surprise 사전 예측. β2 frozen 후 swap 1순위 launch 2026-04-27. ~~**PURE daemon-free** (Gate F ✓)~~ Gate F LIFTED 2026-04-28 + WRDS access 2026-05-04. **Discovery-form** (Gate G ✓).
 >
 > Reference validation: `d:/vscode/meta-harness/audits/2026-04-27-usaspending-contract-reference-validation.md`. Phase 0 plan: `d:/vscode/meta-harness/audits/2026-04-27-project-usaspending-contract-phase0-plan.md` (366줄). Overnight prompt v4: `d:/vscode/meta-harness/audits/2026-04-27-project-usaspending-contract-overnight-start-prompt.md` (208줄).
 
